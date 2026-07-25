@@ -105,19 +105,16 @@ document.getElementById("whatsappForm").addEventListener("submit", function(e) {
     const name = document.getElementById("name").value.trim();
     const mobile = document.getElementById("mobile").value.trim();
     const service = document.getElementById("service").value.trim();
+    const digits = mobile.replace(/\D/g, "");
 
-    const whatsappNumber = "919552877322"; // Country code +91
+    if (!name || !service || digits.length < 10 || digits.length > 13) {
+        alert("Please enter your name, a valid mobile number, and the service you require.");
+        return;
+    }
 
-    const message =
-`Hello,
-
-I would like to enquire about your services.
-
-Name: ${name}
-Mobile: ${mobile}
-Service: ${service}`;
-
-    const url = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
+    const whatsappNumber = "919552877322";
+    const message = `Hello,%0A%0AI would like to enquire about your services.%0A%0AName: ${encodeURIComponent(name)}%0AContact: ${encodeURIComponent(mobile)}%0AService: ${encodeURIComponent(service)}`;
+    const url = `https://wa.me/${whatsappNumber}?text=${message}`;
 
     window.open(url, "_blank");
 });

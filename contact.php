@@ -53,35 +53,34 @@
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-contact-3-item text-center">
                      <div class="tp-contact-3-icon">
-                        <span><img class="z-index" src="assets/img/contact/icon-1.png" alt="" loading="lazy"></span>
+                        <span><img class="z-index" src="assets/img/contact/icon-1.png" alt="Location icon" loading="lazy"></span>
                      </div>
                      <div class="tp-contact-3-text">
                         <h5 class="tp-contact-3-title">Visit our place</h5>
-                        <a href="#">Ground Floor, Gate No: 2075, Kude Farm, Old Pune-Mumbai Highway Opps. Vakratunda Tyres, Vadgaon, Maval, Pune - 412106.</a>
+                        <a href="https://www.google.com/maps/search/?api=1&query=Ground+Floor,+Gate+No:+2075,+Kude+Farm,+Old+Pune-Mumbai+Highway,+Opp.+Vakratunda+Tyres,+Vadgaon,+Maval,+Pune+412106" target="_blank" rel="noopener noreferrer">Ground Floor, Gate No: 2075, Kude Farm, Old Pune-Mumbai Highway, Opp. Vakratunda Tyres, Vadgaon, Maval, Pune - 412106.</a>
                      </div>
                   </div>
                </div>
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
                   <div class="tp-contact-3-item text-center">
                      <div class="tp-contact-3-icon">
-                        <span><img class="z-index" src="assets/img/contact/icon-2.png" alt="" loading="lazy"></span>
+                        <span><img class="z-index" src="assets/img/contact/icon-2.png" alt="Contact icon" loading="lazy"></span>
                      </div>
                      <div class="tp-contact-3-text">
                         <h5 class="tp-contact-3-title">Contact us</h5>
                         <a href="mailto:Chaitrakt.marketing@gmail.com">Chaitrakt.marketing@gmail.com</a> <br>
-                        <a href="tel:+91 9552 877 322">+91 9552 877 322</a>
+                        <a href="tel:+919552877322">+91 9552 877 322</a>
                      </div>
                   </div>
                </div>
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".7s">
                   <div class="tp-contact-3-item text-center">
                      <div class="tp-contact-3-icon">
-                        <span><img class="z-index" src="assets/img/contact/icon-3.png" alt="" loading="lazy"></span>
+                        <span><img class="z-index" src="assets/img/contact/icon-3.png" alt="Office hours icon" loading="lazy"></span>
                      </div>
                      <div class="tp-contact-3-text">
                         <h5 class="tp-contact-3-title">Office time</h5>
-                        <a href="#">Six days 9:00 am -  5:30 pm <br>
-                           Sunday is closed</a>
+                        <p>Six days 9:00 am – 5:30 pm<br>Sunday is closed</p>
                      </div>
                   </div>
                </div>

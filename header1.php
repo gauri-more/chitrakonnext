@@ -1,17 +1,15 @@
 <!doctype html>
-<html class="no-js" lang="zxx">
+<html class="no-js" lang="en">
 
 <head>
    <meta charset="utf-8">
    <meta http-equiv="x-ua-compatible" content="ie=edge">
 <title>CKT - Chaitra Konnex Technology</title>
-   <meta name="description" content="">
+   <meta name="description" content="CKT is a trusted Indian manufacturer of wire harness assemblies, component supply, and electrical interconnect solutions for automotive, EV, defence, industrial, and appliance applications.">
    <meta name="viewport" content="width=device-width, initial-scale=1">
 
    <!-- Place favicon.ico in the root directory -->
-   <link rel="shortcut icon" type="image/x-icon" href="assets/images/	
-favicon.ico">
-
+   <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico">
    <!-- CSS here -->
    <link rel="stylesheet" href="assets/css/bootstrap.css">
    <link rel="stylesheet" href="assets/css/animate.css">
@@ -218,9 +216,7 @@ favicon.ico">
                <div class="search__wrapper">
                   <div class="search__top d-flex justify-content-between align-items-center">
                      <div class="search__logo">
-                        <a href="index.php">
-                            <a href="index.php"><img src="assets/images/white-logo.png" alt="" loading="lazy"></a>
-                        </a>
+                        <a href="index.php"><img src="assets/images/white-logo.png" alt="CKT logo" loading="lazy"></a>
                      </div>
                      <div class="search__close">
                         <button type="button" class="search__close-btn search-close-btn">
@@ -235,7 +231,7 @@ favicon.ico">
                      </div>
                   </div>
                   <div class="search__form">
-                     <form action="#">
+                     <form action="search.php">
                         <div class="search__input">
                            <input class="search-input-field" type="text" placeholder="Type here to search...">
                            <span class="search-focus-border"></span>
@@ -406,8 +402,7 @@ industrial, and electrical applications.</p>
             <ul>
                <li>
                   <i class="fa-light fa-location-dot"></i>
-                  <a href="https://www.google.com/maps/@23.8223586,90.3661283,15z" target="_blank">Ground Floor, Gate No: 2075, Kude Farm, Old Pune-Mumbai
-                  Highway Opps. Vakratunda Tyres, Vadgaon, Maval, Pune - 412106.</a>
+                  <a href="https://www.google.com/maps/search/?api=1&query=Ground+Floor,+Gate+No:+2075,+Kude+Farm,+Old+Pune-Mumbai+Highway,+Opp.+Vakratunda+Tyres,+Vadgaon,+Maval,+Pune+412106" target="_blank" rel="noopener noreferrer">Ground Floor, Gate No: 2075, Kude Farm, Old Pune-Mumbai Highway, Opp. Vakratunda Tyres, Vadgaon, Maval, Pune - 412106.</a>
                </li>
                <li>
                   <i class="fas fa-envelope"></i>
@@ -415,7 +410,7 @@ industrial, and electrical applications.</p>
                </li>
                <li>
                   <i class="fal fa-phone-alt"></i>
-                  <a href="tel:+48555223224">+91 9552 877 322</a>
+                  <a href="tel:+919552877322">+91 9552 877 322</a>
                </li>
             </ul>
          </div>
@@ -438,7 +433,7 @@ industrial, and electrical applications.</p>
                <!--<a href="#"><i class="fab fa-instagram"></i></a>-->
                <!--<a href="#"><i class="fab fa-facebook-f"></i></a>-->
                <!--<a href="#"><i class="fab fa-pinterest-p"></i></a>-->
-                <a href="https://www.linkedin.com/company/105155808/admin/page-posts/published/"  target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
+                <a href="https://www.linkedin.com/company/105155808/" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin-in"></i></a>
             </div>
          </div>
       </div>
@@ -456,7 +451,7 @@ industrial, and electrical applications.</p>
                      <ul>
                         <li>
                            <i class="flaticon-pin"></i>
-                           <a href="#">Ground Floor, Gate No: 2075, Kude Farm, Old Pune-Mumbai Highway Opps. Vakratunda Tyres, Vadgaon, Maval, Pune - 412106.</a>
+                           <a href="https://www.google.com/maps/search/?api=1&query=Ground+Floor,+Gate+No:+2075,+Kude+Farm,+Old+Pune-Mumbai+Highway,+Opp.+Vakratunda+Tyres,+Vadgaon,+Maval,+Pune+412106" target="_blank" rel="noopener noreferrer">Ground Floor, Gate No: 2075, Kude Farm, Old Pune-Mumbai Highway, Opp. Vakratunda Tyres, Vadgaon, Maval, Pune - 412106.</a>
                         </li>
                        
                      </ul>
@@ -473,7 +468,7 @@ industrial, and electrical applications.</p>
                            <div class="tp-header-top-right-social">
                               <!--<a href="#"><i class="fa-brands fa-facebook-f"></i></a>-->
                               <!--<a href="#"><i class="fa-brands fa-instagram"></i></a>-->
-                              <a href="https://www.linkedin.com/company/105155808/admin/page-posts/published/"  target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
+                              <a href="https://www.linkedin.com/company/105155808/" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin-in"></i></a>
                               <!--<a href="#"><i class="fa-brands fa-twitter"></i></a>-->
                            </div>
                         </li>
