@@ -1,10 +1,10 @@
-﻿<?php include 'header.php'; ?>
+<?php include 'header.php'; ?>
 
 
    <main>
 
       <!-- breadcrumb area start -->
-          <div class="breadcrumb__area breadcrumb__overlay breadcrumb__height p-relative fix" data-background="assets/Images/breadcrumb.jpg">
+          <div class="breadcrumb__area breadcrumb__overlay breadcrumb__height p-relative fix" data-background="assets/images/breadcrumb.jpg">
          <div class="container">
             <div class="row">
                <div class="col-xxl-12">

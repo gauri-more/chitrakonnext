@@ -1,4 +1,4 @@
-﻿
+
    <footer>
 
       <!-- footer area start -->
@@ -14,7 +14,7 @@
                <div class="col-xl-5 col-lg-5 col-md-6 col-sm-6 mb-50 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-footer-widget footer-cols-1">
                      <div class="tp-footer-logo">
-                        <a href="index.php"><img src="assets/Images/ckt-white-logo-new.png" alt="logo"  loading="lazy"></a>
+                        <a href="index.php"><img src="assets/images/ckt-white-logo-new.png" alt="logo"  loading="lazy"></a>
                      </div>
                      <div class="tp-footer-text">
                       <p>
@@ -77,7 +77,7 @@ industrial, and electrical applications. We are committed to delivering quality 
             <div class="row align-items-center">
                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-copyright-left text-center text-md-start">
-               <p style="color: #ccc;">Â© Copyright <?php echo date('Y'); ?> Chaitra Konnex Technology (CKT). All Rights Reserved.</p>
+               <p style="color: #ccc;">© Copyright <?php echo date('Y'); ?> Chaitra Konnex Technology (CKT). All Rights Reserved.</p>
                   </div>
                </div>
                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">

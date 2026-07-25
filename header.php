@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html class="no-js" lang="zxx">
 
 <head>
@@ -21,7 +21,7 @@
     <link rel="canonical" href="https://www.chaitrakonnex.com/">
 
     <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="assets/Images/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="assets/images/favicon.ico">
 
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.css">
@@ -88,7 +88,7 @@
             </div>
             <div class="tpoffcanvas__logo">
                 <a href="index.php">
-                    <img src="assets/Images/ckt-white-logo-new.png" alt="" loading="lazy">
+                    <img src="assets/images/ckt-white-logo-new.png" alt="" loading="lazy">
                 </a>
             </div>
             <div class="tpoffcanvas__title">
@@ -148,7 +148,7 @@
                     <div class="col-xxl-2 col-xl-2 col-lg-4 col-md-4 col-6">
                         <div class="tp-header-logo">
                             <a href="index.php">
-                                <img src="assets/Images/ckt-logo.png" alt="CKT Logo" style="" loading="lazy">
+                                <img src="assets/images/ckt-logo.png" alt="CKT Logo" style="" loading="lazy">
                             </a>
                         </div>
                     </div>
@@ -228,7 +228,7 @@
 
                 <div class="modal-header text-white" style="    background: linear-gradient(45deg, #25d366, #25d366);">
                     <h4 class="modal-title">
-                        Hi there! ðŸ‘‹
+                        Hi there! 👋
                     </h4>
 
                     <button type="button" class="btn-close" data-bs-dismiss="modal"></button>

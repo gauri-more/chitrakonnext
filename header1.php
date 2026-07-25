@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html class="no-js" lang="zxx">
 
 <head>
@@ -9,7 +9,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1">
 
    <!-- Place favicon.ico in the root directory -->
-   <link rel="shortcut icon" type="image/x-icon" href="assets/Images/	
+   <link rel="shortcut icon" type="image/x-icon" href="assets/images/	
 favicon.ico">
 
    <!-- CSS here -->
@@ -149,7 +149,7 @@ favicon.ico">
 }
 
 .tp-main-menu-mobile .open > a:after{
-    content:"âˆ’";
+    content:"−";
 }
 .product-mega-menu .menu-box {
     width: 100%;
@@ -219,7 +219,7 @@ favicon.ico">
                   <div class="search__top d-flex justify-content-between align-items-center">
                      <div class="search__logo">
                         <a href="index.php">
-                            <a href="index.php"><img src="assets/Images/white-logo.png" alt="" loading="lazy"></a>
+                            <a href="index.php"><img src="assets/images/white-logo.png" alt="" loading="lazy"></a>
                         </a>
                      </div>
                      <div class="search__close">
@@ -268,7 +268,7 @@ favicon.ico">
          </div>
          <div class="tpoffcanvas__logo">
             <a href="index.php">
-                     <img src="assets/Images/ckt-white-logo-new.png" alt="" loading="lazy">
+                     <img src="assets/images/ckt-white-logo-new.png" alt="" loading="lazy">
             </a>
          </div>
          <div class="tpoffcanvas__title">
@@ -492,7 +492,7 @@ industrial, and electrical applications.</p>
                <div class="col-xxl-2 col-xl-2 col-lg-4 col-md-4 col-6">
     <div class="tp-header-logo">
         <a href="index.php">
-            <img src="assets/Images/ckt-logo.png" alt="CKT Logo" style="height:55px;" loading="lazy">
+            <img src="assets/images/ckt-logo.png" alt="CKT Logo" style="height:55px;" loading="lazy">
         </a>
     </div>
 </div>
@@ -598,7 +598,7 @@ industrial, and electrical applications.</p>
 
             <div class="modal-header text-white" style="    background: linear-gradient(45deg, #25d366, #25d366);">
                 <h4 class="modal-title">
-                    Hi there! Ã°Å¸â€˜â€¹
+                    Hi there! ðŸ‘‹
                 </h4>
 
                 <button type="button" class="btn-close"

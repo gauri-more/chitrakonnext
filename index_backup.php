@@ -1,4 +1,4 @@
-﻿<?php include 'header.php'; ?>
+<?php include 'header.php'; ?>
 <style>
 .gradient-title {
     background: linear-gradient(90deg, #e65c00 0%, #f47c20 40%, #ff9800 70%, #ffc107 100%);
@@ -267,7 +267,7 @@
         Your browser does not support the video tag.
     </video>
 </div>
-                          <!--<div class="tp-slider-bg" data-background="assets/Images/slider-1-1.webp"></div>-->
+                          <!--<div class="tp-slider-bg" data-background="assets/images/slider-1-1.webp"></div>-->
                         <div class="container z-index-5">
                            <div class="row">
                               <div class="col-xl-8 col-lg-8">
@@ -309,7 +309,7 @@
 <!--        Your browser does not support the video tag.-->
 <!--    </video>-->
 <!--</div>-->
-                       <!--<div class="tp-slider-bg" data-background="assets/Images/ckt-2.jpg"></div>-->
+                       <!--<div class="tp-slider-bg" data-background="assets/images/ckt-2.jpg"></div>-->
                                           <div class="tp-slider-bg">
     <video class="slider-video" autoplay muted loop playsinline>
         <source src="assets/videos/ckt-banner-gif.mov" type="video/mp4">
@@ -463,7 +463,7 @@
                <div class="col-xl-6 col-lg-6 mb-50 wow tpfadeRight" data-wow-duration=".9s" data-wow-delay=".5s">
                   <div class="tp-about-4-right-box">
                      <div class="tp-about-4-thumb mb-30">
-                        <img src="assets/Images/ckt-1.jpg" alt="" loading="lazy">
+                        <img src="assets/images/ckt-1.jpg" alt="" loading="lazy">
                      </div>
                      <div class="tp-about-4-content d-flex align-items-center justify-content-between mr-0">
                         <div class="tp-about-4-mission-box">
@@ -557,7 +557,7 @@
                <div class="col-xl-4 col-lg-4 wow tpfadeRight" data-wow-duration=".9s" data-wow-delay=".7s">
                   <div class="tp-about-right-box p-relative text-end">
                      <div class="tp-about-main-thumb">
-                        <img src="assets/Images/about-wire-harness.jpg" alt="" loading="lazy">
+                        <img src="assets/images/about-wire-harness.jpg" alt="" loading="lazy">
                      </div>
                      <!--<div class="tp-about-thumb-sm">-->
                      
@@ -879,7 +879,7 @@
         <!-- tp-feature-area-start -->
       <div class="tp-feature-area body-bg-6 p-relative z-index-1 pt-60 d-none">
          <img class="tp-feature-6-shape" src="assets/img/update/feature/shape.png" alt="" loading="lazy">
-         <img class="tp-feature-6-shape-2" src="assets/Images/shape-2.webp" alt="" loading="lazy">
+         <img class="tp-feature-6-shape-2" src="assets/images/shape-2.webp" alt="" loading="lazy">
          <div class="container">
             <div class="row">
                <div class="col-12">
@@ -984,7 +984,7 @@
                                 </p>
 
                                 <div class="revenue">
-                                    Revenue : â‚¹14 Lakhs
+                                    Revenue : ₹14 Lakhs
                                 </div>
 
                             </div>
@@ -1010,7 +1010,7 @@
                                 </p>
 
                                 <div class="revenue">
-                                    Revenue : â‚¹37 Lakhs
+                                    Revenue : ₹37 Lakhs
                                 </div>
 
                             </div>
@@ -1037,7 +1037,7 @@
                                 </p>
 
                                 <div class="revenue">
-                                    Revenue : â‚¹93 Lakhs
+                                    Revenue : ₹93 Lakhs
                                 </div>
 
                             </div>
@@ -1063,7 +1063,7 @@
                                 </p>
 
                                 <div class="revenue">
-                                    Revenue : â‚¹98 Lakhs
+                                    Revenue : ₹98 Lakhs
                                 </div>
 
                             </div>
@@ -1089,7 +1089,7 @@
                                 </p>
 
                                 <div class="revenue">
-                                    Target : â‚¹1.4 Crore
+                                    Target : ₹1.4 Crore
                                 </div>
 
                             </div>
@@ -1111,11 +1111,11 @@
 
                                 <p>
                                     Started supplying Military & Defence Wire Harnesses
-                                    with a projected revenue target of â‚¹3 Crore.
+                                    with a projected revenue target of ₹3 Crore.
                                 </p>
 
                                 <div class="revenue">
-                                    Target : â‚¹3 Crore
+                                    Target : ₹3 Crore
                                 </div>
 
                             </div>
@@ -1157,7 +1157,7 @@
                 Company registered with GST, IEC & FF International account.
                 Started operations from a shared office of 100 sq.ft.
             </p>
-            <div class="revenue">Revenue : â‚¹14 Lakhs</div>
+            <div class="revenue">Revenue : ₹14 Lakhs</div>
         </div>
     </div>
 
@@ -1170,7 +1170,7 @@
                 Added two component supply customers and established a
                 separate office of 100 sq.ft.
             </p>
-            <div class="revenue">Revenue : â‚¹37 Lakhs</div>
+            <div class="revenue">Revenue : ₹37 Lakhs</div>
         </div>
     </div>
 
@@ -1183,7 +1183,7 @@
                 Received the first wire harness manufacturing order from
                 TACO Tier-1 and expanded to a 200 sq.ft. manufacturing facility.
             </p>
-            <div class="revenue">Revenue : â‚¹93 Lakhs</div>
+            <div class="revenue">Revenue : ₹93 Lakhs</div>
         </div>
     </div>
 
@@ -1196,7 +1196,7 @@
                 Added two automotive customers and expanded manufacturing
                 space to 400 sq.ft.
             </p>
-            <div class="revenue">Revenue : â‚¹98 Lakhs</div>
+            <div class="revenue">Revenue : ₹98 Lakhs</div>
         </div>
     </div>
 
@@ -1209,7 +1209,7 @@
                 Established a 2,000 sq.ft. manufacturing facility for EV &
                 Solar Control Panel Wire Harnesses.
             </p>
-            <div class="revenue">Target : â‚¹1.4 Crore</div>
+            <div class="revenue">Target : ₹1.4 Crore</div>
         </div>
     </div>
 
@@ -1220,9 +1220,9 @@
             <h5>Military & Defence</h5>
             <p>
                 Started supplying Military & Defence Wire Harnesses with a
-                projected revenue target of â‚¹3 Crore.
+                projected revenue target of ₹3 Crore.
             </p>
-            <div class="revenue">Target : â‚¹3 Crore</div>
+            <div class="revenue">Target : ₹3 Crore</div>
         </div>
     </div>
 
@@ -1238,7 +1238,7 @@
          <div class="tp-choose-2-shape-2 d-none d-xxl-block">
             <img src="assets/img/choose/shape-2-2.png" alt="" loading="lazy">
          </div>
-         <div class="tp-choose-2-bg" data-background="assets/Images/why-choose-1.jpg"></div>
+         <div class="tp-choose-2-bg" data-background="assets/images/why-choose-1.jpg"></div>
          <div class="container">
             <div class="row">
                <div class="col-xl-8 col-lg-8">
@@ -1337,72 +1337,72 @@
              <!-- Original -->
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/drdo-logo.png" alt="" loading="lazy"></a>
+        <a href="#"><img src="assets/images/brand/drdo-logo.png" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/ecozen-logo-updated.png" alt="" loading="lazy"></a>
+        <a href="#"><img src="assets/images/brand/ecozen-logo-updated.png" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/SparkMindaGreenMobilitylogo.png" alt="" loading="lazy"></a>
+        <a href="#"><img src="assets/images/brand/SparkMindaGreenMobilitylogo.png" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/logo-tata-autocomp-blue.svg" alt="" loading="lazy"></a>
+        <a href="#"><img src="assets/images/brand/logo-tata-autocomp-blue.svg" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/logo-DNEmAKYs.webp" alt="" loading="lazy"></a>
+        <a href="#"><img src="assets/images/brand/logo-DNEmAKYs.webp" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/vacco-logo.png" alt="" loading="lazy"></a>
+        <a href="#"><img src="assets/images/brand/vacco-logo.png" alt="" loading="lazy"></a>
     </div>
 </div>
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/client-logo-ckt.jpg" alt="" loading="lazy"></a>
-    </div>
-</div>
-
-<div class="swiper-slide">
-    <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/ecozen-logo-updated.png" alt="" loading="lazy"></a>
+        <a href="#"><img src="assets/images/brand/client-logo-ckt.jpg" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/SparkMindaGreenMobilitylogo.png" alt="" loading="lazy"></a>
+        <a href="#"><img src="assets/images/brand/ecozen-logo-updated.png" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/logo-tata-autocomp.svg" alt="" loading="lazy"></a>
+        <a href="#"><img src="assets/images/brand/SparkMindaGreenMobilitylogo.png" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/logo-DNEmAKYs.webp" alt="" loading="lazy"></a>
+        <a href="#"><img src="assets/images/brand/logo-tata-autocomp.svg" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/vacco-logo.png" alt="" loading="lazy"></a>
+        <a href="#"><img src="assets/images/brand/logo-DNEmAKYs.webp" alt="" loading="lazy"></a>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="tp-brand-6-item">
+        <a href="#"><img src="assets/images/brand/vacco-logo.png" alt="" loading="lazy"></a>
     </div>
 </div>
 
@@ -1427,7 +1427,7 @@
                         & Engineering Solutions
                     </h4>
                     <p class="mt-3">
-                     Chaitra Konnex Technology (CKT) delivers complete wire harness solutionsâ€”from component sourcing and prototype development to precision manufacturing, industrial automation, and electro-mechanical assemblyâ€”ensuring quality, reliability, and on-time delivery.
+                     Chaitra Konnex Technology (CKT) delivers complete wire harness solutions—from component sourcing and prototype development to precision manufacturing, industrial automation, and electro-mechanical assembly—ensuring quality, reliability, and on-time delivery.
                     </p>
                 </div>
             </div>
@@ -1574,7 +1574,7 @@
                            <div class="swiper-slide">
                               <div class="tp-service-item p-relative">
                                  <div class="tp-service-thumb">
-                                   <img src="assets/Images/ev-charging.jpg" alt="" loading="lazy">
+                                   <img src="assets/images/ev-charging.jpg" alt="" loading="lazy">
                                  </div>
                                  <div class="tp-service-content-box">
                                     <div class="tp-service-content fix">
@@ -1604,7 +1604,7 @@
                            <div class="swiper-slide">
                               <div class="tp-service-item p-relative">
                                  <div class="tp-service-thumb">
-                                    <img src="assets/Images/automatic-wire-harness.jpg" alt="" loading="lazy">
+                                    <img src="assets/images/automatic-wire-harness.jpg" alt="" loading="lazy">
                                  </div>
                                  <div class="tp-service-content-box">
                                     <div class="tp-service-content fix">
@@ -1634,7 +1634,7 @@
                            <div class="swiper-slide">
                               <div class="tp-service-item p-relative">
                                  <div class="tp-service-thumb">
-                                    <img src="assets/Images/product/defence-img.jpeg" alt="" loading="lazy">
+                                    <img src="assets/images/product/defence-img.jpeg" alt="" loading="lazy">
                                  </div>
                                  <div class="tp-service-content-box">
                                     <div class="tp-service-content fix">
@@ -1664,7 +1664,7 @@
                               <div class="swiper-slide">
                               <div class="tp-service-item p-relative">
                                  <div class="tp-service-thumb">
-                                       <img src="assets/Images/LightingIndustrialHarness.jpg" alt="" loading="lazy">
+                                       <img src="assets/images/LightingIndustrialHarness.jpg" alt="" loading="lazy">
                                  </div>
                                  <div class="tp-service-content-box">
                                     <div class="tp-service-content fix">
@@ -1694,7 +1694,7 @@
                               <div class="swiper-slide">
                               <div class="tp-service-item p-relative">
                                  <div class="tp-service-thumb">
-                                    <img src="assets/Images/solare-panel-wire.jpg" alt="" loading="lazy">
+                                    <img src="assets/images/solare-panel-wire.jpg" alt="" loading="lazy">
                                  </div>
                                  <div class="tp-service-content-box">
                                     <div class="tp-service-content fix">
@@ -1724,7 +1724,7 @@
                              <div class="swiper-slide">
                               <div class="tp-service-item p-relative">
                                  <div class="tp-service-thumb">
-                                    <img src="assets/Images/custom-wire-harnesss.jpg" alt="" loading="lazy">
+                                    <img src="assets/images/custom-wire-harnesss.jpg" alt="" loading="lazy">
                                  </div>
                                  <div class="tp-service-content-box">
                                     <div class="tp-service-content fix">

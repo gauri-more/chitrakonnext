@@ -1,10 +1,10 @@
-﻿<?php include 'header.php'; ?>
+<?php include 'header.php'; ?>
 
 
    <main>
 
       <!-- breadcrumb area start -->
-           <div class="breadcrumb__area breadcrumb__overlay breadcrumb__height p-relative fix" data-background="assets/Images/breadcrumb.jpg">
+           <div class="breadcrumb__area breadcrumb__overlay breadcrumb__height p-relative fix" data-background="assets/images/breadcrumb.jpg">
          <div class="container">
             <div class="row">
                <div class="col-xxl-12">
@@ -103,7 +103,7 @@
                <div class="col-xl-6 col-lg-6 mb-50 wow tpfadeRight" data-wow-duration=".9s" data-wow-delay=".5s">
                   <div class="tp-about-4-right-box">
                      <div class="tp-about-4-thumb mb-30">
-                        <img src="assets/Images/certificate-ckt.png" alt="" loading="lazy">
+                        <img src="assets/images/certificate-ckt.png" alt="" loading="lazy">
                      </div>
                   
                   </div>

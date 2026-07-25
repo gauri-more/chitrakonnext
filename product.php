@@ -1,10 +1,10 @@
-﻿<?php include 'header.php'; ?>
+<?php include 'header.php'; ?>
 
 
    <main>
 
       <!-- breadcrumb area start -->
-                   <div class="breadcrumb__area breadcrumb__overlay breadcrumb__height p-relative fix" data-background="assets/Images/breadcrumb.jpg">
+                   <div class="breadcrumb__area breadcrumb__overlay breadcrumb__height p-relative fix" data-background="assets/images/breadcrumb.jpg">
          <div class="container">
             <div class="row">
                <div class="col-xxl-12">
@@ -60,7 +60,7 @@
 </div>
             <!-- Right Image -->
             <div class="col-lg-6 text-center">
-                <img src="assets/Images/automatic-wire-harness.jpg"
+                <img src="assets/images/automatic-wire-harness.jpg"
                      class="img-fluid rounded shadow"
                      alt="Wire harness manufacturing process at CKT"  loading="lazy">
             </div>
@@ -75,7 +75,7 @@
         <div class="row align-items-center mb-40">
             <!-- Right Image -->
             <div class="col-lg-6 text-center pr-40">
-                <img src="assets/Images/component-supply.jpg"
+                <img src="assets/images/component-supply.jpg"
                      class="img-fluid rounded "
                      alt="Electrical and electronic components supply"  loading="lazy">
             </div>

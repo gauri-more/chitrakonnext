@@ -1,10 +1,10 @@
-﻿<?php include 'header.php'; ?>
+<?php include 'header.php'; ?>
 
 
    <main>
 
       <!-- breadcrumb area start -->
-      <div class="breadcrumb__area breadcrumb__overlay breadcrumb__height p-relative fix" data-background="assets/Images/breadcrumb.jpg">
+      <div class="breadcrumb__area breadcrumb__overlay breadcrumb__height p-relative fix" data-background="assets/images/breadcrumb.jpg">
          <div class="container">
             <div class="row">
                <div class="col-xxl-12">
@@ -97,7 +97,7 @@
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-service-item p-relative">
                      <div class="tp-service-thumb">
-                        <img src="assets/Images/ev-charging.jpg" alt="" loading="lazy">
+                        <img src="assets/images/ev-charging.jpg" alt="" loading="lazy">
                      </div>
                      <div class="tp-service-content-box">
                         <div class="tp-service-content fix">
@@ -126,7 +126,7 @@
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
                   <div class="tp-service-item p-relative">
                      <div class="tp-service-thumb">
-                        <img src="assets/Images/automatic-wire-harness.jpg" alt="" loading="lazy">
+                        <img src="assets/images/automatic-wire-harness.jpg" alt="" loading="lazy">
                      </div>
                      <div class="tp-service-content-box">
                         <div class="tp-service-content fix">
@@ -155,7 +155,7 @@
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".7s">
                   <div class="tp-service-item p-relative">
                      <div class="tp-service-thumb">
-                        <img src="assets/Images/product/defence-img.jpeg" alt="" loading="lazy">
+                        <img src="assets/images/product/defence-img.jpeg" alt="" loading="lazy">
                      </div>
                      <div class="tp-service-content-box">
                         <div class="tp-service-content fix">
@@ -184,7 +184,7 @@
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".8s">
                   <div class="tp-service-item p-relative">
                      <div class="tp-service-thumb">
-                        <img src="assets/Images/solare-panel-wire.jpg" alt="" loading="lazy">
+                        <img src="assets/images/solare-panel-wire.jpg" alt="" loading="lazy">
                      </div>
                      <div class="tp-service-content-box">
                         <div class="tp-service-content fix">
@@ -213,7 +213,7 @@
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay="1s">
                   <div class="tp-service-item p-relative">
                      <div class="tp-service-thumb">
-                        <img src="assets/Images/LightingIndustrialHarness.jpg" alt="" loading="lazy">
+                        <img src="assets/images/LightingIndustrialHarness.jpg" alt="" loading="lazy">
                      </div>
                      <div class="tp-service-content-box">
                         <div class="tp-service-content fix">
@@ -242,7 +242,7 @@
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay="1.2s">
                   <div class="tp-service-item p-relative">
                      <div class="tp-service-thumb">
-                        <img src="assets/Images/custom-wire-harnesss.jpg" alt="" loading="lazy">
+                        <img src="assets/images/custom-wire-harnesss.jpg" alt="" loading="lazy">
                      </div>
                      <div class="tp-service-content-box">
                         <div class="tp-service-content fix">
@@ -283,57 +283,57 @@
                      <div class="swiper-wrapper slide-transtion">
                         <div class="swiper-slide">
                            <div class="tp-brand-6-item">
-                              <a href="#"><img src="assets/Images/brand/brand-1.png" alt="" loading="lazy"></a>
+                              <a href="#"><img src="assets/images/brand/brand-1.png" alt="" loading="lazy"></a>
                            </div>
                         </div>
                         <div class="swiper-slide">
                            <div class="tp-brand-6-item">
-                              <a href="#"><img src="assets/Images/brand/brand-2.png" alt="" loading="lazy"></a>
+                              <a href="#"><img src="assets/images/brand/brand-2.png" alt="" loading="lazy"></a>
                            </div>
                         </div>
                         <div class="swiper-slide">
                            <div class="tp-brand-6-item">
-                              <a href="#"><img src="assets/Images/brand/brand-3.png" alt="" loading="lazy"></a>
+                              <a href="#"><img src="assets/images/brand/brand-3.png" alt="" loading="lazy"></a>
                            </div>
                         </div>
                         <div class="swiper-slide">
                            <div class="tp-brand-6-item">
-                              <a href="#"><img src="assets/Images/brand/brand-4.png" alt="" loading="lazy"></a>
+                              <a href="#"><img src="assets/images/brand/brand-4.png" alt="" loading="lazy"></a>
                            </div>
                         </div>
                         <div class="swiper-slide">
                            <div class="tp-brand-6-item">
-                              <a href="#"><img src="assets/Images/brand/brand-5.png" alt="" loading="lazy"></a>
+                              <a href="#"><img src="assets/images/brand/brand-5.png" alt="" loading="lazy"></a>
                            </div>
                         </div>
                         <div class="swiper-slide">
                            <div class="tp-brand-6-item">
-                              <a href="#"><img src="assets/Images/brand/brand-6.png" alt="" loading="lazy"></a>
+                              <a href="#"><img src="assets/images/brand/brand-6.png" alt="" loading="lazy"></a>
                            </div>
                         </div>
                         <div class="swiper-slide">
                            <div class="tp-brand-6-item">
-                              <a href="#"><img src="assets/Images/brand/brand-7.png" alt="" loading="lazy"></a>
+                              <a href="#"><img src="assets/images/brand/brand-7.png" alt="" loading="lazy"></a>
                            </div>
                         </div>
                         <div class="swiper-slide">
                            <div class="tp-brand-6-item">
-                              <a href="#"><img src="assets/Images/brand/brand-8.png" alt="" loading="lazy"></a>
+                              <a href="#"><img src="assets/images/brand/brand-8.png" alt="" loading="lazy"></a>
                            </div>
                         </div>
                         <div class="swiper-slide">
                            <div class="tp-brand-6-item">
-                              <a href="#"><img src="assets/Images/brand/brand-9.png" alt="" loading="lazy"></a>
+                              <a href="#"><img src="assets/images/brand/brand-9.png" alt="" loading="lazy"></a>
                            </div>
                         </div>
                         <div class="swiper-slide">
                            <div class="tp-brand-6-item">
-                              <a href="#"><img src="assets/Images/brand/brand-10.png" alt="" loading="lazy"></a>
+                              <a href="#"><img src="assets/images/brand/brand-10.png" alt="" loading="lazy"></a>
                            </div>
                         </div>
                         <div class="swiper-slide">
                            <div class="tp-brand-6-item">
-                              <a href="#"><img src="assets/Images/brand/brand-11.png" alt="" loading="lazy"></a>
+                              <a href="#"><img src="assets/images/brand/brand-11.png" alt="" loading="lazy"></a>
                            </div>
                         </div>
                      </div>
