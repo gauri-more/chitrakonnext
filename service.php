@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+﻿<?php include 'header.php'; ?>
 
 
    <main>
@@ -82,7 +82,7 @@
       <!-- service area start -->
       <div class="tp-service-area tp-service-bg p-relative pt-40 pb-40" data-background="assets/img/service/bg-1-2.jpg">
          <div class="tp-service-shape-2 d-none d-xxl-block">
-            <img src="assets/img/service/shape-1-3.png" alt="">
+            <img src="assets/img/service/shape-1-3.png" alt="" loading="lazy">
          </div>
          <div class="container">
             <div class="row">
@@ -97,14 +97,14 @@
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-service-item p-relative">
                      <div class="tp-service-thumb">
-                        <img src="assets/Images/ev-charging.jpg" alt="">
+                        <img src="assets/Images/ev-charging.jpg" alt="" loading="lazy">
                      </div>
                      <div class="tp-service-content-box">
                         <div class="tp-service-content fix">
                            <div class="tp-service-icon p-relative">
                               <span><i class="flaticon-lamp"></i></span>
                               <div class="tp-service-icon-shape">
-                                 <img src="assets/img/service/shape-1-1.png" alt="">
+                                 <img src="assets/img/service/shape-1-1.png" alt="" loading="lazy">
                               </div>
                            </div>
                            <div class="tp-service-text pb-5">
@@ -119,21 +119,21 @@
                         </div>
                      </div>
                      <div class="tp-service-shape-1">
-                        <img src="assets/img/service/shape-1-2.png" alt="">
+                        <img src="assets/img/service/shape-1-2.png" alt="" loading="lazy">
                      </div>
                   </div>
                </div>
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
                   <div class="tp-service-item p-relative">
                      <div class="tp-service-thumb">
-                        <img src="assets/Images/automatic-wire-harness.jpg" alt="">
+                        <img src="assets/Images/automatic-wire-harness.jpg" alt="" loading="lazy">
                      </div>
                      <div class="tp-service-content-box">
                         <div class="tp-service-content fix">
                            <div class="tp-service-icon p-relative">
                               <span><i class="flaticon-air-conditioner"></i></span>
                               <div class="tp-service-icon-shape">
-                                 <img src="assets/img/service/shape-1-1.png" alt="">
+                                 <img src="assets/img/service/shape-1-1.png" alt="" loading="lazy">
                               </div>
                            </div>
                            <div class="tp-service-text pb-5">
@@ -148,21 +148,21 @@
                         </div>
                      </div>
                      <div class="tp-service-shape-1">
-                        <img src="assets/img/service/shape-1-2.png" alt="">
+                        <img src="assets/img/service/shape-1-2.png" alt="" loading="lazy">
                      </div>
                   </div>
                </div>
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".7s">
                   <div class="tp-service-item p-relative">
                      <div class="tp-service-thumb">
-                        <img src="assets/Images/product/defence-img.jpeg" alt="">
+                        <img src="assets/Images/product/defence-img.jpeg" alt="" loading="lazy">
                      </div>
                      <div class="tp-service-content-box">
                         <div class="tp-service-content fix">
                            <div class="tp-service-icon p-relative">
                               <span><i class="flaticon-ac"></i></span>
                               <div class="tp-service-icon-shape">
-                                 <img src="assets/img/service/shape-1-1.png" alt="">
+                                 <img src="assets/img/service/shape-1-1.png" alt="" loading="lazy">
                               </div>
                            </div>
                            <div class="tp-service-text pb-5">
@@ -177,21 +177,21 @@
                         </div>
                      </div>
                      <div class="tp-service-shape-1">
-                        <img src="assets/img/service/shape-1-2.png" alt="">
+                        <img src="assets/img/service/shape-1-2.png" alt="" loading="lazy">
                      </div>
                   </div>
                </div>  
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".8s">
                   <div class="tp-service-item p-relative">
                      <div class="tp-service-thumb">
-                        <img src="assets/Images/solare-panel-wire.jpg" alt="">
+                        <img src="assets/Images/solare-panel-wire.jpg" alt="" loading="lazy">
                      </div>
                      <div class="tp-service-content-box">
                         <div class="tp-service-content fix">
                            <div class="tp-service-icon p-relative">
                               <span><i class="flaticon-lamp"></i></span>
                               <div class="tp-service-icon-shape">
-                                 <img src="assets/img/service/shape-1-1.png" alt="">
+                                 <img src="assets/img/service/shape-1-1.png" alt="" loading="lazy">
                               </div>
                            </div>
                            <div class="tp-service-text pb-5">
@@ -206,21 +206,21 @@
                         </div>
                      </div>
                      <div class="tp-service-shape-1">
-                        <img src="assets/img/service/shape-1-2.png" alt="">
+                        <img src="assets/img/service/shape-1-2.png" alt="" loading="lazy">
                      </div>
                   </div>
                </div>
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay="1s">
                   <div class="tp-service-item p-relative">
                      <div class="tp-service-thumb">
-                        <img src="assets/Images/LightingIndustrialHarness.jpg" alt="">
+                        <img src="assets/Images/LightingIndustrialHarness.jpg" alt="" loading="lazy">
                      </div>
                      <div class="tp-service-content-box">
                         <div class="tp-service-content fix">
                            <div class="tp-service-icon p-relative">
                               <span><i class="flaticon-short-circuit"></i></span>
                               <div class="tp-service-icon-shape">
-                                 <img src="assets/img/service/shape-1-1.png" alt="">
+                                 <img src="assets/img/service/shape-1-1.png" alt="" loading="lazy">
                               </div>
                            </div>
                            <div class="tp-service-text pb-5">
@@ -235,21 +235,21 @@
                         </div>
                      </div>
                      <div class="tp-service-shape-1">
-                        <img src="assets/img/service/shape-1-2.png" alt="">
+                        <img src="assets/img/service/shape-1-2.png" alt="" loading="lazy">
                      </div>
                   </div>
                </div>
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay="1.2s">
                   <div class="tp-service-item p-relative">
                      <div class="tp-service-thumb">
-                        <img src="assets/Images/custom-wire-harnesss.jpg" alt="">
+                        <img src="assets/Images/custom-wire-harnesss.jpg" alt="" loading="lazy">
                      </div>
                      <div class="tp-service-content-box">
                         <div class="tp-service-content fix">
                            <div class="tp-service-icon p-relative">
                               <span><i class="flaticon-lighting"></i></span>
                               <div class="tp-service-icon-shape">
-                                 <img src="assets/img/service/shape-1-1.png" alt="">
+                                 <img src="assets/img/service/shape-1-1.png" alt="" loading="lazy">
                               </div>
                            </div>
                            <div class="tp-service-text pb-5">
@@ -264,7 +264,7 @@
                         </div>
                      </div>
                      <div class="tp-service-shape-1">
-                        <img src="assets/img/service/shape-1-2.png" alt="">
+                        <img src="assets/img/service/shape-1-2.png" alt="" loading="lazy">
                      </div>
                   </div>
                </div>  
@@ -283,57 +283,57 @@
                      <div class="swiper-wrapper slide-transtion">
                         <div class="swiper-slide">
                            <div class="tp-brand-6-item">
-                              <a href="#"><img src="assets/Images/brand/brand-1.png" alt=""></a>
+                              <a href="#"><img src="assets/Images/brand/brand-1.png" alt="" loading="lazy"></a>
                            </div>
                         </div>
                         <div class="swiper-slide">
                            <div class="tp-brand-6-item">
-                              <a href="#"><img src="assets/Images/brand/brand-2.png" alt=""></a>
+                              <a href="#"><img src="assets/Images/brand/brand-2.png" alt="" loading="lazy"></a>
                            </div>
                         </div>
                         <div class="swiper-slide">
                            <div class="tp-brand-6-item">
-                              <a href="#"><img src="assets/Images/brand/brand-3.png" alt=""></a>
+                              <a href="#"><img src="assets/Images/brand/brand-3.png" alt="" loading="lazy"></a>
                            </div>
                         </div>
                         <div class="swiper-slide">
                            <div class="tp-brand-6-item">
-                              <a href="#"><img src="assets/Images/brand/brand-4.png" alt=""></a>
+                              <a href="#"><img src="assets/Images/brand/brand-4.png" alt="" loading="lazy"></a>
                            </div>
                         </div>
                         <div class="swiper-slide">
                            <div class="tp-brand-6-item">
-                              <a href="#"><img src="assets/Images/brand/brand-5.png" alt=""></a>
+                              <a href="#"><img src="assets/Images/brand/brand-5.png" alt="" loading="lazy"></a>
                            </div>
                         </div>
                         <div class="swiper-slide">
                            <div class="tp-brand-6-item">
-                              <a href="#"><img src="assets/Images/brand/brand-6.png" alt=""></a>
+                              <a href="#"><img src="assets/Images/brand/brand-6.png" alt="" loading="lazy"></a>
                            </div>
                         </div>
                         <div class="swiper-slide">
                            <div class="tp-brand-6-item">
-                              <a href="#"><img src="assets/Images/brand/brand-7.png" alt=""></a>
+                              <a href="#"><img src="assets/Images/brand/brand-7.png" alt="" loading="lazy"></a>
                            </div>
                         </div>
                         <div class="swiper-slide">
                            <div class="tp-brand-6-item">
-                              <a href="#"><img src="assets/Images/brand/brand-8.png" alt=""></a>
+                              <a href="#"><img src="assets/Images/brand/brand-8.png" alt="" loading="lazy"></a>
                            </div>
                         </div>
                         <div class="swiper-slide">
                            <div class="tp-brand-6-item">
-                              <a href="#"><img src="assets/Images/brand/brand-9.png" alt=""></a>
+                              <a href="#"><img src="assets/Images/brand/brand-9.png" alt="" loading="lazy"></a>
                            </div>
                         </div>
                         <div class="swiper-slide">
                            <div class="tp-brand-6-item">
-                              <a href="#"><img src="assets/Images/brand/brand-10.png" alt=""></a>
+                              <a href="#"><img src="assets/Images/brand/brand-10.png" alt="" loading="lazy"></a>
                            </div>
                         </div>
                         <div class="swiper-slide">
                            <div class="tp-brand-6-item">
-                              <a href="#"><img src="assets/Images/brand/brand-11.png" alt=""></a>
+                              <a href="#"><img src="assets/Images/brand/brand-11.png" alt="" loading="lazy"></a>
                            </div>
                         </div>
                      </div>
@@ -346,3 +346,4 @@
 
    </main>
 <?php include 'footer.php'; ?>
+

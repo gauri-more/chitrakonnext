@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+﻿<?php include 'header.php'; ?>
 
 
    <main>
@@ -103,7 +103,7 @@
                <div class="col-xl-6 col-lg-6 mb-50 wow tpfadeRight" data-wow-duration=".9s" data-wow-delay=".5s">
                   <div class="tp-about-4-right-box">
                      <div class="tp-about-4-thumb mb-30">
-                        <img src="assets/Images/certificate-ckt.png" alt="">
+                        <img src="assets/Images/certificate-ckt.png" alt="" loading="lazy">
                      </div>
                   
                   </div>
@@ -173,3 +173,4 @@
   
    </main>
 <?php include 'footer.php'; ?>
+

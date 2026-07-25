@@ -1,4 +1,4 @@
-
+﻿
 <?php include 'header.php'; ?>
 
    <main>
@@ -21,15 +21,15 @@
             <div class="swiper-container tp-slider-3-active">
                <div class="swiper-wrapper">
                   <div class="tp-slider-3-shape-2 d-none d-sm-block">
-                     <img src="assets/img/hero/shape-3-2.png" alt="">
+                     <img src="assets/img/hero/shape-3-2.png" alt="" loading="lazy">
                   </div>
                   <div class="tp-slider-3-shape-3 d-none d-md-block">
-                     <img src="assets/img/hero/shape-3-3.png" alt="">
+                     <img src="assets/img/hero/shape-3-3.png" alt="" loading="lazy">
                   </div>
                   <div class="swiper-slide">
                      <div class="tp-slider-3-height p-relative">
                         <div class="tp-slider-3-shape-1 d-none d-xl-block">
-                           <img src="assets/img/hero/shape-3-1.png" alt="">
+                           <img src="assets/img/hero/shape-3-1.png" alt="" loading="lazy">
                         </div>
                         <div class="tp-slider-3-bg" data-background="assets/img/hero/hero-3-1.png"></div>
                         <div class="container">
@@ -52,7 +52,7 @@
                   <div class="swiper-slide">
                      <div class="tp-slider-3-height p-relative">
                         <div class="tp-slider-3-shape-1 d-none d-xl-block">
-                           <img src="assets/img/hero/shape-3-1.png" alt="">
+                           <img src="assets/img/hero/shape-3-1.png" alt="" loading="lazy">
                         </div>
                         <div class="tp-slider-3-bg" data-background="assets/img/hero/hero-3-2.png"></div>
                         <div class="container">
@@ -75,7 +75,7 @@
                   <div class="swiper-slide">
                      <div class="tp-slider-3-height p-relative">
                         <div class="tp-slider-3-shape-1 d-none d-xl-block">
-                           <img src="assets/img/hero/shape-3-1.png" alt="">
+                           <img src="assets/img/hero/shape-3-1.png" alt="" loading="lazy">
                         </div>
                         <div class="tp-slider-3-bg" data-background="assets/img/hero/hero-3-3.png"></div>
                         <div class="container">
@@ -155,7 +155,7 @@
       <!-- about area start -->
       <div class="tp-about-area p-relative pt-120 pb-120">
          <div class="tp-about-shape-5 d-none d-xl-block">
-            <img src="assets/img/about/shape-3-1.png" alt="">
+            <img src="assets/img/about/shape-3-1.png" alt="" loading="lazy">
          </div>
          <div class="container">
             <div class="row">
@@ -166,16 +166,16 @@
                         <span>Years of experience</span>
                      </div>
                      <div class="tp-about-main-thumb">
-                        <img src="assets/img/about/thumb-3-2.jpg" alt="">
+                        <img src="assets/img/about/thumb-3-2.jpg" alt="" loading="lazy">
                      </div>
                      <div class="tp-about-thumb-sm">
-                        <img src="assets/img/about/thumb-3-1.jpg" alt="">
+                        <img src="assets/img/about/thumb-3-1.jpg" alt="" loading="lazy">
                      </div>
                      <div class="tp-about-shape-2  d-none d-lg-block">
-                        <img src="assets/img/about/shape-1-3.png" alt="">
+                        <img src="assets/img/about/shape-1-3.png" alt="" loading="lazy">
                      </div>
                      <div class="tp-about-shape-6 d-none d-xl-block">
-                        <img src="assets/img/about/shape-3-2.png" alt="">
+                        <img src="assets/img/about/shape-3-2.png" alt="" loading="lazy">
                      </div>
                   </div>
                </div>
@@ -190,7 +190,7 @@
                            ipsum. Eget tincidunt</p>
                         <div class="tp-about-icon-wrap p-relative d-flex justify-content-between mb-40">
                            <div class="tp-about-icon-shape d-none d-xl-block">
-                              <img src="assets/img/about/shape-1-6.png" alt="">
+                              <img src="assets/img/about/shape-1-6.png" alt="" loading="lazy">
                            </div>
                            <div class="tp-about-icon-box d-flex align-items-center mb-20">
                               <div class="tp-about-icon icon-color">
@@ -218,7 +218,7 @@
                         </div>
                         <div class="tp-about-button-box d-flex align-items-center">
                            <a class="tp-btn-black" href="about-us.html"><span>KNOW MORE</span></a>
-                           <img src="assets/img/about/shape-1-1.png" alt="">
+                           <img src="assets/img/about/shape-1-1.png" alt="" loading="lazy">
                         </div>
                      </div>
                   </div>
@@ -231,10 +231,10 @@
       <!-- service area start -->
       <div class="tp-service-3-area grey-bg p-relative fix pt-120 pb-90">
          <div class="tp-service-3-shape-1 d-none d-xl-block">
-            <img src="assets/img/service/shape-3-1.png" alt="">
+            <img src="assets/img/service/shape-3-1.png" alt="" loading="lazy">
          </div>
          <div class="tp-service-3-shape-2 d-none d-xl-block">
-            <img src="assets/img/service/shape-3-3.png" alt="">
+            <img src="assets/img/service/shape-3-3.png" alt="" loading="lazy">
          </div>
          <div class="container">
             <div class="row">
@@ -247,7 +247,7 @@
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-service-3-item fix" data-background="assets/img/service/sv-3-1.jpg">
                      <div class="tp-service-3-shape-3">
-                        <img src="assets/img/service/shape-3-2.png" alt="">
+                        <img src="assets/img/service/shape-3-2.png" alt="" loading="lazy">
                      </div>
                      <div class="tp-service-3-content z-index">
                         <div class="tp-service-3-icon pb-40">
@@ -269,7 +269,7 @@
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
                   <div class="tp-service-3-item active fix" data-background="assets/img/service/sv-3-1.jpg">
                      <div class="tp-service-3-shape-3">
-                        <img src="assets/img/service/shape-3-2.png" alt="">
+                        <img src="assets/img/service/shape-3-2.png" alt="" loading="lazy">
                      </div>
                      <div class="tp-service-3-content z-index">
                         <div class="tp-service-3-icon pb-40">
@@ -291,7 +291,7 @@
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".7s">
                   <div class="tp-service-3-item fix" data-background="assets/img/service/sv-3-1.jpg">
                      <div class="tp-service-3-shape-3">
-                        <img src="assets/img/service/shape-3-2.png" alt="">
+                        <img src="assets/img/service/shape-3-2.png" alt="" loading="lazy">
                      </div>
                      <div class="tp-service-3-content z-index">
                         <div class="tp-service-3-icon pb-40">
@@ -332,7 +332,7 @@
                         <h4 class="tp-section-title text-white">Great reason for the people <br>choose our biddut</h4>
                      </div>
                      <div class="tp-choose-text mb-50">
-                        <p>For more than a decade, we’ve been building the fueling network of the future. We have delivered more places to charge than anyone else, and people <br>count on us for charging systemtic</p>
+                        <p>For more than a decade, weâ€™ve been building the fueling network of the future. We have delivered more places to charge than anyone else, and people <br>count on us for charging systemtic</p>
                      </div>
                      <div class="tp-choose-wrap">
                         <div class="row">
@@ -454,13 +454,13 @@
             <a class="popup-video" href="https://www.youtube.com/watch?v=PO_fBTkoznc"><i class="fas fa-play"></i></a>
          </div>
          <div class="tp-video-3-shape-1 d-none d-xxl-block">
-            <img src="assets/img/video/text.png" alt="">
+            <img src="assets/img/video/text.png" alt="" loading="lazy">
          </div>
          <div class="tp-video-3-shape-2 d-none d-xxl-block">
-            <img src="assets/img/video/shape-3-1.png" alt="">
+            <img src="assets/img/video/shape-3-1.png" alt="" loading="lazy">
          </div>
          <div class="tp-video-3-shape-3 d-none d-xl-block">
-            <img src="assets/img/video/shape-3-2.png" alt="">
+            <img src="assets/img/video/shape-3-2.png" alt="" loading="lazy">
          </div>
          <div class="container">
             <div class="row">
@@ -470,7 +470,7 @@
                         <span class="tp-section-subtitle text-white"><span>//</span>CONTACT WITH BIDDUT</span>
                         <h4 class="tp-section-title text-white">Your best option electrical <br>contractors 24/7</h4>
                      </div>
-                     <p class="text-white pb-40">For more than a decade, we’ve been building the fueling network of the future. We have delivered more places to charge than anyone else, and people <br>count on us for charging systemtic</p>
+                     <p class="text-white pb-40">For more than a decade, weâ€™ve been building the fueling network of the future. We have delivered more places to charge than anyone else, and people <br>count on us for charging systemtic</p>
                      <div class="tp-video-3-btn-box">
                         <a class="tp-btn hover-2 mr-15" href="about-us.html"><span>Discover More</span></a>
                         <a class="tp-btn-border" href="contact.html"><span>FREE ESTIMATE</span></a>
@@ -486,7 +486,7 @@
       <div class="tp-faq-area p-relative pt-120 pb-120">
          <div class="tp-faq-thumb" data-background="assets/img/cta/faq-bg.jpg"></div>
          <div class="tp-faq-text d-none d-xxl-block">
-            <h5>OUR FAQ’S</h5>
+            <h5>OUR FAQâ€™S</h5>
          </div>
          <div class="container">
             <div class="row">
@@ -511,7 +511,7 @@
                            <h2 class="accordion-header" id="headingTwo">
                               <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                  data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                 Can’t I just call a handyman to fix minor electrical problems? 
+                                 Canâ€™t I just call a handyman to fix minor electrical problems? 
                               </button>
                            </h2>
                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
@@ -574,17 +574,17 @@
       <!-- testimonial area start -->
       <div class="tp-testimonial-3-area tp-testimonial-3-space p-relative fix grey-bg">
          <div class="tp-testimonial-3-shape-2 d-none d-xl-block">
-            <img src="assets/img/testimonial/shape-3-2.png" alt="">
+            <img src="assets/img/testimonial/shape-3-2.png" alt="" loading="lazy">
          </div>
          <div class="tp-testimonial-3-shape-3">
-            <img src="assets/img/testimonial/shape-3-3.png" alt="">
+            <img src="assets/img/testimonial/shape-3-3.png" alt="" loading="lazy">
          </div>
          <div class="container">
             <div class="row">
                <div class="col-xl-12">
                   <div class="tp-testimonial-3-section-box z-index text-center mb-50">
                      <span class="tp-section-subtitle"><span>//</span>OUR CLIENTS REVIEW</span>
-                     <h4 class="tp-section-title">What they’re talking about <br>our biddut services</h4>
+                     <h4 class="tp-section-title">What theyâ€™re talking about <br>our biddut services</h4>
                   </div>
                </div>
                <div class="col-xl-12">
@@ -595,10 +595,10 @@
                               <div class="tp-testimonial-3-item-wrap p-relative">                             
                                  <div class="tp-testimonial-3-item p-relative text-center">
                                     <div class="tp-testimonial-3-shape-1">
-                                       <img src="assets/img/testimonial/shape-3-1.png" alt="">
+                                       <img src="assets/img/testimonial/shape-3-1.png" alt="" loading="lazy">
                                     </div>
                                     <div class="tp-testimonial-3-avata">
-                                       <img src="assets/img/testimonial/author-1-3.png" alt="">
+                                       <img src="assets/img/testimonial/author-1-3.png" alt="" loading="lazy">
                                     </div>
                                     <div class="tp-testimonial-3-content z-index-5">
                                        <div class="tp-testimonial-3-author-info pb-20">
@@ -623,10 +623,10 @@
                               <div class="tp-testimonial-3-item-wrap p-relative">
                                  <div class="tp-testimonial-3-item p-relative text-center">
                                     <div class="tp-testimonial-3-shape-1">
-                                       <img src="assets/img/testimonial/shape-3-1.png" alt="">
+                                       <img src="assets/img/testimonial/shape-3-1.png" alt="" loading="lazy">
                                     </div>
                                     <div class="tp-testimonial-3-avata">
-                                       <img src="assets/img/testimonial/author-1-4.png" alt="">
+                                       <img src="assets/img/testimonial/author-1-4.png" alt="" loading="lazy">
                                     </div>
                                     <div class="tp-testimonial-3-content z-index-5">                                       
                                        <div class="tp-testimonial-3-author-info pb-20">
@@ -651,10 +651,10 @@
                               <div class="tp-testimonial-3-item-wrap p-relative">
                                  <div class="tp-testimonial-3-item p-relative text-center">
                                     <div class="tp-testimonial-3-shape-1">
-                                       <img src="assets/img/testimonial/shape-3-1.png" alt="">
+                                       <img src="assets/img/testimonial/shape-3-1.png" alt="" loading="lazy">
                                     </div>
                                     <div class="tp-testimonial-3-avata">
-                                       <img src="assets/img/testimonial/author-1-5.png" alt="">
+                                       <img src="assets/img/testimonial/author-1-5.png" alt="" loading="lazy">
                                     </div>
                                     <div class="tp-testimonial-3-content z-index-5">                                       
                                        <div class="tp-testimonial-3-author-info pb-20">
@@ -679,10 +679,10 @@
                               <div class="tp-testimonial-3-item-wrap p-relative">
                                  <div class="tp-testimonial-3-item p-relative text-center">
                                     <div class="tp-testimonial-3-shape-1">
-                                       <img src="assets/img/testimonial/shape-3-1.png" alt="">
+                                       <img src="assets/img/testimonial/shape-3-1.png" alt="" loading="lazy">
                                     </div>
                                     <div class="tp-testimonial-3-avata">
-                                       <img src="assets/img/testimonial/author-1-1.png" alt="">
+                                       <img src="assets/img/testimonial/author-1-1.png" alt="" loading="lazy">
                                     </div>
                                     <div class="tp-testimonial-3-content z-index-5">                                       
                                        <div class="tp-testimonial-3-author-info pb-20">
@@ -723,32 +723,32 @@
                            <div class="swiper-wrapper">
                               <div class="swiper-slide">
                                  <div class="tp-brand-item text-center">
-                                    <img src="assets/img/brand/brand-1.png" alt="">
+                                    <img src="assets/img/brand/brand-1.png" alt="" loading="lazy">
                                  </div>
                               </div>
                               <div class="swiper-slide">
                                  <div class="tp-brand-item text-center">
-                                    <img src="assets/img/brand/brand-2.png" alt="">
+                                    <img src="assets/img/brand/brand-2.png" alt="" loading="lazy">
                                  </div>
                               </div>
                               <div class="swiper-slide">
                                  <div class="tp-brand-item text-center">
-                                    <img src="assets/img/brand/brand-3.png" alt="">
+                                    <img src="assets/img/brand/brand-3.png" alt="" loading="lazy">
                                  </div>
                               </div>
                               <div class="swiper-slide">
                                  <div class="tp-brand-item text-center">
-                                    <img src="assets/img/brand/brand-4.png" alt="">
+                                    <img src="assets/img/brand/brand-4.png" alt="" loading="lazy">
                                  </div>
                               </div>
                               <div class="swiper-slide">
                                  <div class="tp-brand-item text-center">
-                                    <img src="assets/img/brand/brand-5.png" alt="">
+                                    <img src="assets/img/brand/brand-5.png" alt="" loading="lazy">
                                  </div>
                               </div>
                               <div class="swiper-slide">
                                  <div class="tp-brand-item text-center">
-                                    <img src="assets/img/brand/brand-3.png" alt="">
+                                    <img src="assets/img/brand/brand-3.png" alt="" loading="lazy">
                                  </div>
                               </div>
                            </div>
@@ -776,7 +776,7 @@
                            <div class="swiper-slide">
                               <div class="tp-team-3-item text-center p-relative">                                  
                                  <div class="tp-team-3-thumb p-relative">
-                                    <img src="assets/img/team/team-3-1.png" alt="">                        
+                                    <img src="assets/img/team/team-3-1.png" alt="" loading="lazy">                        
                                     <div class="tp-team-3-social-box">
                                        <button><i class="fas fa-share-alt"></i></button>
                                        <div class="tp-team-3-social">
@@ -786,10 +786,10 @@
                                        </div>                           
                                     </div> 
                                     <div class="tp-team-3-thumb-shape-1">
-                                       <img src="assets/img/team/shape-3-1.png" alt="">
+                                       <img src="assets/img/team/shape-3-1.png" alt="" loading="lazy">
                                     </div>
                                     <div class="tp-team-3-thumb-shape-2">
-                                       <img src="assets/img/team/shape-3-2.png" alt="">
+                                       <img src="assets/img/team/shape-3-2.png" alt="" loading="lazy">
                                     </div> 
                                  </div>
                                  <div class="tp-team-3-text">
@@ -801,7 +801,7 @@
                            <div class="swiper-slide">
                               <div class="tp-team-3-item text-center">                    
                                  <div class="tp-team-3-thumb p-relative">
-                                    <img src="assets/img/team/team-3-2.png" alt="">
+                                    <img src="assets/img/team/team-3-2.png" alt="" loading="lazy">
                                     <div class="tp-team-3-social-box">
                                        <button><i class="fas fa-share-alt"></i></button>
                                        <div class="tp-team-3-social">
@@ -811,10 +811,10 @@
                                        </div>
                                     </div>
                                     <div class="tp-team-3-thumb-shape-1">
-                                       <img src="assets/img/team/shape-3-1.png" alt="">
+                                       <img src="assets/img/team/shape-3-1.png" alt="" loading="lazy">
                                     </div>
                                     <div class="tp-team-3-thumb-shape-2">
-                                       <img src="assets/img/team/shape-3-2.png" alt="">
+                                       <img src="assets/img/team/shape-3-2.png" alt="" loading="lazy">
                                     </div>
                                  </div>
                                  <div class="tp-team-3-text">
@@ -826,7 +826,7 @@
                            <div class="swiper-slide">
                               <div class="tp-team-3-item text-center">                    
                                  <div class="tp-team-3-thumb p-relative">
-                                    <img src="assets/img/team/team-3-3.png" alt="">
+                                    <img src="assets/img/team/team-3-3.png" alt="" loading="lazy">
                                     <div class="tp-team-3-social-box">
                                        <button><i class="fas fa-share-alt"></i></button>
                                        <div class="tp-team-3-social">
@@ -836,10 +836,10 @@
                                        </div>
                                     </div>
                                     <div class="tp-team-3-thumb-shape-1">
-                                       <img src="assets/img/team/shape-3-1.png" alt="">
+                                       <img src="assets/img/team/shape-3-1.png" alt="" loading="lazy">
                                     </div>
                                     <div class="tp-team-3-thumb-shape-2">
-                                       <img src="assets/img/team/shape-3-2.png" alt="">
+                                       <img src="assets/img/team/shape-3-2.png" alt="" loading="lazy">
                                     </div>
                                  </div>
                                  <div class="tp-team-3-text">
@@ -865,13 +865,13 @@
                <div class="col-xl-6 col-lg-6">
                   <div class="tp-cta-3-left-wrap theme-bg z-index-3 p-relative">
                      <div class="tp-cta-3-left-shape d-none d-xl-block">
-                        <img src="assets/img/cta/shape-3-1.png" alt="">
+                        <img src="assets/img/cta/shape-3-1.png" alt="" loading="lazy">
                      </div>
                      <div class="tp-cta-3-left-box">
                         <div class="row align-items-center">
                            <div class="col-xl-6 col-lg-6 col-md-5 d-none d-md-block">
                               <div class="tp-cta-3-left-thumb">
-                                 <img src="assets/img/cta/cta-3-1.jpg" alt="">
+                                 <img src="assets/img/cta/cta-3-1.jpg" alt="" loading="lazy">
                               </div>
                            </div>
                            <div class="col-xl-6 col-lg-6 col-md-7">
@@ -889,7 +889,7 @@
                      <div class="tp-cta-3-right-box jarallax z-index" data-background="assets/img/cta/cta-3-2.jpg">
                         <h4 class="tp-section-title text-white text-center z-index-3">Outstanding residential & <br> commercial services <br> for your family</h4>
                         <div class="tp-cta-3-right-shape">
-                           <img src="assets/img/cta/shape-3-2.png" alt="">
+                           <img src="assets/img/cta/shape-3-2.png" alt="" loading="lazy">
                         </div>
                      </div>
                   </div>
@@ -912,7 +912,7 @@
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/img/blog/blog-3-1.jpg" alt="">
+                        <img src="assets/img/blog/blog-3-1.jpg" alt="" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="blog-details.html"><i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -929,7 +929,7 @@
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/img/blog/blog-3-2.jpg" alt="">
+                        <img src="assets/img/blog/blog-3-2.jpg" alt="" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="blog-details.html"><i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -946,7 +946,7 @@
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".7s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/img/blog/blog-3-3.jpg" alt="">
+                        <img src="assets/img/blog/blog-3-3.jpg" alt="" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="blog-details.html"><i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -956,7 +956,7 @@
                            <span><i class="fa-light fa-circle-user"></i>By thempure</span>
                            <span><i class="flaticon-price-tag"></i>Repair</span>
                         </div>
-                        <h4 class="tp-blog-3-title"><a href="blog-details.html">If you notice an electrical outlet smoking, it’s a serious issue</a></h4>
+                        <h4 class="tp-blog-3-title"><a href="blog-details.html">If you notice an electrical outlet smoking, itâ€™s a serious issue</a></h4>
                      </div>
                   </div>
                </div>

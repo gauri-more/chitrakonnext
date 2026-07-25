@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+﻿<?php include 'header.php'; ?>
 
 
    <main>
@@ -64,7 +64,7 @@
             <div class="col-lg-6 text-center">
                 <img src="assets/images/solar-panel.jpg"
                      class="img-fluid rounded shadow"
-                     alt="Wire Harness Manufacturing">
+                     alt="Wire Harness Manufacturing" loading="lazy">
             </div>
 
         </div>
@@ -78,7 +78,7 @@
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/images/aerospace.jpg" alt="">
+                        <img src="assets/images/aerospace.jpg" alt="" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="MilitaryDefence.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -91,7 +91,7 @@
                  <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/images/automotive.jpeg" alt="">
+                        <img src="assets/images/automotive.jpeg" alt="" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="Automotive.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -103,7 +103,7 @@
                </div>  <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/images/electrical-vehicle.jpg" alt="">
+                        <img src="assets/images/electrical-vehicle.jpg" alt="" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="ElectricVehicles.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -116,7 +116,7 @@
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/images/solar-panel.jpg" alt="">
+                        <img src="assets/images/solar-panel.jpg" alt="" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="RenewableEnergy.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -128,7 +128,7 @@
                </div>  <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/images/home-appliance1.jpg" alt="">
+                        <img src="assets/images/home-appliance1.jpg" alt="" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="HomeAppliances.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -140,7 +140,7 @@
                </div>  <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/images/farm-agri.jpg" alt="">
+                        <img src="assets/images/farm-agri.jpg" alt="" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="FarmAgriculturalEquipment.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -152,7 +152,7 @@
                </div>  <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/images/industrial-panel.jpg" alt="">
+                        <img src="assets/images/industrial-panel.jpg" alt="" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="IndustrialControlPanel.php"><i class="flaticon-right-arrow"></i></a>
                         </div>

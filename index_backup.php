@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+﻿<?php include 'header.php'; ?>
 <style>
 .gradient-title {
     background: linear-gradient(90deg, #e65c00 0%, #f47c20 40%, #ff9800 70%, #ffc107 100%);
@@ -176,10 +176,10 @@
                   <div class="swiper-slide">
                      <div class="tp-slider-height tp-slider-overly">
                         <div class="tp-slider-shape-2 d-none d-xl-block">
-                           <img src="assets/img/hero/bg-1-2.png" alt="">
+                           <img src="assets/img/hero/bg-1-2.png" alt="" loading="lazy">
                         </div>
                         <div class="tp-slider-shape-3 d-none d-md-block">
-                           <img src="assets/img/hero/bg-1-3.png" alt="">
+                           <img src="assets/img/hero/bg-1-3.png" alt="" loading="lazy">
                         </div>
                         <div class="tp-slider-bg" data-background="assets/images/banner-image-1-slider.jpg"></div>
                         <div class="container z-index-5 ">
@@ -216,10 +216,10 @@
                         <div class="swiper-slide">
                      <div class="tp-slider-height tp-slider-overly">
                         <div class="tp-slider-shape-2 d-none d-xl-block">
-                           <img src="assets/img/hero/bg-1-2.png" alt="">
+                           <img src="assets/img/hero/bg-1-2.png" alt="" loading="lazy">
                         </div>
                         <div class="tp-slider-shape-3 d-none d-md-block">
-                           <img src="assets/img/hero/bg-1-3.png" alt="">
+                           <img src="assets/img/hero/bg-1-3.png" alt="" loading="lazy">
                         </div>
                         <div class="tp-slider-bg" data-background="assets/images/banner-image-1-slider.jpg"></div>
                         <div class="container z-index-5 ">
@@ -256,10 +256,10 @@
                   <div class="swiper-slide d-none">
                      <div class="tp-slider-height tp-slider-overly">
                         <div class="tp-slider-shape-2 d-none d-xl-block">
-                           <img src="assets/img/hero/bg-1-2.png" alt="">
+                           <img src="assets/img/hero/bg-1-2.png" alt="" loading="lazy">
                         </div>
                         <div class="tp-slider-shape-3 d-none d-md-block">
-                           <img src="assets/img/hero/bg-1-3.png" alt="">
+                           <img src="assets/img/hero/bg-1-3.png" alt="" loading="lazy">
                         </div>
                           <div class="tp-slider-bg">
     <video class="slider-video" autoplay muted loop playsinline>
@@ -298,10 +298,10 @@
                   <div class="swiper-slide d-none">
                      <div class="tp-slider-height tp-slider-overly">
                         <div class="tp-slider-shape-2 d-none d-xl-block">
-                           <img src="assets/img/hero/bg-1-2.png" alt="">
+                           <img src="assets/img/hero/bg-1-2.png" alt="" loading="lazy">
                         </div>
                         <div class="tp-slider-shape-3 d-none d-md-block">
-                           <img src="assets/img/hero/bg-1-3.png" alt="">
+                           <img src="assets/img/hero/bg-1-3.png" alt="" loading="lazy">
                         </div>
 <!--                                       <div class="tp-slider-bg">-->
 <!--    <video class="slider-video" autoplay muted loop playsinline>-->
@@ -463,7 +463,7 @@
                <div class="col-xl-6 col-lg-6 mb-50 wow tpfadeRight" data-wow-duration=".9s" data-wow-delay=".5s">
                   <div class="tp-about-4-right-box">
                      <div class="tp-about-4-thumb mb-30">
-                        <img src="assets/Images/ckt-1.jpg" alt="">
+                        <img src="assets/Images/ckt-1.jpg" alt="" loading="lazy">
                      </div>
                      <div class="tp-about-4-content d-flex align-items-center justify-content-between mr-0">
                         <div class="tp-about-4-mission-box">
@@ -489,10 +489,10 @@
       <!-- about area start -->
       <div class="tp-about-area p-relative pt-60 pb-60  d-none">
          <div class="tp-about-shape-3">
-            <img src="assets/img/about/shape-1-4.png" alt="">
+            <img src="assets/img/about/shape-1-4.png" alt="" loading="lazy">
          </div>
          <div class="tp-about-shape-4 d-none d-xl-block">
-            <img src="assets/img/about/shape-1-5.png" alt="">
+            <img src="assets/img/about/shape-1-5.png" alt="" loading="lazy">
          </div>
          <div class="container">
             <div class="row">
@@ -520,7 +520,7 @@
 
     <div class="tp-about-icon-wrap p-relative d-flex justify-content-between mb-45">
         <div class="tp-about-icon-shape d-none d-xl-block">
-            <!--<img src="assets/img/about/shape-1-6.png" alt="">-->
+            
         </div>
 
     <div class="tp-about-4-content d-flex align-items-center justify-content-between d-none">
@@ -549,7 +549,7 @@
 </div>
                         <div class="tp-about-button-box d-flex align-items-center">
                            <a class="tp-btn-black" href="about-us.php"><span>KNOW MORE</span></a>
-                           <!--<img src="assets/img/about/shape-1-1.png" alt="">-->
+                           
                         </div>
                      </div>
                   </div>
@@ -557,16 +557,16 @@
                <div class="col-xl-4 col-lg-4 wow tpfadeRight" data-wow-duration=".9s" data-wow-delay=".7s">
                   <div class="tp-about-right-box p-relative text-end">
                      <div class="tp-about-main-thumb">
-                        <img src="assets/Images/about-wire-harness.jpg" alt="">
+                        <img src="assets/Images/about-wire-harness.jpg" alt="" loading="lazy">
                      </div>
                      <!--<div class="tp-about-thumb-sm">-->
-                     <!--   <img src="assets/Images/about-wire-harness-2.jpeg" alt="">-->
+                     
                      <!--</div>-->
                      <!--<div class="tp-about-shape-1 d-none d-lg-block">-->
-                     <!--   <img src="assets/img/about/shape-1-2.png" alt="">-->
+                     
                      <!--</div>-->
                      <div class="tp-about-shape-2  d-none d-lg-block">
-                        <!--<img src="assets/img/about/shape-1-3.png" alt="">-->
+                        
                      </div>
                   </div>
                </div>
@@ -577,7 +577,7 @@
        <!-- about area start -->
       <div class="tp-about-area p-relative pt-60 pb-60">
          <div class="tp-about-shape-5 d-none d-xl-block">
-            <img src="assets/img/about/shape-3-1.png" alt="">
+            <img src="assets/img/about/shape-3-1.png" alt="" loading="lazy">
          </div>
          <div class="container">
             <div class="row">
@@ -588,14 +588,14 @@
                      <!--   <span>Years of experience</span>-->
                      <!--</div>-->
                      <div class="tp-about-main-thumb">
-                        <img src="assets/images/about-image1.png" alt="">
+                        <img src="assets/images/about-image1.png" alt="" loading="lazy">
                      </div>
                    
                      <div class="tp-about-shape-2  d-none d-lg-block">
-                        <img src="assets/img/about/shape-1-3.png" alt="">
+                        <img src="assets/img/about/shape-1-3.png" alt="" loading="lazy">
                      </div>
                      <div class="tp-about-shape-6 d-none d-xl-block">
-                        <img src="assets/img/about/shape-3-2.png" alt="">
+                        <img src="assets/img/about/shape-3-2.png" alt="" loading="lazy">
                      </div>
                   </div>
                </div>
@@ -644,7 +644,7 @@
       <!-- service area start -->
       <div class="tp-service-4-area p-relative fix grey-bg pt-70 pb-50 z-index">
          <div class="tp-service-4-shape-1 d-none d-xxl-block"> 
-            <img src="assets/img/service/shape-4-1.png" alt="">
+            <img src="assets/img/service/shape-4-1.png" alt="" loading="lazy">
          </div>
          <div class="container">
             <div class="tp-service-4-top-box pb-70">
@@ -696,7 +696,7 @@
                            <div class="swiper-slide">
                               <div class="tp-service-4-item p-relative">
                                  <div class="tp-service-4-item-bg">
-                                    <img src="assets/images/aerospace.jpg" alt="">
+                                    <img src="assets/images/aerospace.jpg" alt="" loading="lazy">
                                  </div>                  
                                  <div class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
                                     <div class="tp-service-4-text">
@@ -721,7 +721,7 @@
                            <div class="swiper-slide">
                               <div class="tp-service-4-item p-relative">
                                  <div class="tp-service-4-item-bg">
-                                    <img src="assets/images/automotive.jpeg" alt="">
+                                    <img src="assets/images/automotive.jpeg" alt="" loading="lazy">
                                  </div>                  
                                  <div class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
                                     <div class="tp-service-4-text">
@@ -744,7 +744,7 @@
                            <div class="swiper-slide">
                               <div class="tp-service-4-item p-relative">
                                  <div class="tp-service-4-item-bg">
-                                    <img src="assets/images/electrical-vehicle.jpg" alt="">
+                                    <img src="assets/images/electrical-vehicle.jpg" alt="" loading="lazy">
                                  </div>                  
                                  <div class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
                                 <div class="tp-service-4-text">
@@ -769,7 +769,7 @@
                                <div class="swiper-slide">
                               <div class="tp-service-4-item p-relative">
                                  <div class="tp-service-4-item-bg">
-                                    <img src="assets/images/solar-panel.jpg" alt="">
+                                    <img src="assets/images/solar-panel.jpg" alt="" loading="lazy">
                                  </div>                  
                                  <div class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
                                 <div class="tp-service-4-text">
@@ -794,7 +794,7 @@
                            <div class="swiper-slide">
                               <div class="tp-service-4-item p-relative">
                                  <div class="tp-service-4-item-bg">
-                                    <img src="assets/images/home-appliance1.jpg" alt="">
+                                    <img src="assets/images/home-appliance1.jpg" alt="" loading="lazy">
                                  </div>                  
                                  <div class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
                                 <div class="tp-service-4-text">
@@ -819,7 +819,7 @@
                            <div class="swiper-slide">
                               <div class="tp-service-4-item p-relative">
                                  <div class="tp-service-4-item-bg">
-                                    <img src="assets/images/farm-agri.jpg" alt="">
+                                    <img src="assets/images/farm-agri.jpg" alt="" loading="lazy">
                                  </div>                  
                                  <div class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
                                 <div class="tp-service-4-text">
@@ -844,7 +844,7 @@
                             <div class="swiper-slide">
                               <div class="tp-service-4-item p-relative">
                                  <div class="tp-service-4-item-bg">
-                                    <img src="assets/images/farm-agrro.jpg" alt="">
+                                    <img src="assets/images/farm-agrro.jpg" alt="" loading="lazy">
                                  </div>                  
                                  <div class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
                                 <div class="tp-service-4-text">
@@ -878,8 +878,8 @@
       <!-- service area end -->
         <!-- tp-feature-area-start -->
       <div class="tp-feature-area body-bg-6 p-relative z-index-1 pt-60 d-none">
-         <img class="tp-feature-6-shape" src="assets/img/update/feature/shape.png" alt="">
-         <img class="tp-feature-6-shape-2" src="assets/Images/shape-2.webp" alt="">
+         <img class="tp-feature-6-shape" src="assets/img/update/feature/shape.png" alt="" loading="lazy">
+         <img class="tp-feature-6-shape-2" src="assets/Images/shape-2.webp" alt="" loading="lazy">
          <div class="container">
             <div class="row">
                <div class="col-12">
@@ -984,7 +984,7 @@
                                 </p>
 
                                 <div class="revenue">
-                                    Revenue : ₹14 Lakhs
+                                    Revenue : â‚¹14 Lakhs
                                 </div>
 
                             </div>
@@ -1010,7 +1010,7 @@
                                 </p>
 
                                 <div class="revenue">
-                                    Revenue : ₹37 Lakhs
+                                    Revenue : â‚¹37 Lakhs
                                 </div>
 
                             </div>
@@ -1037,7 +1037,7 @@
                                 </p>
 
                                 <div class="revenue">
-                                    Revenue : ₹93 Lakhs
+                                    Revenue : â‚¹93 Lakhs
                                 </div>
 
                             </div>
@@ -1063,7 +1063,7 @@
                                 </p>
 
                                 <div class="revenue">
-                                    Revenue : ₹98 Lakhs
+                                    Revenue : â‚¹98 Lakhs
                                 </div>
 
                             </div>
@@ -1089,7 +1089,7 @@
                                 </p>
 
                                 <div class="revenue">
-                                    Target : ₹1.4 Crore
+                                    Target : â‚¹1.4 Crore
                                 </div>
 
                             </div>
@@ -1111,11 +1111,11 @@
 
                                 <p>
                                     Started supplying Military & Defence Wire Harnesses
-                                    with a projected revenue target of ₹3 Crore.
+                                    with a projected revenue target of â‚¹3 Crore.
                                 </p>
 
                                 <div class="revenue">
-                                    Target : ₹3 Crore
+                                    Target : â‚¹3 Crore
                                 </div>
 
                             </div>
@@ -1157,7 +1157,7 @@
                 Company registered with GST, IEC & FF International account.
                 Started operations from a shared office of 100 sq.ft.
             </p>
-            <div class="revenue">Revenue : ₹14 Lakhs</div>
+            <div class="revenue">Revenue : â‚¹14 Lakhs</div>
         </div>
     </div>
 
@@ -1170,7 +1170,7 @@
                 Added two component supply customers and established a
                 separate office of 100 sq.ft.
             </p>
-            <div class="revenue">Revenue : ₹37 Lakhs</div>
+            <div class="revenue">Revenue : â‚¹37 Lakhs</div>
         </div>
     </div>
 
@@ -1183,7 +1183,7 @@
                 Received the first wire harness manufacturing order from
                 TACO Tier-1 and expanded to a 200 sq.ft. manufacturing facility.
             </p>
-            <div class="revenue">Revenue : ₹93 Lakhs</div>
+            <div class="revenue">Revenue : â‚¹93 Lakhs</div>
         </div>
     </div>
 
@@ -1196,7 +1196,7 @@
                 Added two automotive customers and expanded manufacturing
                 space to 400 sq.ft.
             </p>
-            <div class="revenue">Revenue : ₹98 Lakhs</div>
+            <div class="revenue">Revenue : â‚¹98 Lakhs</div>
         </div>
     </div>
 
@@ -1209,7 +1209,7 @@
                 Established a 2,000 sq.ft. manufacturing facility for EV &
                 Solar Control Panel Wire Harnesses.
             </p>
-            <div class="revenue">Target : ₹1.4 Crore</div>
+            <div class="revenue">Target : â‚¹1.4 Crore</div>
         </div>
     </div>
 
@@ -1220,9 +1220,9 @@
             <h5>Military & Defence</h5>
             <p>
                 Started supplying Military & Defence Wire Harnesses with a
-                projected revenue target of ₹3 Crore.
+                projected revenue target of â‚¹3 Crore.
             </p>
-            <div class="revenue">Target : ₹3 Crore</div>
+            <div class="revenue">Target : â‚¹3 Crore</div>
         </div>
     </div>
 
@@ -1233,10 +1233,10 @@
         <!-- choose area start -->
       <div class="tp-choose-2-area p-relative fix pt-70 pb-70 d-none">
          <div class="tp-choose-2-shape-1 d-none d-lg-block">
-            <img src="assets/img/choose/shape-2-1.png" alt="">
+            <img src="assets/img/choose/shape-2-1.png" alt="" loading="lazy">
          </div>
          <div class="tp-choose-2-shape-2 d-none d-xxl-block">
-            <img src="assets/img/choose/shape-2-2.png" alt="">
+            <img src="assets/img/choose/shape-2-2.png" alt="" loading="lazy">
          </div>
          <div class="tp-choose-2-bg" data-background="assets/Images/why-choose-1.jpg"></div>
          <div class="container">
@@ -1337,72 +1337,72 @@
              <!-- Original -->
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/drdo-logo.png" alt=""></a>
+        <a href="#"><img src="assets/Images/brand/drdo-logo.png" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/ecozen-logo-updated.png" alt=""></a>
+        <a href="#"><img src="assets/Images/brand/ecozen-logo-updated.png" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/SparkMindaGreenMobilitylogo.png" alt=""></a>
+        <a href="#"><img src="assets/Images/brand/SparkMindaGreenMobilitylogo.png" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/logo-tata-autocomp-blue.svg" alt=""></a>
+        <a href="#"><img src="assets/Images/brand/logo-tata-autocomp-blue.svg" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/logo-DNEmAKYs.webp" alt=""></a>
+        <a href="#"><img src="assets/Images/brand/logo-DNEmAKYs.webp" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/vacco-logo.png" alt=""></a>
+        <a href="#"><img src="assets/Images/brand/vacco-logo.png" alt="" loading="lazy"></a>
     </div>
 </div>
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/client-logo-ckt.jpg" alt=""></a>
-    </div>
-</div>
-
-<div class="swiper-slide">
-    <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/ecozen-logo-updated.png" alt=""></a>
+        <a href="#"><img src="assets/Images/brand/client-logo-ckt.jpg" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/SparkMindaGreenMobilitylogo.png" alt=""></a>
+        <a href="#"><img src="assets/Images/brand/ecozen-logo-updated.png" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/logo-tata-autocomp.svg" alt=""></a>
+        <a href="#"><img src="assets/Images/brand/SparkMindaGreenMobilitylogo.png" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/logo-DNEmAKYs.webp" alt=""></a>
+        <a href="#"><img src="assets/Images/brand/logo-tata-autocomp.svg" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/vacco-logo.png" alt=""></a>
+        <a href="#"><img src="assets/Images/brand/logo-DNEmAKYs.webp" alt="" loading="lazy"></a>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="tp-brand-6-item">
+        <a href="#"><img src="assets/Images/brand/vacco-logo.png" alt="" loading="lazy"></a>
     </div>
 </div>
 
@@ -1427,7 +1427,7 @@
                         & Engineering Solutions
                     </h4>
                     <p class="mt-3">
-                     Chaitra Konnex Technology (CKT) delivers complete wire harness solutions—from component sourcing and prototype development to precision manufacturing, industrial automation, and electro-mechanical assembly—ensuring quality, reliability, and on-time delivery.
+                     Chaitra Konnex Technology (CKT) delivers complete wire harness solutionsâ€”from component sourcing and prototype development to precision manufacturing, industrial automation, and electro-mechanical assemblyâ€”ensuring quality, reliability, and on-time delivery.
                     </p>
                 </div>
             </div>
@@ -1547,7 +1547,7 @@
       <div class="tp-service-area tp-service-bg p-relative pt-70 pb-70 d-none"
          data-background="assets/img/service/bg-1-1.png">
          <div class="tp-service-shape-2 d-none d-xxl-block">
-            <img src="assets/img/service/shape-1-3.png" alt="">
+            <img src="assets/img/service/shape-1-3.png" alt="" loading="lazy">
          </div>
          <div class="container">
             <div class="tp-service-wrap mb-50">
@@ -1574,14 +1574,14 @@
                            <div class="swiper-slide">
                               <div class="tp-service-item p-relative">
                                  <div class="tp-service-thumb">
-                                   <img src="assets/Images/ev-charging.jpg" alt="">
+                                   <img src="assets/Images/ev-charging.jpg" alt="" loading="lazy">
                                  </div>
                                  <div class="tp-service-content-box">
                                     <div class="tp-service-content fix">
                                        <div class="tp-service-icon p-relative">
                                           <span><i class="flaticon-lamp"></i></span>
                                           <div class="tp-service-icon-shape">
-                                             <img src="assets/img/service/shape-1-1.png" alt="">
+                                             <img src="assets/img/service/shape-1-1.png" alt="" loading="lazy">
                                           </div>
                                        </div>
                                        <div class="tp-service-text pb-5">
@@ -1597,21 +1597,21 @@
                                     </div>
                                  </div>
                                  <div class="tp-service-shape-1">
-                                    <img src="assets/img/service/shape-1-2.png" alt="">
+                                    <img src="assets/img/service/shape-1-2.png" alt="" loading="lazy">
                                  </div>
                               </div>
                            </div>
                            <div class="swiper-slide">
                               <div class="tp-service-item p-relative">
                                  <div class="tp-service-thumb">
-                                    <img src="assets/Images/automatic-wire-harness.jpg" alt="">
+                                    <img src="assets/Images/automatic-wire-harness.jpg" alt="" loading="lazy">
                                  </div>
                                  <div class="tp-service-content-box">
                                     <div class="tp-service-content fix">
                                        <div class="tp-service-icon p-relative">
                                           <span><i class="flaticon-air-conditioner"></i></span>
                                           <div class="tp-service-icon-shape">
-                                             <img src="assets/img/service/shape-1-1.png" alt="">
+                                             <img src="assets/img/service/shape-1-1.png" alt="" loading="lazy">
                                           </div>
                                        </div>
                                        <div class="tp-service-text pb-5">
@@ -1627,21 +1627,21 @@
                                     </div>
                                  </div>
                                  <div class="tp-service-shape-1">
-                                    <img src="assets/img/service/shape-1-2.png" alt="">
+                                    <img src="assets/img/service/shape-1-2.png" alt="" loading="lazy">
                                  </div>
                               </div>
                            </div>
                            <div class="swiper-slide">
                               <div class="tp-service-item p-relative">
                                  <div class="tp-service-thumb">
-                                    <img src="assets/Images/product/defence-img.jpeg" alt="">
+                                    <img src="assets/Images/product/defence-img.jpeg" alt="" loading="lazy">
                                  </div>
                                  <div class="tp-service-content-box">
                                     <div class="tp-service-content fix">
                                        <div class="tp-service-icon p-relative">
                                           <span><i class="flaticon-heater"></i></span>
                                           <div class="tp-service-icon-shape">
-                                             <img src="assets/img/service/shape-1-1.png" alt="">
+                                             <img src="assets/img/service/shape-1-1.png" alt="" loading="lazy">
                                           </div>
                                        </div>
                                        <div class="tp-service-text pb-5">
@@ -1657,21 +1657,21 @@
                                     </div>
                                  </div>
                                  <div class="tp-service-shape-1">
-                                    <img src="assets/img/service/shape-1-2.png" alt="">
+                                    <img src="assets/img/service/shape-1-2.png" alt="" loading="lazy">
                                  </div>
                               </div>
                            </div>
                               <div class="swiper-slide">
                               <div class="tp-service-item p-relative">
                                  <div class="tp-service-thumb">
-                                       <img src="assets/Images/LightingIndustrialHarness.jpg" alt="">
+                                       <img src="assets/Images/LightingIndustrialHarness.jpg" alt="" loading="lazy">
                                  </div>
                                  <div class="tp-service-content-box">
                                     <div class="tp-service-content fix">
                                        <div class="tp-service-icon p-relative">
                                           <span><i class="flaticon-heater"></i></span>
                                           <div class="tp-service-icon-shape">
-                                             <img src="assets/img/service/shape-1-1.png" alt="">
+                                             <img src="assets/img/service/shape-1-1.png" alt="" loading="lazy">
                                           </div>
                                        </div>
                                        <div class="tp-service-text pb-5">
@@ -1687,21 +1687,21 @@
                                     </div>
                                  </div>
                                  <div class="tp-service-shape-1">
-                                    <img src="assets/img/service/shape-1-2.png" alt="">
+                                    <img src="assets/img/service/shape-1-2.png" alt="" loading="lazy">
                                  </div>
                               </div>
                            </div>
                               <div class="swiper-slide">
                               <div class="tp-service-item p-relative">
                                  <div class="tp-service-thumb">
-                                    <img src="assets/Images/solare-panel-wire.jpg" alt="">
+                                    <img src="assets/Images/solare-panel-wire.jpg" alt="" loading="lazy">
                                  </div>
                                  <div class="tp-service-content-box">
                                     <div class="tp-service-content fix">
                                        <div class="tp-service-icon p-relative">
                                           <span><i class="flaticon-heater"></i></span>
                                           <div class="tp-service-icon-shape">
-                                             <img src="assets/img/service/shape-1-1.png" alt="">
+                                             <img src="assets/img/service/shape-1-1.png" alt="" loading="lazy">
                                           </div>
                                        </div>
                                        <div class="tp-service-text pb-5">
@@ -1717,21 +1717,21 @@
                                     </div>
                                  </div>
                                  <div class="tp-service-shape-1">
-                                    <img src="assets/img/service/shape-1-2.png" alt="">
+                                    <img src="assets/img/service/shape-1-2.png" alt="" loading="lazy">
                                  </div>
                               </div>
                            </div>
                              <div class="swiper-slide">
                               <div class="tp-service-item p-relative">
                                  <div class="tp-service-thumb">
-                                    <img src="assets/Images/custom-wire-harnesss.jpg" alt="">
+                                    <img src="assets/Images/custom-wire-harnesss.jpg" alt="" loading="lazy">
                                  </div>
                                  <div class="tp-service-content-box">
                                     <div class="tp-service-content fix">
                                        <div class="tp-service-icon p-relative">
                                           <span><i class="flaticon-lighting"></i></span>
                                           <div class="tp-service-icon-shape">
-                                             <img src="assets/img/service/shape-1-1.png" alt="">
+                                             <img src="assets/img/service/shape-1-1.png" alt="" loading="lazy">
                                           </div>
                                        </div>
                                        <div class="tp-service-text pb-5">
@@ -1747,7 +1747,7 @@
                                     </div>
                                  </div>
                                  <div class="tp-service-shape-1">
-                                    <img src="assets/img/service/shape-1-2.png" alt="">
+                                    <img src="assets/img/service/shape-1-2.png" alt="" loading="lazy">
                                  </div>
                               </div>
                            </div>
@@ -1764,10 +1764,10 @@
       <!-- funfact area  start -->
       <div class="tp-funfact-area fix p-relative grey-bg pt-60 pb-65 d-none">
          <div class="tp-funfact-shape-1">
-            <img src="assets/img/funfact/shape-1-1.png" alt="">
+            <img src="assets/img/funfact/shape-1-1.png" alt="" loading="lazy">
          </div>
          <div class="tp-funfact-shape-2 d-none d-xl-block">
-            <img src="assets/img/funfact/shape-1-2.png" alt="">
+            <img src="assets/img/funfact/shape-1-2.png" alt="" loading="lazy">
          </div>
          <div class="container">
             <div class="row">

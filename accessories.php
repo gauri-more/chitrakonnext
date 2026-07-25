@@ -1,21 +1,7 @@
-<?php include 'header.php'; ?>
+﻿<?php include 'header.php'; ?>
    <main>
       <!-- breadcrumb area start -->
-<!--      <div class="breadcrumb__area breadcrumb__overlay breadcrumb__height p-relative fix" data-background="assets/Images/breadcrumb.jpg">-->
-<!--         <div class="container">-->
-<!--            <div class="row">-->
-<!--               <div class=" col-12">-->
-<!--                  <div class="breadcrumb__content z-index d-flex justify-content-between align-items-end">-->
-<!--                     <div class="breadcrumb__section-title-box">-->
-<!--                        <h3 class="breadcrumb__title">Accessories-->
-<!--</h3>-->
-<!--                     </div>-->
-<!--                  </div>-->
-<!--               </div>-->
-<!--            </div>-->
-<!--         </div>-->
-<!--      </div>-->
-        <div class="breadcrumb__area breadcrumb__overlay breadcrumb__height p-relative fix" data-background="assets/Images/breadcrumb.jpg">
+      <div class="breadcrumb__area breadcrumb__overlay breadcrumb__height p-relative fix" data-background="assets/Images/breadcrumb.jpg">
          <div class="container">
             <div class="row">
                <div class="col-xxl-12">
@@ -43,8 +29,9 @@
             <div class="col-lg-5 mb-40 ">
                 <div class="defence-img text-center">
                     <img src="assets/images/accessories-supply.avif"
-                        class="img-fluid rounded "
-                        alt="Accessories">
+                        class="img-fluid rounded"
+                        alt="Accessories supply for wire harness applications"
+                        loading="lazy">
 
                  
                 </div>
@@ -159,10 +146,10 @@
    <!-- project area start -->
       <div class="tp-project-2-area tp-blog-3-area  fix p-relative grey-bg pt-60 pb-60 ">
          <div class="tp-project-2-shape-1 d-none d-xl-block">
-            <img src="assets/img/project/shape-2-1.png" alt="">
+            <img src="assets/img/project/shape-2-1.png" alt="Decorative project background shape" loading="lazy">
          </div>
          <div class="tp-project-2-shape-2 d-none d-xl-block">
-            <img src="assets/img/project/shape-2-2.png" alt="">
+            <img src="assets/img/project/shape-2-2.png" alt="Decorative project accent shape" loading="lazy">
          </div>
          <div class="container custom-container-1">
             <div class="row">
@@ -179,7 +166,7 @@ Featured Products</h4>
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/images/wires-cables.avif" alt="">
+                        <img src="assets/images/wires-cables.avif" alt="Wires and cables product image" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="wirecable.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -193,7 +180,7 @@ Featured Products</h4>
                  <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/images/connector.jpeg" alt="">
+                        <img src="assets/images/connector.jpeg" alt="Automotive male and female connectors" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="Connectors.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -207,7 +194,7 @@ Featured Products</h4>
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/images/terminal.jpeg" alt="">
+                        <img src="assets/images/terminal.jpeg" alt="Terminal chain product" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="Terminal.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -221,7 +208,7 @@ Featured Products</h4>
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/images/CLIP-CLAMP.jpg" alt="">
+                        <img src="assets/images/CLIP-CLAMP.jpg" alt="Wire harness clip and clamp product" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="ClipClamp.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -235,7 +222,7 @@ Featured Products</h4>
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/images/TAPE1.avif" alt="">
+                        <img src="assets/images/TAPE1.avif" alt="Tape product image" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="Tape.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -249,7 +236,7 @@ Featured Products</h4>
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/images/accessories-supply.avif" alt="">
+                        <img src="assets/images/accessories-supply.avif" alt="Accessories supply product image" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="accessories.php"><i class="flaticon-right-arrow"></i></a>
                         </div>

@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+﻿<?php include 'header.php'; ?>
 <style>
 
 </style>
@@ -108,7 +108,7 @@
     <!-- about area start -->
     <div class="tp-about-area p-relative pt-60 pb-60">
         <div class="tp-about-shape-5 d-none d-xl-block">
-            <!--<img src="assets/img/about/shape-3-1.png" alt="">-->
+            
         </div>
         <div class="container">
             <div class="row">
@@ -116,14 +116,14 @@
                     <div class="tp-about-right-box text-end tp-about-right-wrap p-relative">
 
                         <div class="tp-about-main-thumb">
-                            <img src="assets/images/about-image1.png" alt="">
+                            <img src="assets/images/about-image1.png" alt="" loading="lazy">
                         </div>
 
                         <div class="tp-about-shape-2  d-none d-lg-block">
-                            <img src="assets/img/about/shape-1-3.png" alt="">
+                            <img src="assets/img/about/shape-1-3.png" alt="" loading="lazy">
                         </div>
                         <div class="tp-about-shape-6 d-none d-xl-block">
-                            <img src="assets/img/about/shape-3-2.png" alt="">
+                            <img src="assets/img/about/shape-3-2.png" alt="" loading="lazy">
                         </div>
                     </div>
                 </div>
@@ -181,7 +181,7 @@
     <!-- service area start -->
     <div class="tp-service-4-area p-relative fix grey-bg pt-70 pb-50 z-index">
         <div class="tp-service-4-shape-1 d-none d-xxl-block">
-            <img src="assets/img/service/shape-4-1.png" alt="">
+            <img src="assets/img/service/shape-4-1.png" alt="" loading="lazy">
         </div>
         <div class="container">
             <div class="tp-service-4-top-box pb-70">
@@ -237,7 +237,7 @@
                                 <div class="swiper-slide">
                                     <div class="tp-service-4-item p-relative">
                                         <div class="tp-service-4-item-bg">
-                                            <img src="assets/images/aerospace.jpg" alt="">
+                                            <img src="assets/images/aerospace.jpg" alt="" loading="lazy">
                                         </div>
                                         <div
                                             class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
@@ -267,7 +267,7 @@
                                 <div class="swiper-slide">
                                     <div class="tp-service-4-item p-relative">
                                         <div class="tp-service-4-item-bg">
-                                            <img src="assets/images/automotive.jpeg" alt="">
+                                            <img src="assets/images/automotive.jpeg" alt="" loading="lazy">
                                         </div>
                                         <div
                                             class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
@@ -294,7 +294,7 @@
                                 <div class="swiper-slide">
                                     <div class="tp-service-4-item p-relative">
                                         <div class="tp-service-4-item-bg">
-                                            <img src="assets/images/electrical-vehicle.jpg" alt="">
+                                            <img src="assets/images/electrical-vehicle.jpg" alt="" loading="lazy">
                                         </div>
                                         <div
                                             class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
@@ -323,7 +323,7 @@
                                 <div class="swiper-slide">
                                     <div class="tp-service-4-item p-relative">
                                         <div class="tp-service-4-item-bg">
-                                            <img src="assets/images/solar-panel.jpg" alt="">
+                                            <img src="assets/images/solar-panel.jpg" alt="" loading="lazy">
                                         </div>
                                         <div
                                             class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
@@ -354,7 +354,7 @@
                                 <div class="swiper-slide">
                                     <div class="tp-service-4-item p-relative">
                                         <div class="tp-service-4-item-bg">
-                                            <img src="assets/images/home-appliance1.jpg" alt="">
+                                            <img src="assets/images/home-appliance1.jpg" alt="" loading="lazy">
                                         </div>
                                         <div
                                             class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
@@ -385,7 +385,7 @@
                                 <div class="swiper-slide">
                                     <div class="tp-service-4-item p-relative">
                                         <div class="tp-service-4-item-bg">
-                                            <img src="assets/images/farm-agri.jpg" alt="">
+                                            <img src="assets/images/farm-agri.jpg" alt="" loading="lazy">
                                         </div>
                                         <div
                                             class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
@@ -416,7 +416,7 @@
                                 <div class="swiper-slide">
                                     <div class="tp-service-4-item p-relative">
                                         <div class="tp-service-4-item-bg">
-                                            <img src="assets/images/industrial-panel.jpg" alt="">
+                                            <img src="assets/images/industrial-panel.jpg" alt="" loading="lazy">
                                         </div>
                                         <div
                                             class="tp-service-4-content-wrap d-flex justify-content-between flex-column">

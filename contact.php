@@ -1,4 +1,4 @@
-
+﻿
 <?php include 'header.php'; ?>
 <style>
  .tp-btn{
@@ -53,7 +53,7 @@
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-contact-3-item text-center">
                      <div class="tp-contact-3-icon">
-                        <span><img class="z-index" src="assets/img/contact/icon-1.png" alt=""></span>
+                        <span><img class="z-index" src="assets/img/contact/icon-1.png" alt="" loading="lazy"></span>
                      </div>
                      <div class="tp-contact-3-text">
                         <h5 class="tp-contact-3-title">Visit our place</h5>
@@ -64,7 +64,7 @@
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
                   <div class="tp-contact-3-item text-center">
                      <div class="tp-contact-3-icon">
-                        <span><img class="z-index" src="assets/img/contact/icon-2.png" alt=""></span>
+                        <span><img class="z-index" src="assets/img/contact/icon-2.png" alt="" loading="lazy"></span>
                      </div>
                      <div class="tp-contact-3-text">
                         <h5 class="tp-contact-3-title">Contact us</h5>
@@ -76,7 +76,7 @@
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".7s">
                   <div class="tp-contact-3-item text-center">
                      <div class="tp-contact-3-icon">
-                        <span><img class="z-index" src="assets/img/contact/icon-3.png" alt=""></span>
+                        <span><img class="z-index" src="assets/img/contact/icon-3.png" alt="" loading="lazy"></span>
                      </div>
                      <div class="tp-contact-3-text">
                         <h5 class="tp-contact-3-title">Office time</h5>
@@ -170,3 +170,4 @@
 
 
 <?php include 'footer.php'; ?>
+

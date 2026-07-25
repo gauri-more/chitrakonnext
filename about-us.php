@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+﻿<?php include 'header.php'; ?>
 <main>
 
     <!-- breadcrumb area start -->
@@ -30,7 +30,7 @@
                 <div class="col-xl-4 col-lg-4 wow tpfadeLeft" data-wow-duration=".9s" data-wow-delay=".5s">
                     <div class="tp-about-right-box text-end tp-about-right-wrap p-relative">
                         <div class="tp-about-main-thumb">
-                            <img src="assets/images/about-image1.png" alt="about-us">
+                            <img src="assets/images/about-image1.png" alt="about-us" loading="lazy">
                         </div>
 
                         <div class="tp-about-shape-2  d-none d-lg-block">
@@ -53,7 +53,7 @@
                         </div>
                         <div class="tp-about-text me-0">
                             <p> <strong>Chaitra Konnex Technology (CKT)</strong> is an Indian manufacturer specializing in high-performance wire harness
-                              solutions and customized electrical interconnect systems. We serve a diverse range of industries — Defence, Automotive, 
+                              solutions and customized electrical interconnect systems. We serve a diverse range of industries â€” Defence, Automotive, 
                             Electric Vehicles (EV), Industrial Automation, Renewable Energy, Home Appliances, Farm & Agricultural Equipment, and Industrial Control Panels.
                             </p>
                         </div>
@@ -63,7 +63,7 @@
                     <p>
                         Established in <strong>2021</strong>, CKT has grown into a trusted manufacturer 
                         of premium wiring harnesses and cable assemblies, built on precision engineering and stringent quality control. Every product is manufactured 
-                        using advanced production technologies and high-grade materials to ensure outstanding performance, durability, and reliability — even in the most demanding applications.
+                        using advanced production technologies and high-grade materials to ensure outstanding performance, durability, and reliability â€” even in the most demanding applications.
                         
          
                     </p>
@@ -140,7 +140,7 @@
                                     </p>
 
                                     <div class="revenue">
-                                        Revenue : ₹14 Lakhs
+                                        Revenue : â‚¹14 Lakhs
                                     </div>
 
                                 </div>
@@ -166,7 +166,7 @@
                                     </p>
 
                                     <div class="revenue">
-                                        Revenue : ₹37 Lakhs
+                                        Revenue : â‚¹37 Lakhs
                                     </div>
 
                                 </div>
@@ -193,7 +193,7 @@
                                     </p>
 
                                     <div class="revenue">
-                                        Revenue : ₹93 Lakhs
+                                        Revenue : â‚¹93 Lakhs
                                     </div>
 
                                 </div>
@@ -219,7 +219,7 @@
                                     </p>
 
                                     <div class="revenue">
-                                        Revenue : ₹98 Lakhs
+                                        Revenue : â‚¹98 Lakhs
                                     </div>
 
                                 </div>
@@ -245,7 +245,7 @@
                                     </p>
 
                                     <div class="revenue">
-                                        Target : ₹1.4 Crore
+                                        Target : â‚¹1.4 Crore
                                     </div>
 
                                 </div>
@@ -267,11 +267,11 @@
 
                                     <p>
                                         Started supplying Military & Defence Wire Harnesses
-                                        with a projected revenue target of ₹3 Crore.
+                                        with a projected revenue target of â‚¹3 Crore.
                                     </p>
 
                                     <div class="revenue">
-                                        Target : ₹3 Crore
+                                        Target : â‚¹3 Crore
                                     </div>
 
                                 </div>
@@ -320,7 +320,7 @@
                         <div class="tp-choose-text mb-50">
                             <p>
 
-                                Chaitra Konnex Technology (CKT) goes beyond sourcing and procurement. We deliver complete, end-to-end wire harness manufacturing — backed by engineering 
+                                Chaitra Konnex Technology (CKT) goes beyond sourcing and procurement. We deliver complete, end-to-end wire harness manufacturing â€” backed by engineering 
                                 expertise, optimized supply chain management, stringent quality standards, and reliable support across every stage of your project.
                             </p>
                         </div>
@@ -405,7 +405,7 @@
     <div class="tp-choose-2-area p-relative fix mt-70 pb-70">
 
         <div class="tp-choose-2-shape-2 d-none d-xxl-block">
-            <img src="assets/img/choose/shape-2-2.png" alt="">
+            <img src="assets/img/choose/shape-2-2.png" alt="" loading="lazy">
         </div>
         <div class="tp-choose-2-bg" data-background="assets/Images/why-choose-1.jpg"></div>
         <div class="container">
@@ -494,8 +494,8 @@
     </div>
     <!-- tp-feature-area-start -->
     <div class="tp-feature-area body-bg-6 p-relative z-index-1 pt-60 pb-40">
-        <img class="tp-feature-6-shape" src="assets/img/update/feature/shape.png" alt="">
-        <img class="tp-feature-6-shape-2" src="assets/Images/shape-2.webp" alt="">
+        <img class="tp-feature-6-shape" src="assets/img/update/feature/shape.png" alt="" loading="lazy">
+        <img class="tp-feature-6-shape-2" src="assets/Images/shape-2.webp" alt="" loading="lazy">
         <div class="container">
             <div class="row">
                 <div class="col-12">

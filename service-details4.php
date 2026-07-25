@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+﻿<?php include 'header.php'; ?>
 
 
    <main>
@@ -83,10 +83,10 @@
                      <div class="tp-service-details-widget mb-30">
                         <div class="tp-service-details-thumb-box text-center">
                            <a href="index.html"><img src="assets/Images/	
-logo.png" alt=""></a>                           
+logo.png" alt="" loading="lazy"></a>                           
                            <h4 class="tp-service-details-title mt-35 mb-25">Get full range <br> of premium services</h4>
                            <div class="tp-service-details-thumb">
-                              <img src="assets/img/service/Service-Details.png" alt="">
+                              <img src="assets/img/service/Service-Details.png" alt="" loading="lazy">
                            </div>
                         </div>
                      </div>
@@ -120,7 +120,7 @@ control panels, industrial automation, and power distribution applications.
 </div>
 
 <div class="tp-service-details-right-thumb mb-50">
-<img class="w-100" src="assets/Images/solare-panel-wire.jpg" alt="">
+<img class="w-100" src="assets/Images/solare-panel-wire.jpg" alt="" loading="lazy">
 </div>
 
 <div class="tp-service-details-text pb-25">
@@ -200,4 +200,5 @@ and ensure efficient electrical performance.
    </main>
 
 <?php include 'footer.php'; ?>
+
 

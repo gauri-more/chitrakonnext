@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+﻿<?php include 'header.php'; ?>
 
 
    <main>
@@ -34,7 +34,7 @@
                 <div class="defence-img text-center">
                     <img src="assets/images/ev-carg-harness.jpg"
                         class="img-fluid rounded "
-                        alt="EV-LV & HV Harness">
+                        alt="EV-LV & HV Harness" loading="lazy">
 
                  
                 </div>
@@ -131,10 +131,10 @@
       <!-- project area start -->
       <div class="tp-project-2-area tp-blog-3-area  fix p-relative grey-bg pt-60 pb-60 ">
          <div class="tp-project-2-shape-1 d-none d-xl-block">
-            <img src="assets/img/project/shape-2-1.png" alt="">
+            <img src="assets/img/project/shape-2-1.png" alt="" loading="lazy">
          </div>
          <div class="tp-project-2-shape-2 d-none d-xl-block">
-            <img src="assets/img/project/shape-2-2.png" alt="">
+            <img src="assets/img/project/shape-2-2.png" alt="" loading="lazy">
          </div>
          <div class="container custom-container-1">
             <div class="row">
@@ -151,7 +151,7 @@ Featured Products</h4>
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/images/defence-wire11.jpg" alt="">
+                        <img src="assets/images/defence-wire11.jpg" alt="" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="DefenceWireHarness.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -165,7 +165,7 @@ Featured Products</h4>
                  <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/images/automot-pigtail-harness.jpeg" alt="">
+                        <img src="assets/images/automot-pigtail-harness.jpeg" alt="" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="AutomotivePigtailHarness.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -179,7 +179,7 @@ Featured Products</h4>
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/images/ev-carg-harness.jpg" alt="">
+                        <img src="assets/images/ev-carg-harness.jpg" alt="" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="EV-LV-HVHarness.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -193,7 +193,7 @@ Featured Products</h4>
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/images/battery-wire-harness.png" alt="">
+                        <img src="assets/images/battery-wire-harness.png" alt="" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="BatteryHarness.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -207,7 +207,7 @@ Featured Products</h4>
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/images/pcb-wire-harness.png" alt="">
+                        <img src="assets/images/pcb-wire-harness.png" alt="" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="PCBWireHarness.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -221,7 +221,7 @@ Featured Products</h4>
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/images/power-harness.jpg" alt="">
+                        <img src="assets/images/power-harness.jpg" alt="" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="PowerHarness.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -235,7 +235,7 @@ Featured Products</h4>
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/images/panel-wire-harness.avif" alt="">
+                        <img src="assets/images/panel-wire-harness.avif" alt="" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="PanelWiringHarness.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -250,7 +250,7 @@ Featured Products</h4>
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/images/solar-wire-harness.jpg" alt="">
+                        <img src="assets/images/solar-wire-harness.jpg" alt="" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="SolarControlPanelHarness.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
@@ -265,7 +265,7 @@ Featured Products</h4>
                <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-blog-3-item">
                      <div class="tp-blog-3-thumb p-relative">
-                        <img src="assets/images/electromechanical-wire-harness.png" alt="">
+                        <img src="assets/images/electromechanical-wire-harness.png" alt="" loading="lazy">
                         <div class="tp-blog-3-icon">
                            <a href="ElectroMechanicalAssembely.php"><i class="flaticon-right-arrow"></i></a>
                         </div>

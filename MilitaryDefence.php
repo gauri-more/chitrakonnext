@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+﻿<?php include 'header.php'; ?>
 
 
 <main>
@@ -84,7 +84,7 @@
                     data-wow-delay=".3s">
                     <div class="tp-blog-3-item">
                         <div class="tp-blog-3-thumb p-relative">
-                            <img src="assets/images/automotive.jpeg" alt="">
+                            <img src="assets/images/automotive.jpeg" alt="" loading="lazy">
                             <div class="tp-blog-3-icon">
                                 <a href="Automotive.php"><i class="flaticon-right-arrow"></i></a>
                             </div>
@@ -98,7 +98,7 @@
                     data-wow-delay=".3s">
                     <div class="tp-blog-3-item">
                         <div class="tp-blog-3-thumb p-relative">
-                            <img src="assets/images/electrical-vehicle.jpg" alt="">
+                            <img src="assets/images/electrical-vehicle.jpg" alt="" loading="lazy">
                             <div class="tp-blog-3-icon">
                                 <a href="ElectricVehicles.php"><i class="flaticon-right-arrow"></i></a>
                             </div>
@@ -112,7 +112,7 @@
                     data-wow-delay=".3s">
                     <div class="tp-blog-3-item">
                         <div class="tp-blog-3-thumb p-relative">
-                            <img src="assets/images/solar-panel.jpg" alt="">
+                            <img src="assets/images/solar-panel.jpg" alt="" loading="lazy">
                             <div class="tp-blog-3-icon">
                                 <a href="RenewableEnergy.php"><i class="flaticon-right-arrow"></i></a>
                             </div>
@@ -126,7 +126,7 @@
                     data-wow-delay=".3s">
                     <div class="tp-blog-3-item">
                         <div class="tp-blog-3-thumb p-relative">
-                            <img src="assets/images/home-appliance1.jpg" alt="">
+                            <img src="assets/images/home-appliance1.jpg" alt="" loading="lazy">
                             <div class="tp-blog-3-icon">
                                 <a href="HomeAppliances.php"><i class="flaticon-right-arrow"></i></a>
                             </div>
@@ -140,7 +140,7 @@
                     data-wow-delay=".3s">
                     <div class="tp-blog-3-item">
                         <div class="tp-blog-3-thumb p-relative">
-                            <img src="assets/images/farm-agri.jpg" alt="">
+                            <img src="assets/images/farm-agri.jpg" alt="" loading="lazy">
                             <div class="tp-blog-3-icon">
                                 <a href="FarmAgriculturalEquipment.php"><i class="flaticon-right-arrow"></i></a>
                             </div>
@@ -155,7 +155,7 @@
                     data-wow-delay=".3s">
                     <div class="tp-blog-3-item">
                         <div class="tp-blog-3-thumb p-relative">
-                            <img src="assets/images/industrial-panel.jpg" alt="">
+                            <img src="assets/images/industrial-panel.jpg" alt="" loading="lazy">
                             <div class="tp-blog-3-icon">
                                 <a href="IndustrialControlPanel.php"><i class="flaticon-right-arrow"></i></a>
                             </div>

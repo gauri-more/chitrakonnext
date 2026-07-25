@@ -1,4 +1,4 @@
-
+﻿
 <?php include 'header.php'; ?>
 <style>
     .tp-project-thumb {
@@ -74,7 +74,7 @@
       <!-- project area start -->
       <div class="tp-project-area p-relative pt-120 pb-90">
          <div class="tp-project-shape-1 d-none d-xl-block">
-            <img src="assets/img/project/shape-1-1.png" alt="">
+            <img src="assets/img/project/shape-1-1.png" alt="" loading="lazy">
          </div>
          <div class="container">
 <div class="row">
@@ -86,8 +86,7 @@
         <!--<div class="tp-project-item p-relative">-->
 
         <!--    <div class="tp-project-thumb">-->
-        <!--        <img src="assets/images/Automaticwirecuttingstrippingmachine.jpeg"-->
-        <!--             class="img-fluid"-->
+        
         <!--             alt="Automatic wire cutting and stripping machine">-->
         <!--    </div>-->
 
@@ -115,7 +114,7 @@
     <div class="tp-blog-3-thumb p-relative">
         <img src="assets/images/Automaticwirecuttingstrippingmachine.jpeg"
              class="img-fluid"
-             alt="Automatic Wire Cutting & Stripping Machine">
+             alt="Automatic Wire Cutting & Stripping Machine" loading="lazy">
 
         <div class="tp-blog-3-icon open-gallery"
              data-image="assets/images/Automaticwirecuttingstrippingmachine.jpeg"
@@ -147,7 +146,7 @@
     <div class="tp-blog-3-thumb p-relative">
         <img src="assets/images/sleeves-cutting-machine.jpeg"
              class="img-fluid"
-             alt="Sleeve Cutting Machine">
+             alt="Sleeve Cutting Machine" loading="lazy">
 
         <div class="tp-blog-3-icon open-gallery"
              data-image="assets/images/sleeves-cutting-machine.jpeg"
@@ -179,7 +178,7 @@
     <div class="tp-blog-3-thumb p-relative">
         <img src="assets/images/Automaticwirecuttingstrippingtwistingmacine.jpeg"
              class="img-fluid"
-             alt="Automatic Wire Cutting, Stripping & Twisting Machine">
+             alt="Automatic Wire Cutting, Stripping & Twisting Machine" loading="lazy">
 
         <div class="tp-blog-3-icon open-gallery"
              data-image="assets/images/Automaticwirecuttingstrippingtwistingmacine.jpeg"
@@ -211,7 +210,7 @@
     <div class="tp-blog-3-thumb p-relative">
         <img src="assets/images/Automaticmulticorecablecuttingouter-innerstrippingmachine.jpeg"
              class="img-fluid"
-             alt="Automatic Multicore Cable Cutting & Outer-Inner Stripping Machine">
+             alt="Automatic Multicore Cable Cutting & Outer-Inner Stripping Machine" loading="lazy">
 
         <div class="tp-blog-3-icon open-gallery"
              data-image="assets/images/Automaticmulticorecablecuttingouter-innerstrippingmachine.jpeg"
@@ -243,7 +242,7 @@
     <div class="tp-blog-3-thumb p-relative">
         <img src="assets/images/wireharnessassembly.jpeg"
              class="img-fluid"
-             alt="Wire Harness Assembly">
+             alt="Wire Harness Assembly" loading="lazy">
 
         <div class="tp-blog-3-icon open-gallery"
              data-image="assets/images/wireharnessassembly.jpeg"
@@ -277,7 +276,7 @@
     <div class="tp-blog-3-thumb p-relative">
         <img src="assets/images/cableassemblyqualityinspection.jpeg"
              class="img-fluid"
-             alt="Cable Assembly and Quality Inspection">
+             alt="Cable Assembly and Quality Inspection" loading="lazy">
 
         <div class="tp-blog-3-icon open-gallery"
              data-image="assets/images/cableassemblyqualityinspection.jpeg"
@@ -310,7 +309,7 @@
     <div class="tp-blog-3-thumb p-relative">
         <img src="assets/images/semiautomaticterminalcrimpingmachine.jpeg"
              class="img-fluid"
-             alt="Semi-Automatic Terminal Crimping Machine">
+             alt="Semi-Automatic Terminal Crimping Machine" loading="lazy">
 
         <div class="tp-blog-3-icon open-gallery"
              data-image="assets/images/semiautomaticterminalcrimpingmachine.jpeg"
@@ -343,7 +342,7 @@
     <div class="tp-blog-3-thumb p-relative">
         <img src="assets/images/Pushpullloadtester.jpeg"
              class="img-fluid"
-             alt="Push Pull Load Tester">
+             alt="Push Pull Load Tester" loading="lazy">
 
         <div class="tp-blog-3-icon open-gallery"
              data-image="assets/images/Pushpullloadtester.jpeg"
@@ -376,7 +375,7 @@
     <div class="tp-blog-3-thumb p-relative">
         <img src="assets/images/Customcircularconnector.jpeg"
              class="img-fluid"
-             alt="Custom Circular Connector Cable Assembly">
+             alt="Custom Circular Connector Cable Assembly" loading="lazy">
 
         <div class="tp-blog-3-icon open-gallery"
              data-image="assets/images/Customcircularconnector.jpeg"
@@ -409,7 +408,7 @@
     <div class="tp-blog-3-thumb p-relative">
         <img src="assets/images/Crimpforcemonitor.jpeg"
              class="img-fluid"
-             alt="Crimp Force Monitor">
+             alt="Crimp Force Monitor" loading="lazy">
 
         <div class="tp-blog-3-icon open-gallery"
              data-image="assets/images/Crimpforcemonitor.jpeg"
@@ -441,7 +440,7 @@
     <div class="tp-blog-3-thumb p-relative">
         <img src="assets/images/Aircompressor.jpeg"
              class="img-fluid"
-             alt="Air Compressor">
+             alt="Air Compressor" loading="lazy">
 
         <div class="tp-blog-3-icon open-gallery"
              data-image="assets/images/Aircompressor.jpeg"
@@ -597,7 +596,7 @@
                 <!-- Image -->
                 <img id="galleryImage"
                      class="img-fluid rounded"
-                     style="display:none; max-height:80vh;">
+                     style="display:none; max-height:80vh;" alt="" loading="lazy">
 
                 <!-- Video -->
                 <video id="galleryVideo"

@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+﻿<?php include 'header.php'; ?>
 
 
    <main>
@@ -42,43 +42,43 @@
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
         <a href="#"><img src="assets/images/brand/drdo-logo.jpg
-" alt=""></a>
+" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/images/brand/ecozen-logo.jpg" alt=""></a>
+        <a href="#"><img src="assets/images/brand/ecozen-logo.jpg" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/images/brand/suzuki-logo.jpg" alt=""></a>
+        <a href="#"><img src="assets/images/brand/suzuki-logo.jpg" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
         <a href="#"><img src="assets/images/brand/mahindra-logo.jpg
-" alt=""></a>
+" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/images/brand/tataMotors-logo.jpg" alt=""></a>
+        <a href="#"><img src="assets/images/brand/tataMotors-logo.jpg" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/images/brand/bajaj-logo.jpg" alt=""></a>
+        <a href="#"><img src="assets/images/brand/bajaj-logo.jpg" alt="" loading="lazy"></a>
     </div>
 </div>
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/images/brand/john-dere-logo.jpg" alt=""></a>
+        <a href="#"><img src="assets/images/brand/john-dere-logo.jpg" alt="" loading="lazy"></a>
     </div>
 </div>
 
@@ -95,72 +95,72 @@
              <!-- Original -->
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/drdo-logo.png" alt=""></a>
+        <a href="#"><img src="assets/Images/brand/drdo-logo.png" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/ecozen-logo-updated.png" alt=""></a>
+        <a href="#"><img src="assets/Images/brand/ecozen-logo-updated.png" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/SparkMindaGreenMobilitylogo.png" alt=""></a>
+        <a href="#"><img src="assets/Images/brand/SparkMindaGreenMobilitylogo.png" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/logo-tata-autocomp-blue.svg" alt=""></a>
+        <a href="#"><img src="assets/Images/brand/logo-tata-autocomp-blue.svg" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/logo-DNEmAKYs.webp" alt=""></a>
+        <a href="#"><img src="assets/Images/brand/logo-DNEmAKYs.webp" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/vacco-logo.png" alt=""></a>
+        <a href="#"><img src="assets/Images/brand/vacco-logo.png" alt="" loading="lazy"></a>
     </div>
 </div>
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/client-logo-ckt.jpg" alt=""></a>
-    </div>
-</div>
-
-<div class="swiper-slide">
-    <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/ecozen-logo-updated.png" alt=""></a>
+        <a href="#"><img src="assets/Images/brand/client-logo-ckt.jpg" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/SparkMindaGreenMobilitylogo.png" alt=""></a>
+        <a href="#"><img src="assets/Images/brand/ecozen-logo-updated.png" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/logo-tata-autocomp.svg" alt=""></a>
+        <a href="#"><img src="assets/Images/brand/SparkMindaGreenMobilitylogo.png" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/logo-DNEmAKYs.webp" alt=""></a>
+        <a href="#"><img src="assets/Images/brand/logo-tata-autocomp.svg" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/Images/brand/vacco-logo.png" alt=""></a>
+        <a href="#"><img src="assets/Images/brand/logo-DNEmAKYs.webp" alt="" loading="lazy"></a>
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="tp-brand-6-item">
+        <a href="#"><img src="assets/Images/brand/vacco-logo.png" alt="" loading="lazy"></a>
     </div>
 </div>
 
@@ -190,38 +190,38 @@
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
         <a href="#"><img src="assets/images/brand/drdo-logo.jpg
-" alt=""></a>
+" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/images/brand/ecozen-logo.jpg" alt=""></a>
+        <a href="#"><img src="assets/images/brand/ecozen-logo.jpg" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/images/brand/spark-india.jpg" alt=""></a>
+        <a href="#"><img src="assets/images/brand/spark-india.jpg" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
         <a href="#"><img src="assets/images/brand/tm-automotive.jpg
-" alt=""></a>
+" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/images/brand/varroc.jpg" alt=""></a>
+        <a href="#"><img src="assets/images/brand/varroc.jpg" alt="" loading="lazy"></a>
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <a href="#"><img src="assets/images/brand/sensing.jpg" alt=""></a>
+        <a href="#"><img src="assets/images/brand/sensing.jpg" alt="" loading="lazy"></a>
     </div>
 </div>
 
@@ -251,22 +251,22 @@
         <div class="ckt-brand-track">
 
             <!-- Logos -->
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-1.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-2.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-3.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-4.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-5.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-6.jpg"></div>
-                  <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-7.jpg"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-1.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-2.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-3.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-4.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-5.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-6.jpg" alt="" loading="lazy"></div>
+                  <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-7.jpg" alt="" loading="lazy"></div>
 
             <!-- Repeat -->
-                <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-1.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-2.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-3.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-4.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-5.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-6.jpg"></div>
-                  <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-7.jpg"></div>
+                <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-1.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-2.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-3.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-4.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-5.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-6.jpg" alt="" loading="lazy"></div>
+                  <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-7.jpg" alt="" loading="lazy"></div>
 
         </div>
     </div>
@@ -275,22 +275,22 @@
     <div class="ckt-brand-marquee reverse">
         <div class="ckt-brand-track">
 
-        <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-8.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-9.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-10.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-11.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-12.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-13.jpg"></div>
-                  <!--<div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-14.jpg"></div>-->
+        <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-8.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-9.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-10.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-11.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-12.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-13.jpg" alt="" loading="lazy"></div>
+                  <!--<div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-14.jpg" alt="" loading="lazy"></div>-->
 
             <!-- Repeat -->
-           <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-8.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-9.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-10.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-11.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-12.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-13.jpg"></div>
-                  <!--<div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-14.jpg"></div>-->
+           <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-8.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-9.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-10.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-11.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-12.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-13.jpg" alt="" loading="lazy"></div>
+                  <!--<div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-14.jpg" alt="" loading="lazy"></div>-->
 
         </div>
     </div>
@@ -299,22 +299,22 @@
     <div class="ckt-brand-marquee">
         <div class="ckt-brand-track">
 
-               <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo14.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-15.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-16.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-17.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-18.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-19.jpg"></div>
-                  <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-20.jpg"></div>
+               <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo14.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-15.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-16.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-17.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-18.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-19.jpg" alt="" loading="lazy"></div>
+                  <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-20.jpg" alt="" loading="lazy"></div>
 
             <!-- Repeat -->
-           <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo14.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-15.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-16.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-17.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-18.jpg"></div>
-            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-19.jpg"></div>
-                  <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-20.jpg"></div>
+           <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo14.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-15.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-16.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-17.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-18.jpg" alt="" loading="lazy"></div>
+            <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-19.jpg" alt="" loading="lazy"></div>
+                  <div class="ckt-brand-box"><img src="assets/Images/brand/ckt-logo-20.jpg" alt="" loading="lazy"></div>
 
         </div>
     </div>
@@ -325,10 +325,10 @@
       <!-- funfact area  start -->
       <div class="tp-funfact-area fix p-relative grey-bg pt-60 pb-65 ">
          <div class="tp-funfact-shape-1">
-            <img src="assets/img/funfact/shape-1-1.png" alt="">
+            <img src="assets/img/funfact/shape-1-1.png" alt="" loading="lazy">
          </div>
          <div class="tp-funfact-shape-2 d-none d-xl-block">
-             <img src="assets/img/funfact/shape-1-1.png" alt="">
+             <img src="assets/img/funfact/shape-1-1.png" alt="" loading="lazy">
          </div>
          <div class="container">
             <div class="row">
@@ -387,3 +387,4 @@
 
    </main>
 <?php include 'footer.php'; ?>
+
