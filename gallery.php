@@ -73,6 +73,15 @@
 
       <!-- project area start -->
       <div class="tp-project-area p-relative pt-120 pb-90">
+         <div class="container">
+            <div class="row mb-40">
+               <div class="col-12 text-center">
+                  <span class="tp-section-subtitle">OUR FACILITY</span>
+                  <h2 class="tp-section-title">Inside CKT's Manufacturing Process</h2>
+                  <p class="mb-0">A closer look at the machinery, processes, and quality checks behind every wire harness we manufacture.</p>
+               </div>
+            </div>
+         </div>
          <div class="tp-project-shape-1 d-none d-xl-block">
             <img src="assets/img/project/shape-1-1.png" alt="" loading="lazy">
          </div>

@@ -37,18 +37,18 @@
                             Reliable Wire Harness Solutions for Military & Defence
                         </h3>
                         <p>
-                            CKT (Chaitra Konnex Technology) manufactures high-quality wire harness assemblies
-                            for military and defence applications, delivering reliable electrical connectivity
-                            for mission-critical systems. Our harnesses are manufactured according to customer
-                            drawings and technical specifications, ensuring precision, durability, and consistent
-                            performance in demanding environments.
+                            CKT (Chaitra Konnex Technology) manufactures high-quality wire harness assemblies for
+                            military and defence applications, delivering reliable electrical connectivity for
+                            mission-critical systems. Every harness is built to customer drawings and technical
+                            specifications, ensuring precision, durability, and consistent performance in the most
+                            demanding environments.
                         </p>
                         <p>
-                            We support defence organizations, OEMs, and system integrators with customized wire
-                            harness solutions for communication systems, control panels, surveillance equipment,
-                            military vehicles, and other defence electronics. Every assembly undergoes stringent
-                            quality inspection and electrical testing to ensure dependable performance and long-term
-                            reliability.
+                            We support defence organizations, OEMs, and system integrators with customized wiring
+                            solutions for communication systems, control panels, surveillance equipment, military
+                            vehicles, and other defence electronics. Each assembly undergoes stringent quality
+                            inspection and electrical testing prior to dispatch, ensuring dependable performance in
+                            the field.
                         </p>
                     </div>
                 </div>

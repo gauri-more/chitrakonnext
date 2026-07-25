@@ -39,20 +39,18 @@
 </h3>
 
 <p>
-    CKT (Chaitra Konnex Technology) manufactures high-quality automotive wire harness
-    assemblies that ensure safe, reliable, and efficient electrical connectivity across
-    modern vehicles. Our harnesses are manufactured according to customer drawings and
-    technical specifications, delivering precision, durability, and consistent performance
-    for a wide range of automotive applications.
+    CKT (Chaitra Konnex Technology) manufactures high-quality automotive wire harness assemblies
+    that ensure safe, reliable, and efficient electrical connectivity across modern vehicles. Every
+    harness is built to customer drawings and technical specifications, delivering precision, durability,
+    and consistent performance across a wide range of automotive applications.
 </p>
 
 <p>
-    We support automotive OEMs, Tier-1 suppliers, and component manufacturers with
-    customized wire harness solutions for passenger vehicles, commercial vehicles,
-    two-wheelers, three-wheelers, electric vehicles, lighting systems, dashboards,
-    engine compartments, infotainment systems, and body electrical systems. Every
-    assembly undergoes stringent quality inspection and electrical testing to ensure
-    dependable performance, safety, and long-term reliability.
+    We support automotive OEMs, Tier-1 suppliers, and component manufacturers with customized wiring
+    for passenger vehicles, commercial vehicles, two- and three-wheelers, electric vehicles, lighting
+    systems, dashboards, engine compartments, infotainment systems, and body electrical systems. Each
+    assembly undergoes stringent quality inspection and electrical testing prior to dispatch, ensuring
+    dependable, long-lasting performance on the road.
 </p>
 
 </div>

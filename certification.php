@@ -10,12 +10,12 @@
                <div class="col-xxl-12">
                   <div class="breadcrumb__content z-index d-flex justify-content-between align-items-end">
                      <div class="breadcrumb__section-title-box">
-                        <h3 class="breadcrumb__title">Certificate</h3>
+                        <h3 class="breadcrumb__title">Certification</h3>
                      </div>
                      <div class="breadcrumb__list">
                         <span><a href="index.php">Home</a></span>
                         <span class="dvdr"><i>/</i></span>
-                        <span>Certificate</span>
+                        <span>Certification</span>
                      </div>
                   </div>
                </div>
@@ -103,7 +103,7 @@
                <div class="col-xl-6 col-lg-6 mb-50 wow tpfadeRight" data-wow-duration=".9s" data-wow-delay=".5s">
                   <div class="tp-about-4-right-box">
                      <div class="tp-about-4-thumb mb-30">
-                        <img src="assets/images/certificate-ckt.png" alt="" loading="lazy">
+                        <img src="assets/images/certificate-ckt.png" alt="CKT ISO 9001:2015 certification" loading="lazy">
                      </div>
                   
                   </div>
@@ -125,7 +125,7 @@
 </div>
 
                         <div class="tp-feature-2-text">
-                            <h5 class="tp-feature-2-title">5+ Years of Industry Experience</h5>
+                            <h5 class="tp-feature-2-title">4+ Years of Industry Experience</h5>
                         </div>
                     </div>
                 </div>
@@ -153,18 +153,6 @@
                         </div>
                     </div>
                 </div>
-
-                <!-- Prototype -->
-<!--                <div class="col-xl-3 col-lg-4 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".9s">-->
-<!--                    <div class="tp-feature-2-item">-->
-<!--                       <div class="tp-feature-2-icon">-->
-<!--    <span><i class="fa-solid fa-gears"></i></span>-->
-<!--</div>-->
-<!--                        <div class="tp-feature-2-text">-->
-<!--                            <h5 class="tp-feature-2-title">Prototype to Production Capability</h5>-->
-<!--                        </div>-->
-<!--                    </div>-->
-<!--                </div>-->
 
             </div>
         </div>

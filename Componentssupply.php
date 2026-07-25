@@ -37,18 +37,18 @@
                             Reliable Electrical & Electronic Components Supply
                         </h3>
                         <p>
-                            At <strong>CKT (Chaitra Konnex Technology)</strong>, we provide a comprehensive range of
-                            high-quality components required for reliable wire harness assembly and electrical
-                            connectivity solutions. Our component supply portfolio includes <strong>wires and
-                                cables, connectors, terminals, clips and clamps, tapes, and other essential
-                                accessories</strong> designed to meet the requirements of automotive, industrial,
-                            home appliance, renewable energy, and electronic applications.
+                            Beyond wire harness manufacturing, CKT supplies a comprehensive range of components
+                            essential to building reliable electrical and electronic assemblies. Our portfolio includes
+                            wires and cables, automotive connectors, terminal chains, clips and clamps, tapes, and
+                            other essential accessories — sourced to meet the exacting standards of automotive,
+                            industrial, home appliance, renewable energy, and electronics applications.
                         </p>
                         <p>
-                            We supply durable components that support consistent quality, performance,
-                            and reliability. With our strong supply network and quality-focused approach,
-                            we help manufacturers achieve efficient wire harness production and customized
-                            electrical assembly solutions for a wide range of industries.
+                            Every component we supply is selected for consistent quality, durability, and performance
+                            under real-world operating conditions. Backed by a strong supplier network and rigorous
+                            incoming quality checks, we help manufacturers avoid production delays, reduce rework,
+                            and maintain reliable output at scale — whether for a single prototype run or high-volume
+                            production.
                         </p>
 
                     </div>

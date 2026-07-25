@@ -39,22 +39,17 @@
 </h3>
 
 <p>
-    CKT (Chaitra Konnex Technology) manufactures high-quality wire harness
-    assemblies for industrial control panels, ensuring safe, reliable, and
-    efficient electrical connectivity for industrial automation and power
-    distribution systems. Our harnesses are manufactured according to customer
-    drawings and technical specifications, delivering precision, durability,
-    and consistent performance in demanding industrial environments.
+    CKT (Chaitra Konnex Technology) manufactures high-quality wire harness assemblies for industrial
+    control panels, ensuring safe, reliable, and efficient electrical connectivity for industrial automation
+    and power distribution systems. Every harness is built to customer drawings and technical specifications,
+    delivering precision, durability, and consistent performance in demanding industrial environments.
 </p>
 
 <p>
-    We support panel builders, OEMs, automation companies, and system
-    integrators with customized wire harness solutions for PLC panels, MCC
-    panels, PCC panels, VFD panels, automation control panels, electrical
-    cabinets, machine control systems, and power distribution units. Every
-    assembly undergoes stringent quality inspection and electrical testing to
-    ensure dependable performance, safety, and long-term operational
-    reliability.
+    We support panel builders, OEMs, automation companies, and system integrators with customized harnesses
+    for PLC panels, MCC panels, PCC panels, VFD panels, automation control panels, electrical cabinets,
+    machine control systems, and power distribution units. Each assembly undergoes stringent quality
+    inspection and electrical testing to ensure dependable, long-term operational performance.
 </p>
 
 </div>

@@ -30,22 +30,19 @@
                 <div class="col-lg-6">
                     <div class="tp-about-content">
                         <h3 class="mb-20">
-                            Precision High-Quality Wire Harness Solutions
+                            Precision, High-Quality Wire Harness Solutions
                         </h3>
                         <p>
-                            At <strong>CKT (Chaitra Konnex Technology)</strong>, we specialize in designing and
-                            manufacturing precision-engineered wire harness assemblies that deliver safe,
-                            reliable, and efficient electrical connectivity. Our solutions are customized to
-                            meet the specific requirements of automotive, industrial, renewable energy,
-                            home appliance, and electronic applications.
+                            We design and manufacture precision-engineered wire harness assemblies that deliver safe,
+                            reliable, and efficient electrical connectivity — tailored to the specific requirements of
+                            automotive, industrial, renewable energy, home appliance, and electronics applications.
                         </p>
 
                         <p>
-                            Equipped with advanced wire cutting, stripping, crimping, twisting, and testing
-                            machines, we ensure every wire harness is manufactured with exceptional accuracy,
-                            durability, and consistent quality. Each assembly undergoes comprehensive quality
-                            inspections and electrical testing to guarantee reliable performance even in the
-                            most demanding operating environments.
+                            Our facility is equipped with advanced cutting, stripping, crimping, twisting, and testing
+                            machines. Every assembly undergoes thorough quality inspection and electrical testing,
+                            ensuring consistent accuracy, durability, and dependable performance — even in the most
+                            demanding operating environments.
                         </p>
 
 

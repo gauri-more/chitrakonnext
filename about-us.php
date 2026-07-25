@@ -52,20 +52,23 @@
                             </h4>
                         </div>
                         <div class="tp-about-text me-0">
-                            <p> <strong>Chaitra Konnex Technology (CKT)</strong> is an Indian manufacturer specializing in high-performance wire harness
-                              solutions and customized electrical interconnect systems. We serve a diverse range of industries — Defence, Automotive, 
-                            Electric Vehicles (EV), Industrial Automation, Renewable Energy, Home Appliances, Farm & Agricultural Equipment, and Industrial Control Panels.
+                            <p>
+                                <strong>Chaitra Konnex Technology (CKT)</strong> is an Indian manufacturer specializing in
+                                high-performance wire harness solutions and customized electrical interconnect systems. We
+                                serve a diverse range of industries — Defence, Automotive, Electric Vehicles (EV),
+                                Industrial Automation, Renewable Energy, Home Appliances, Farm & Agricultural Equipment,
+                                and Industrial Control Panels.
                             </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-12 col-12">
                     <p>
-                        Established in <strong>2021</strong>, CKT has grown into a trusted manufacturer 
-                        of premium wiring harnesses and cable assemblies, built on precision engineering and stringent quality control. Every product is manufactured 
-                        using advanced production technologies and high-grade materials to ensure outstanding performance, durability, and reliability — even in the most demanding applications.
-                        
-         
+                        Established in <strong>2021</strong>, CKT has grown into a trusted manufacturer of premium
+                        wiring harnesses and cable assemblies, built on precision engineering and stringent quality
+                        control. Every product is manufactured using advanced production technologies and high-grade
+                        materials to ensure outstanding performance, durability, and reliability — even in the most
+                        demanding applications.
                     </p>
                 </div>
             </div>

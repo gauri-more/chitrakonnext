@@ -39,20 +39,18 @@
 </h3>
 
 <p>
-    CKT (Chaitra Konnex Technology) manufactures high-quality low-voltage (LV) and
-    high-voltage (HV) wire harness assemblies for electric vehicles, providing safe,
-    efficient, and reliable power and signal transmission. Our harnesses are manufactured
-    according to customer drawings and technical specifications, ensuring precision,
-    durability, and consistent performance in demanding EV applications.
+    CKT (Chaitra Konnex Technology) manufactures high-quality low-voltage (LV) and high-voltage (HV)
+    wire harness assemblies for electric vehicles, providing safe, efficient, and reliable power and
+    signal transmission. Every harness is built to customer drawings and technical specifications,
+    ensuring precision, durability, and consistent performance in demanding EV applications.
 </p>
 
 <p>
-    We support EV manufacturers, OEMs, and system integrators with customized wire
-    harness solutions for battery packs, battery management systems (BMS), motor
-    controllers, charging systems, DC-DC converters, power distribution units,
-    vehicle control units, and auxiliary electrical systems. Every assembly undergoes
-    stringent quality inspection and electrical testing to ensure maximum safety,
-    dependable performance, and long-term reliability.
+    We support EV manufacturers, OEMs, and system integrators with customized harnesses for battery
+    packs, battery management systems (BMS), motor controllers, charging systems, DC-DC converters,
+    power distribution units, vehicle control units, and auxiliary electrical systems. Each assembly
+    undergoes stringent quality inspection and electrical testing to ensure maximum safety and dependable,
+    long-term performance.
 </p>
 
 </div>

@@ -35,21 +35,18 @@
 </h3>
 
 <p>
-    CKT (Chaitra Konnex Technology) manufactures high-quality wire harness
-    assemblies for home appliances, providing safe, reliable, and efficient
-    electrical connectivity. Our harnesses are manufactured according to
-    customer drawings and technical specifications, ensuring precision,
-    durability, and consistent performance across a wide range of household
-    appliances.
+    CKT (Chaitra Konnex Technology) manufactures high-quality wire harness assemblies for home appliances,
+    providing safe, reliable, and efficient electrical connectivity. Every harness is built to customer
+    drawings and technical specifications, ensuring precision, durability, and consistent performance across
+    a wide range of household appliances.
 </p>
 
 <p>
-    We support appliance manufacturers, OEMs, and system integrators with
-    customized wire harness solutions for refrigerators, washing machines,
-    air conditioners, microwave ovens, water purifiers, dishwashers, kitchen
-    appliances, and other domestic electrical equipment. Every assembly
-    undergoes stringent quality inspection and electrical testing to ensure
-    dependable performance, safety, and long-term reliability.
+    We support appliance manufacturers, OEMs, and system integrators with customized harnesses for
+    refrigerators, washing machines, air conditioners, microwave ovens, water purifiers, dishwashers,
+    kitchen appliances, and other domestic electrical equipment. Each assembly undergoes stringent quality
+    inspection and electrical testing to ensure dependable performance and long-term durability in everyday
+    use.
 </p>
 
 </div>

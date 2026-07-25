@@ -40,21 +40,17 @@
 </h3>
 
 <p>
-    CKT (Chaitra Konnex Technology) manufactures high-quality wire harness
-    assemblies for renewable energy systems, delivering safe, reliable, and
-    efficient electrical connectivity. Our harnesses are manufactured according
-    to customer drawings and technical specifications, ensuring precision,
-    durability, and consistent performance in demanding outdoor and industrial
-    environments.
+    CKT (Chaitra Konnex Technology) manufactures high-quality wire harness assemblies for renewable
+    energy systems, delivering safe, reliable, and efficient electrical connectivity. Every harness is
+    built to customer drawings and technical specifications, ensuring precision, durability, and consistent
+    performance in demanding outdoor and industrial environments.
 </p>
 
 <p>
-    We support renewable energy OEMs, EPC contractors, and system integrators
-    with customized wire harness solutions for solar power systems, wind energy
-    equipment, battery energy storage systems (BESS), inverters, power
-    distribution units, monitoring systems, and control panels. Every assembly
-    undergoes stringent quality inspection and electrical testing to ensure
-    dependable performance, long service life, and maximum system reliability.
+    We support renewable energy OEMs, EPC contractors, and system integrators with customized harnesses
+    for solar power systems, wind energy equipment, battery energy storage systems (BESS), inverters,
+    power distribution units, monitoring systems, and control panels. Each assembly undergoes stringent
+    quality inspection and electrical testing to ensure long service life and dependable field performance.
 </p>
 
 </div>

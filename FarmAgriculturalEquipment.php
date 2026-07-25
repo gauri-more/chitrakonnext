@@ -38,22 +38,17 @@
 </h3>
 
 <p>
-    CKT (Chaitra Konnex Technology) manufactures high-quality wire harness
-    assemblies for farm and agricultural equipment, delivering reliable
-    electrical connectivity for demanding agricultural operations. Our
-    harnesses are manufactured according to customer drawings and technical
-    specifications, ensuring precision, durability, and consistent performance
-    in harsh outdoor environments.
+    CKT (Chaitra Konnex Technology) manufactures high-quality wire harness assemblies for farm and
+    agricultural equipment, delivering reliable electrical connectivity for demanding agricultural operations.
+    Every harness is built to customer drawings and technical specifications, ensuring precision, durability,
+    and consistent performance in harsh outdoor environments.
 </p>
 
 <p>
-    We support agricultural equipment manufacturers, OEMs, and system
-    integrators with customized wire harness solutions for tractors, harvesters,
-    seeders, sprayers, irrigation systems, balers, precision farming equipment,
-    and other agricultural machinery. Every assembly undergoes stringent
-    quality inspection and electrical testing to ensure dependable performance,
-    resistance to dust, moisture, vibration, and long-term reliability in the
-    field.
+    We support agricultural equipment manufacturers, OEMs, and system integrators with customized harnesses
+    for tractors, harvesters, seeders, sprayers, irrigation systems, balers, precision farming equipment,
+    and other agricultural machinery. Each assembly undergoes stringent quality inspection and electrical
+    testing, engineered to withstand dust, moisture, and vibration for dependable performance in the field.
 </p>
 
 </div>

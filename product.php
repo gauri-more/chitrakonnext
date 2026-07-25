@@ -34,23 +34,21 @@
   <div class="col-lg-6 mb-4 mb-lg-0">
     <div class="tp-about-content">
         <h3 class="mb-20">
-           Precision High-Quality Wire Harness Solutions
+           Precision, High-Quality Wire Harness Solutions
         </h3>
 
         <p>
-            At <strong>CKT (Chaitra Konnex Technology)</strong>, we specialize in designing and
-            manufacturing precision-engineered wire harness assemblies that deliver safe,
-            reliable, and efficient electrical connectivity. Our solutions are customized to
-            meet the specific requirements of automotive, industrial, renewable energy,
-            home appliance, and electronic applications.
+            We design and manufacture precision-engineered wire harness assemblies that deliver safe,
+            reliable, and efficient electrical connectivity. Every solution is tailored to the specific
+            demands of automotive, industrial, renewable energy, home appliance, and electronics
+            applications.
         </p>
 
         <p>
-            Equipped with advanced wire cutting, stripping, crimping, twisting, and testing
-            machines, we ensure every wire harness is manufactured with exceptional accuracy,
-            durability, and consistent quality. Each assembly undergoes comprehensive quality
-            inspections and electrical testing to guarantee reliable performance even in the
-            most demanding operating environments.
+            Our facility is equipped with advanced cutting, stripping, crimping, and twisting machines,
+            backed by rigorous testing at every stage. This ensures each harness meets exact specifications
+            for accuracy, durability, and long-term performance — even in the most demanding operating
+            environments.
         </p>
 <div class="tp-about-button-box d-flex align-items-center">
                            <a class="tp-btn-black" href="WireHarnessManufacturing.php"><span>KNOW MORE</span></a>
@@ -87,19 +85,15 @@
 </h3>
 
    <p>
-    At <strong>CKT (Chaitra Konnex Technology)</strong>, we provide a comprehensive range of
-    high-quality components required for reliable wire harness assembly and electrical
-    connectivity solutions. Our component supply portfolio includes <strong>wires and
-    cables, connectors, terminals, clips and clamps, tapes, and other essential
-    accessories</strong> designed to meet the requirements of automotive, industrial,
-    home appliance, renewable energy, and electronic applications.
+    Beyond harness manufacturing, we supply a comprehensive range of components essential to reliable
+    electrical connectivity — including wires, cables, connectors, terminals, clips, clamps, tapes,
+    and other assembly accessories.
 </p>
 
 <p>
-    We supply durable components that support consistent quality, performance,
-    and reliability. With our strong supply network and quality-focused approach,
-    we help manufacturers achieve efficient wire harness production and customized
-    electrical assembly solutions for a wide range of industries.
+    Backed by a strong supplier network and consistent quality checks, we help manufacturers streamline
+    production and source dependable components for automotive, industrial, renewable energy, home
+    appliance, and electronics use cases.
 </p>
 <div class="tp-about-button-box d-flex align-items-center">
                            <a class="tp-btn-black" href="Componentssupply.php"><span>KNOW MORE</span></a>

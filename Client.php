@@ -29,9 +29,9 @@
          <div class="container-fluid container-1580">
                   <div class="row">
             <div class="col-12 text-center mb-50">
-                <span class="tp-section-subtitle">Trusted By</span>
-                <h2 class="tp-section-title">End  Customers</h2>
-                <!--<p>Proudly serving leading companies across diverse industries with reliable wire harness and interconnect solutions.</p>-->
+                <span class="tp-section-subtitle">TRUSTED BY</span>
+                <h2 class="tp-section-title">End Customers</h2>
+                <p class="mb-0">Original equipment manufacturers whose vehicles and systems run on components built with CKT wire harnesses.</p>
             </div>
         </div>
  <div class="row">
@@ -177,9 +177,9 @@
          <div class="container-fluid container-1580">
                   <div class="row">
             <div class="col-12 text-center mb-50">
-                <span class="tp-section-subtitle">Trusted By</span>
-                <h2 class="tp-section-title">Direct  Customers</h2>
-                <!--<p>Proudly serving leading companies across diverse industries with reliable wire harness and interconnect solutions.</p>-->
+                <span class="tp-section-subtitle">TRUSTED BY</span>
+                <h2 class="tp-section-title">Direct Customers</h2>
+                <p class="mb-0">Tier-1 suppliers and manufacturers we partner with directly to deliver wire harness assemblies and components.</p>
             </div>
         </div>
  <div class="row">

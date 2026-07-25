@@ -55,7 +55,7 @@
                         <div class="tp-hero-6-content">
                             <h2 class="tp-hero-6-title gradient-title mb-20 wow tpfadeUp" data-wow-duration=".9s"
                                 data-wow-delay=".3s">
-                                Precision Wire Harness Manufacturing Trusted by DRDO, Tata & India's Leading OEMs
+                                Your Trusted Partner for Wire Harness & Electrical Connectivity Solutions
                             </h2>
                             <!--<h2 class="tp-hero-6-title gradient-title mb-20 wow tpfadeUp"-->
                             <!--    data-wow-duration=".9s"-->
@@ -140,16 +140,15 @@
                         <div class="tp-about-text me-0">
                             <p>
                                 <strong>Chaitra Konnex Technology (CKT)</strong> is a trusted Indian manufacturer
-                                specializing in high-quality wire harnesses,
-                                cable assemblies, and customized electrical connectivity solutions.
-                                We are committed to delivering reliable, precision-engineered products that meet the
-                                highest industry
-                                standards for quality, safety, and performance.
+                                specializing in high-quality wire harnesses, cable assemblies, and customized electrical
+                                connectivity solutions. We are committed to delivering reliable, precision-engineered
+                                products that meet the highest industry standards for quality, safety, and performance.
+                            </p>
+                            <p>
                                 Serving a diverse range of industries, including Defence, Automotive, Electric Vehicles
-                                (EV),
-                                Industrial Automation, Renewable Energy, Home Appliances, Farm & Agricultural Equipment,
-                                and Industrial Control Panel Solutions, we provide innovative and cost-effective
-                                solutions tailored to our customers' unique requirements.
+                                (EV), Industrial Automation, Renewable Energy, Home Appliances, Farm & Agricultural
+                                Equipment, and Industrial Control Panel Solutions, we provide innovative and
+                                cost-effective solutions tailored to our customers' unique requirements.
                             </p>
                         </div>
                     </div>
@@ -202,16 +201,10 @@
                                     Chaitra Konnex Technology (CKT)
                                 </h5>
                                 <p class="mb-2" style="font-size:15px; line-height:1.8; color:#555;">
-                                    <!--Chaitra Konnex Technology (CKT) manufactures high-quality wire harnesses and-->
-                                    <!--electrical interconnect solutions for <strong>Military &amp; Defence</strong>,-->
-                                    <!--<strong>Automotive</strong>, <strong>Electric Vehicle</strong>,-->
-                                    <!--<strong>Renewable Energy</strong>, <strong>Home Appliance</strong>,-->
-                                    <!--<strong>Farm &amp; Agricultural Equipment</strong>, and-->
-                                    <!--<strong>Industrial Control Panel Solutions</strong>.-->
                                     Chaitra Konnex Technology (CKT) proudly delivers specialized wire harness and
-                                    electrical connectivity solutions across a
-                                    wide range of industries. Our expertise enables us to design
-                                    and manufacture products that meet the specific requirements of each sector.
+                                    electrical connectivity solutions across a wide range of industries. Our expertise
+                                    enables us to design and manufacture products that meet the specific requirements of
+                                    each sector.
                                 </p>
 
                                 <!--<p class="mb-0" style="font-size:15px; line-height:1.8; color:#555;">-->
