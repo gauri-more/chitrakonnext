@@ -30,14 +30,14 @@
                 <div class="col-xl-4 col-lg-4 wow tpfadeLeft" data-wow-duration=".9s" data-wow-delay=".5s">
                     <div class="tp-about-right-box text-end tp-about-right-wrap p-relative">
                         <div class="tp-about-main-thumb">
-                            <img src="assets/images/about-image1.png" alt="about-us" loading="lazy">
+                            <img src="assets/images/about-image1.png" alt="CKT team working on wire harness manufacturing and quality inspection" loading="lazy">
                         </div>
 
                         <div class="tp-about-shape-2  d-none d-lg-block">
-                            <img src="assets/img/about/shape-1-3.png" alt="shape" loading="lazy">
+                            <img src="assets/img/about/shape-1-3.png" alt="Decorative abstract shape" loading="lazy">
                         </div>
                         <div class="tp-about-shape-6 d-none d-xl-block">
-                            <img src="assets/img/about/shape-3-2.png" alt="shape-1" loading="lazy">
+                            <img src="assets/img/about/shape-3-2.png" alt="Decorative abstract shape" loading="lazy">
                         </div>
                     </div>
                 </div>
@@ -48,7 +48,7 @@
                                 <i class="flaticon-flash"></i> Chaitra Konnex Technology (CKT)
                             </span>
                             <h4 class="tp-section-title">
-                                Your Trusted Partner for Wire Harness & Electrical Connectivity Solutions
+                                Engineering Excellence Built for Quality and Reliability
                             </h4>
                         </div>
                         <div class="tp-about-text me-0">

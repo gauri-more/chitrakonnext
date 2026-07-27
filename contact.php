@@ -1,27 +1,9 @@
 
 <?php include 'header.php'; ?>
-<style>
- .tp-btn{
-    position: relative;
-    overflow: hidden;
-    color: #fff !important;
-    z-index: 1;
-}
-
-.tp-btn::after{
-    z-index: -1;   /* Keep the overlay behind the text */
-}
-
-.tp-btn:hover{
-    color: #fff !important;
-}
-
-.tp-btn:hover,
-.tp-btn:hover span{
-    color:#fff !important;
-}
-</style>
-
+<?php
+$contactStatus = isset($_GET['status']) ? $_GET['status'] : '';
+$contactMessage = isset($_GET['message']) ? htmlspecialchars(urldecode($_GET['message'])) : '';
+?>
 
    <main>
 
@@ -96,6 +78,11 @@
                <div class="col-xl-6 col-md-6 col-12">
                   <div class="tp-contact-form-border">
                      <h4 class="tp-contact-form-title">Send your message</h4>
+     <?php if ($contactStatus === 'success'): ?>
+     <div class="contact-status success"><?php echo $contactMessage ?: 'Thank you! Your message has been sent successfully.'; ?></div>
+     <?php elseif ($contactStatus === 'error'): ?>
+     <div class="contact-status error"><?php echo $contactMessage ?: 'We could not send your message. Please try again later.'; ?></div>
+     <?php endif; ?>
      <form action="send.php" method="POST">
     <div class="row">
 
@@ -150,6 +137,7 @@
          <div class="tp-map__item">
          <iframe
         src="https://www.google.com/maps?q=Chaitra+Konnex+Technology,+Ground+Floor,+Gat+No:+2075,+Kude+Farm,+Old+Pune-Mumbai+Highway,+Opp.+Vakratunda+Tyres,+Vadgaon,+Maval,+Pune+-+412106&output=embed"
+        title="CKT office location map"
         allowfullscreen
         loading="lazy">
     </iframe>

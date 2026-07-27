@@ -2,11 +2,12 @@
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
-    $name = htmlspecialchars($_POST['name']);
-    $email = htmlspecialchars($_POST['email']);
-   $mobile = htmlspecialchars($_POST['mobile']);
-    $subject = htmlspecialchars($_POST['subject']);
-    $message = htmlspecialchars($_POST['message']);
+    $name = htmlspecialchars($_POST['name'] ?? '');
+    $email = htmlspecialchars($_POST['email'] ?? '');
+    $mobile = htmlspecialchars($_POST['mobile'] ?? '');
+    $subject = htmlspecialchars($_POST['subject'] ?? '');
+    $message = htmlspecialchars($_POST['message'] ?? '');
+    $website = htmlspecialchars($_POST['website'] ?? '');
 
     // Change this to your email
     $to = "Chaitrakt.marketing@gmail.com";
@@ -52,15 +53,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $headers .= "Reply-To: $email\r\n";
 
     if(mail($to, $mail_subject, $mail_message, $headers)){
-        echo "<script>
-                alert('Thank you! Your message has been sent.');
-                window.location.href='contact.php';
-              </script>";
+        header('Location: contact.php?status=success&message=' . urlencode('Thank you! Your message has been sent successfully.'));
+        exit;
     } else {
-        echo "<script>
-                alert('Mail could not be sent.');
-                window.history.back();
-              </script>";
+        header('Location: contact.php?status=error&message=' . urlencode('Mail could not be sent. Please try again later.'));
+        exit;
     }
 
 }

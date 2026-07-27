@@ -1,7 +1,4 @@
 <?php include 'header.php'; ?>
-<style>
-
-</style>
 
 <main>
     <!-- tp-hero-area-start -->
@@ -116,14 +113,14 @@
                     <div class="tp-about-right-box text-end tp-about-right-wrap p-relative">
 
                         <div class="tp-about-main-thumb">
-                            <img src="assets/images/about-image1.png" alt="" loading="lazy">
+                            <img src="assets/images/about-image1.png" alt="CKT engineering team reviewing wire harness manufacturing solutions" loading="lazy">
                         </div>
 
                         <div class="tp-about-shape-2  d-none d-lg-block">
-                            <img src="assets/img/about/shape-1-3.png" alt="" loading="lazy">
+                            <img src="assets/img/about/shape-1-3.png" alt="Decorative abstract shape" loading="lazy">
                         </div>
                         <div class="tp-about-shape-6 d-none d-xl-block">
-                            <img src="assets/img/about/shape-3-2.png" alt="" loading="lazy">
+                            <img src="assets/img/about/shape-3-2.png" alt="Decorative abstract shape" loading="lazy">
                         </div>
                     </div>
                 </div>
@@ -134,7 +131,7 @@
                                 <i class="flaticon-flash"></i> ABOUT Chaitra Konnex Technology
                             </span>
                             <h4 class="tp-section-title">
-                                Your Trusted Partner for Wire Harness & Electrical Connectivity Solutions
+                                Precision-Engineered Solutions for Demanding Applications
                             </h4>
                         </div>
                         <div class="tp-about-text me-0">
@@ -180,7 +177,7 @@
     <!-- service area start -->
     <div class="tp-service-4-area p-relative fix grey-bg pt-70 pb-50 z-index">
         <div class="tp-service-4-shape-1 d-none d-xxl-block">
-            <img src="assets/img/service/shape-4-1.png" alt="" loading="lazy">
+            <img src="assets/img/service/shape-4-1.png" alt="Decorative service background shape" loading="lazy">
         </div>
         <div class="container">
             <div class="tp-service-4-top-box pb-70">
@@ -230,7 +227,7 @@
                                 <div class="swiper-slide">
                                     <div class="tp-service-4-item p-relative">
                                         <div class="tp-service-4-item-bg">
-                                            <img src="assets/images/aerospace.jpg" alt="" loading="lazy">
+                                            <img src="assets/images/aerospace.jpg" alt="Military and defence wire harness solutions" loading="lazy">
                                         </div>
                                         <div
                                             class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
@@ -260,7 +257,7 @@
                                 <div class="swiper-slide">
                                     <div class="tp-service-4-item p-relative">
                                         <div class="tp-service-4-item-bg">
-                                            <img src="assets/images/automotive.jpeg" alt="" loading="lazy">
+                                            <img src="assets/images/automotive.jpeg" alt="Automotive wire harness assemblies for vehicle systems" loading="lazy">
                                         </div>
                                         <div
                                             class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
@@ -287,7 +284,7 @@
                                 <div class="swiper-slide">
                                     <div class="tp-service-4-item p-relative">
                                         <div class="tp-service-4-item-bg">
-                                            <img src="assets/images/electrical-vehicle.jpg" alt="" loading="lazy">
+                                            <img src="assets/images/electrical-vehicle.jpg" alt="Electric vehicle wiring harness for battery and power systems" loading="lazy">
                                         </div>
                                         <div
                                             class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
@@ -316,7 +313,7 @@
                                 <div class="swiper-slide">
                                     <div class="tp-service-4-item p-relative">
                                         <div class="tp-service-4-item-bg">
-                                            <img src="assets/images/solar-panel.jpg" alt="" loading="lazy">
+                                            <img src="assets/images/solar-panel.jpg" alt="Renewable energy wiring harness for solar and power equipment" loading="lazy">
                                         </div>
                                         <div
                                             class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
@@ -347,7 +344,7 @@
                                 <div class="swiper-slide">
                                     <div class="tp-service-4-item p-relative">
                                         <div class="tp-service-4-item-bg">
-                                            <img src="assets/images/home-appliance1.jpg" alt="" loading="lazy">
+                                            <img src="assets/images/home-appliance1.jpg" alt="Home appliance wiring harness for domestic electrical products" loading="lazy">
                                         </div>
                                         <div
                                             class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
@@ -378,7 +375,7 @@
                                 <div class="swiper-slide">
                                     <div class="tp-service-4-item p-relative">
                                         <div class="tp-service-4-item-bg">
-                                            <img src="assets/images/farm-agri.jpg" alt="" loading="lazy">
+                                            <img src="assets/images/farm-agri.jpg" alt="Agricultural equipment wiring harness for field machinery" loading="lazy">
                                         </div>
                                         <div
                                             class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
@@ -409,7 +406,7 @@
                                 <div class="swiper-slide">
                                     <div class="tp-service-4-item p-relative">
                                         <div class="tp-service-4-item-bg">
-                                            <img src="assets/images/industrial-panel.jpg" alt="" loading="lazy">
+                                            <img src="assets/images/industrial-panel.jpg" alt="Industrial control panel wiring harness for automation systems" loading="lazy">
                                         </div>
                                         <div
                                             class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
@@ -482,7 +479,7 @@
 
                                             <div class="tp-step-text">
                                                 <h5 class="tp-step-title">
-                                                    <a href="#">Engineering</a>
+                                                    <a href="contact.php">Engineering</a>
                                                 </h5>
                                                 <p>
                                                     Our experienced engineers develop customized wire harness solutions
@@ -507,7 +504,7 @@
 
                                             <div class="tp-step-text">
                                                 <h5 class="tp-step-title">
-                                                    <a href="#">Planning</a>
+                                                    <a href="contact.php">Planning</a>
                                                 </h5>
                                                 <p>
                                                     Every project is carefully planned to ensure efficient resource
@@ -530,7 +527,7 @@
 
                                             <div class="tp-step-text">
                                                 <h5 class="tp-step-title">
-                                                    <a href="#">Component Sourcing</a>
+                                                    <a href="contact.php">Component Sourcing</a>
                                                 </h5>
                                                 <p>
                                                     We procure premium-quality components from trusted suppliers to
@@ -555,7 +552,7 @@
 
                                             <div class="tp-step-text">
                                                 <h5 class="tp-step-title">
-                                                    <a href="#">Manufacturing</a>
+                                                    <a href="contact.php">Manufacturing</a>
                                                 </h5>
                                                 <p>
                                                     Using advanced manufacturing techniques and stringent quality
@@ -581,7 +578,7 @@
 
                                             <div class="tp-step-text">
                                                 <h5 class="tp-step-title">
-                                                    <a href="#">Delivery</a>
+                                                    <a href="contact.php">Delivery</a>
                                                 </h5>
                                                 <p>
                                                     Products are delivered on schedule with secure packaging and
@@ -606,7 +603,7 @@
 
                                             <div class="tp-step-text">
                                                 <h5 class="tp-step-title">
-                                                    <a href="#">Customer Support</a>
+                                                    <a href="contact.php">Customer Support</a>
                                                 </h5>
                                                 <p>
                                                     Our relationship with customers extends beyond delivery. We provide

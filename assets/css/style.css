@@ -530,11 +530,45 @@ background:#fff;
     display: inline-block;
       padding-bottom: 20px;
 }
+..contact-status {
+    margin-bottom: 20px;
+    padding: 12px 16px;
+    border-radius: 8px;
+    font-weight: 600;
+}
+
+.contact-status.success {
+    background: #e8f7ed;
+    color: #176b3a;
+    border: 1px solid #b7e2c2;
+}
+
+.contact-status.error {
+    background: #fdeaea;
+    color: #a61f1f;
+    border: 1px solid #f3b8b8;
+}
+
 .tp-contact-3-text {
     margin-top: 30px;
 }
 .tp-contact-3-item {
     min-height: 310px;
+}
+
+.gallery-modal-media {
+    display: none;
+    max-height: 80vh;
+}
+
+.gallery-modal-image {
+    width: auto;
+    max-width: 100%;
+    object-fit: contain;
+}
+
+.gallery-modal-video {
+    width: 100%;
 }
 .tp-service-widget ul li a {
     height: 70px;
