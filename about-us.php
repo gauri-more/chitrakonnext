@@ -30,14 +30,14 @@
                 <div class="col-xl-4 col-lg-4 wow tpfadeLeft" data-wow-duration=".9s" data-wow-delay=".5s">
                     <div class="tp-about-right-box text-end tp-about-right-wrap p-relative">
                         <div class="tp-about-main-thumb">
-                            <img src="assets/images/about-image1.png" alt="CKT team working on wire harness manufacturing and quality inspection" loading="lazy">
+                            <img src="assets/images/about-image1.png" alt=" CKT about-us" loading="lazy">
                         </div>
 
                         <div class="tp-about-shape-2  d-none d-lg-block">
-                            <img src="assets/img/about/shape-1-3.png" alt="Decorative abstract shape" loading="lazy">
+                            <img src="assets/img/about/shape-1-3.png" alt="about bg shape" loading="lazy">
                         </div>
                         <div class="tp-about-shape-6 d-none d-xl-block">
-                            <img src="assets/img/about/shape-3-2.png" alt="Decorative abstract shape" loading="lazy">
+                            <img src="assets/img/about/shape-3-2.png" alt="about bg shape-1" loading="lazy">
                         </div>
                     </div>
                 </div>
@@ -48,7 +48,7 @@
                                 <i class="flaticon-flash"></i> Chaitra Konnex Technology (CKT)
                             </span>
                             <h4 class="tp-section-title">
-                                Engineering Excellence Built for Quality and Reliability
+                                Your Trusted Partner for Wire Harness & Electrical Connectivity Solutions
                             </h4>
                         </div>
                         <div class="tp-about-text me-0">
@@ -282,15 +282,6 @@
 
                         </div>
 
-                        <!-- Navigation -->
-                        <!--<div class="tp-project-prev">-->
-                        <!--    <i class="far fa-arrow-left"></i>-->
-                        <!--</div>-->
-
-                        <!--<div class="tp-project-next">-->
-                        <!--    <i class="far fa-arrow-right"></i>-->
-                        <!--</div>-->
-
                     </div>
 
                 </div>
@@ -408,7 +399,7 @@
     <div class="tp-choose-2-area p-relative fix mt-70 pb-70">
 
         <div class="tp-choose-2-shape-2 d-none d-xxl-block">
-            <img src="assets/img/choose/shape-2-2.png" alt="" loading="lazy">
+            <img src="assets/img/choose/shape-2-2.png" alt="shape-bg" loading="lazy">
         </div>
         <div class="tp-choose-2-bg" data-background="assets/images/why-choose-1.jpg"></div>
         <div class="container">
@@ -497,8 +488,8 @@
     </div>
     <!-- tp-feature-area-start -->
     <div class="tp-feature-area body-bg-6 p-relative z-index-1 pt-60 pb-40">
-        <img class="tp-feature-6-shape" src="assets/img/update/feature/shape.png" alt="" loading="lazy">
-        <img class="tp-feature-6-shape-2" src="assets/images/shape-2.webp" alt="" loading="lazy">
+        <img class="tp-feature-6-shape" src="assets/img/update/feature/shape.png" alt="shape-bg-3" loading="lazy">
+        <img class="tp-feature-6-shape-2" src="assets/images/shape-2.webp" alt="shape-bg-4" loading="lazy">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -512,7 +503,7 @@
                             <i class="fas fa-eye"></i>
                         </span>
                         <h3 class="tp-feature-6-title">
-                            <a href="#">Transparency</a>
+                           Transparency
                         </h3>
 
                         <p>
@@ -525,7 +516,7 @@
                         <span class="tp-feature-6-icon mb-25 d-inline-block"><i class="fas fa-shield-alt"></i>
                         </span>
                         <h3 class="tp-feature-6-title">
-                            <a href="#">Reliability</a>
+                           Reliability
                         </h3>
 
                         <p>
@@ -538,7 +529,7 @@
                         <span class="tp-feature-6-icon mb-25 d-inline-block"> <i class="fas fa-balance-scale"></i>
                         </span>
                         <h3 class="tp-feature-6-title">
-                            <a href="#">Integrity</a>
+                           Integrity
                         </h3>
 
                         <p>

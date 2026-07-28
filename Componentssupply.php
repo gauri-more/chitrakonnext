@@ -83,7 +83,7 @@
                             data-wow-delay=".3s">
                             <div class="tp-blog-3-item">
                                 <div class="tp-blog-3-thumb p-relative">
-                                    <img src="assets/images/wires-cables.avif" alt="cable" loading="lazy">
+                                    <img src="assets/images/wires-cables.avif" alt="Wire Cable" loading="lazy">
                                     <div class="tp-blog-3-icon">
                                         <a href="wirecable.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
@@ -113,7 +113,7 @@
                             data-wow-delay=".3s">
                             <div class="tp-blog-3-item">
                                 <div class="tp-blog-3-thumb p-relative">
-                                    <img src="assets/images/terminal.jpeg" alt="Terminal chain" loading="lazy">
+                                    <img src="assets/images/terminal.jpeg" alt="Terminal Chain" loading="lazy">
                                     <div class="tp-blog-3-icon">
                                         <a href="Terminal.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
@@ -128,7 +128,7 @@
                             data-wow-delay=".3s">
                             <div class="tp-blog-3-item">
                                 <div class="tp-blog-3-thumb p-relative">
-                                    <img src="assets/images/CLIP-CLAMP.jpg" alt="clip-clamp" loading="lazy">
+                                    <img src="assets/images/CLIP-CLAMP.jpg" alt="clip Clamp" loading="lazy">
                                     <div class="tp-blog-3-icon">
                                         <a href="ClipClamp.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
@@ -159,7 +159,7 @@
                             data-wow-delay=".3s">
                             <div class="tp-blog-3-item">
                                 <div class="tp-blog-3-thumb p-relative">
-                                    <img src="assets/images/accessories-supply.avif" alt="accessories" loading="lazy">
+                                    <img src="assets/images/accessories-supply.avif" alt="Accessories" loading="lazy">
                                     <div class="tp-blog-3-icon">
                                         <a href="accessories.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>

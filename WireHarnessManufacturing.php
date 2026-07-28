@@ -56,28 +56,15 @@
 
             </div>
             <!-- Applications -->
-            <!-- Section Heading -->
-            <div class="row mb-50 d-none">
-                <div class="col-lg-8 mx-auto">
-                    <div class="tp-section-title-wrapper text-center mb-60">
-                        <span class="tp-section-subtitle">Applications</span>
-                        <h2 class="tp-section-title">Wire Harness Manufacturing</h2>
-                        <p>
-                            CKT manufactures high-quality wire harness assemblies that deliver safe,
-                            reliable, and efficient electrical connectivity for diverse industries.
-                        </p>
-                    </div>
-                </div>
-            </div>
         </div>
     </section>
     <!-- project area start -->
     <div class="tp-project-2-area tp-blog-3-area  fix p-relative grey-bg pt-60 pb-60 ">
         <div class="tp-project-2-shape-1 d-none d-xl-block">
-            <img src="assets/img/project/shape-2-1.png" alt="" loading="lazy">
+            <img src="assets/img/project/shape-2-1.png" alt="wire harness bg shape" loading="lazy">
         </div>
         <div class="tp-project-2-shape-2 d-none d-xl-block">
-            <img src="assets/img/project/shape-2-2.png" alt="" loading="lazy">
+            <img src="assets/img/project/shape-2-2.png" alt="wire harness bg shape 2" loading="lazy">
         </div>
         <div class="container custom-container-1">
             <div class="row">
@@ -93,7 +80,7 @@
                             data-wow-delay=".3s">
                             <div class="tp-blog-3-item">
                                 <div class="tp-blog-3-thumb p-relative">
-                                    <img src="assets/images/defence-wire11.jpg" alt="" loading="lazy">
+                                    <img src="assets/images/defence-wire11.jpg" alt="Defence wire harness" loading="lazy">
                                     <div class="tp-blog-3-icon">
                                         <a href="DefenceWireHarness.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
@@ -109,7 +96,7 @@
                             data-wow-delay=".3s">
                             <div class="tp-blog-3-item">
                                 <div class="tp-blog-3-thumb p-relative">
-                                    <img src="assets/images/automot-pigtail-harness.jpeg" alt="" loading="lazy">
+                                    <img src="assets/images/automot-pigtail-harness.jpeg" alt="Automotive" loading="lazy">
                                     <div class="tp-blog-3-icon">
                                         <a href="AutomotivePigtailHarness.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
@@ -125,7 +112,7 @@
                             data-wow-delay=".3s">
                             <div class="tp-blog-3-item">
                                 <div class="tp-blog-3-thumb p-relative">
-                                    <img src="assets/images/ev-carg-harness.jpg" alt="" loading="lazy">
+                                    <img src="assets/images/ev-carg-harness.jpg" alt="el-lv and hv harness" loading="lazy">
                                     <div class="tp-blog-3-icon">
                                         <a href="EV-LV-HVHarness.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
@@ -141,7 +128,7 @@
                             data-wow-delay=".3s">
                             <div class="tp-blog-3-item">
                                 <div class="tp-blog-3-thumb p-relative">
-                                    <img src="assets/images/battery-wire-harness.png" alt="" loading="lazy">
+                                    <img src="assets/images/battery-wire-harness.png" alt="battery Harnes " loading="lazy">
                                     <div class="tp-blog-3-icon">
                                         <a href="BatteryHarness.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
@@ -156,7 +143,7 @@
                             data-wow-delay=".3s">
                             <div class="tp-blog-3-item">
                                 <div class="tp-blog-3-thumb p-relative">
-                                    <img src="assets/images/pcb-wire-harness.png" alt="" loading="lazy">
+                                    <img src="assets/images/pcb-wire-harness.png" alt="pcb wire harness" loading="lazy">
                                     <div class="tp-blog-3-icon">
                                         <a href="PCBWireHarness.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
@@ -171,7 +158,7 @@
                             data-wow-delay=".3s">
                             <div class="tp-blog-3-item">
                                 <div class="tp-blog-3-thumb p-relative">
-                                    <img src="assets/images/power-harness.jpg" alt="" loading="lazy">
+                                    <img src="assets/images/power-harness.jpg" alt="power harness" loading="lazy">
                                     <div class="tp-blog-3-icon">
                                         <a href="PowerHarness.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
@@ -186,7 +173,7 @@
                             data-wow-delay=".3s">
                             <div class="tp-blog-3-item">
                                 <div class="tp-blog-3-thumb p-relative">
-                                    <img src="assets/images/panel-wire-harness.avif" alt="" loading="lazy">
+                                    <img src="assets/images/panel-wire-harness.avif" alt="panel wiring harness" loading="lazy">
                                     <div class="tp-blog-3-icon">
                                         <a href="PanelWiringHarness.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
@@ -202,7 +189,7 @@
                             data-wow-delay=".3s">
                             <div class="tp-blog-3-item">
                                 <div class="tp-blog-3-thumb p-relative">
-                                    <img src="assets/images/solar-wire-harness.jpg" alt="" loading="lazy">
+                                    <img src="assets/images/solar-wire-harness.jpg" alt="solar and control panel" loading="lazy">
                                     <div class="tp-blog-3-icon">
                                         <a href="SolarControlPanelHarness.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
@@ -218,7 +205,7 @@
                             data-wow-delay=".3s">
                             <div class="tp-blog-3-item">
                                 <div class="tp-blog-3-thumb p-relative">
-                                    <img src="assets/images/electromechanical-wire-harness.png" alt="" loading="lazy">
+                                    <img src="assets/images/electromechanical-wire-harness.png" alt="electrochemical assembly" loading="lazy">
                                     <div class="tp-blog-3-icon">
                                         <a href="ElectroMechanicalAssembely.php"><i
                                                 class="flaticon-right-arrow"></i></a>
