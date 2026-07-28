@@ -99,16 +99,39 @@ industrial, and electrical applications. We are committed to delivering quality 
    </footer>
    <script>
 
+const nameInput = document.getElementById("name");
+const mobileInput = document.getElementById("mobile");
+const serviceInput = document.getElementById("service");
+
+// Allow letters and spaces only in Name field
+nameInput.addEventListener("input", function () {
+    this.value = this.value.replace(/[^A-Za-z\s]/g, "").slice(0, 50);
+});
+
+// Allow digits only in Mobile field, max 10 digits
+mobileInput.addEventListener("input", function () {
+    this.value = this.value.replace(/\D/g, "").slice(0, 10);
+});
+
 document.getElementById("whatsappForm").addEventListener("submit", function(e) {
     e.preventDefault();
 
-    const name = document.getElementById("name").value.trim();
-    const mobile = document.getElementById("mobile").value.trim();
-    const service = document.getElementById("service").value.trim();
-    const digits = mobile.replace(/\D/g, "");
+    const name = nameInput.value.trim();
+    const mobile = mobileInput.value.trim();
+    const service = serviceInput.value.trim();
 
-    if (!name || !service || digits.length < 10 || digits.length > 13) {
-        alert("Please enter your name, a valid mobile number, and the service you require.");
+    if (!name || !/^[A-Za-z\s]+$/.test(name)) {
+        alert("Please enter a valid name (letters only).");
+        return;
+    }
+
+    if (mobile.length !== 10) {
+        alert("Please enter a valid 10 digit mobile number.");
+        return;
+    }
+
+    if (!service) {
+        alert("Please enter the service you require.");
         return;
     }
 

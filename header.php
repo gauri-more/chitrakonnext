@@ -244,17 +244,19 @@
 
                         <div class="mb-3">
                             <label>Your Name</label>
-                            <input type="text" class="form-control" id="name" required>
+                            <input type="text" class="form-control" id="name" maxlength="50"
+                                pattern="[A-Za-z\s]+" title="Name should contain letters only" required>
                         </div>
 
                         <div class="mb-3">
                             <label>Mobile Number</label>
-                            <input type="tel" class="form-control" id="mobile" required>
+                            <input type="tel" class="form-control" id="mobile" inputmode="numeric"
+                                maxlength="10" pattern="[0-9]{10}" title="Enter a 10 digit mobile number" required>
                         </div>
 
                         <div class="mb-3">
                             <label>Service</label>
-                            <input type="text" class="form-control" id="service" required>
+                            <input type="text" class="form-control" id="service" maxlength="100" required>
                         </div>
 
                         <button type="submit" class="btn btn-success w-100" style="padding: 0.6em 0.5em;
