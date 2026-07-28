@@ -15,6 +15,8 @@
                      <div class="breadcrumb__list">
                         <span><a href="index.php">Home</a></span>
                         <span class="dvdr"><i>/</i></span>
+                        <span><a href="industries.php">Industries</a></span>
+                        <span class="dvdr"><i>/</i></span>
                         <span>Farm & Agricultural Equipment</span>
                      </div>
                   </div>

@@ -13,7 +13,13 @@
                      
                         <h3 class="breadcrumb__title">Home Appliances</h3>
                      </div>
-                  
+                     <div class="breadcrumb__list">
+                        <span><a href="index.php">Home</a></span>
+                        <span class="dvdr"><i>/</i></span>
+                        <span><a href="industries.php">Industries</a></span>
+                        <span class="dvdr"><i>/</i></span>
+                        <span>Home Appliances</span>
+                     </div>
                   </div>
                </div>
             </div>

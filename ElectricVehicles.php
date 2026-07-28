@@ -10,12 +10,14 @@
                <div class="col-xxl-12">
                   <div class="breadcrumb__content z-index d-flex justify-content-between align-items-end">
                      <div class="breadcrumb__section-title-box">
-                        <h3 class="breadcrumb__title">Electric Vehicles </h3>
+                        <h3 class="breadcrumb__title">Electric Vehicles</h3>
                      </div>
                      <div class="breadcrumb__list">
                         <span><a href="index.php">Home</a></span>
                         <span class="dvdr"><i>/</i></span>
-                        <span>Electric Vehicles </span>
+                        <span><a href="industries.php">Industries</a></span>
+                        <span class="dvdr"><i>/</i></span>
+                        <span>Electric Vehicles</span>
                      </div>
                   </div>
                </div>

@@ -3,11 +3,16 @@
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     $name = htmlspecialchars($_POST['name'] ?? '');
-    $email = htmlspecialchars($_POST['email'] ?? '');
+    $email = filter_var(trim($_POST['email'] ?? ''), FILTER_SANITIZE_EMAIL);
     $mobile = htmlspecialchars($_POST['mobile'] ?? '');
     $subject = htmlspecialchars($_POST['subject'] ?? '');
     $message = htmlspecialchars($_POST['message'] ?? '');
     $website = htmlspecialchars($_POST['website'] ?? '');
+
+    if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+        header('Location: contact.php?status=error&message=' . urlencode('Please enter a valid email address.'));
+        exit;
+    }
 
     // Change this to your email
     $to = "Chaitrakt.marketing@gmail.com";

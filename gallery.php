@@ -1,52 +1,5 @@
 
 <?php include 'header.php'; ?>
-<style>
-    .tp-project-thumb {
-    overflow: hidden;
-    border-radius: 8px;
-}
-
-
-.tp-project-thumb img {
-    width: 100%;
-    height: 300px;
-    object-fit: contain;
-    background: #f5f5f5;
-}
-.tp-project-thumb:hover img {
-    transform: scale(1.05);
-}
-#modalImage{
-    max-height:80vh;
-}
-
-.gallery-btn{
-    position:absolute;
-    top:50%;
-    transform:translateY(-50%);
-    width:45px;
-    height:45px;
-    border:none;
-    border-radius:50%;
-    background:#000;
-    color:#fff;
-    font-size:22px;
-    cursor:pointer;
-    z-index:999;
-}
-
-.prev-btn{
-    left:20px;
-}
-
-.next-btn{
-    right:20px;
-}
-
-#galleryImage{
-    max-height:80vh;
-}
-</style>
    <main>
 
       <!-- breadcrumb area start -->
@@ -92,32 +45,6 @@
     
           <!-- Item 1-->
     <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow tpfadeUp">
-        <!--<div class="tp-project-item p-relative">-->
-
-        <!--    <div class="tp-project-thumb">-->
-        
-        <!--             alt="Automatic wire cutting and stripping machine">-->
-        <!--    </div>-->
-
-        <!--    <div class="tp-project-content open-gallery"-->
-        <!--         data-image="assets/images/Automaticwirecuttingstrippingmachine.jpeg"-->
-        <!--         data-title="Automatic wire cutting and stripping machine">-->
-
-        <!--        <a href="javascript:void(0)">-->
-        <!--            <i class="flaticon-right-arrow"></i>-->
-        <!--        </a>-->
-
-            
-
-        <!--        <h4 class="tp-project-title">-->
-        <!--            <a href="javascript:void(0)">-->
-        <!--                Automatic Wire Cutting & Stripping Machine-->
-        <!--            </a>-->
-        <!--        </h4>-->
-
-        <!--    </div>-->
-
-        <!--</div>-->
         <div class="tp-blog-3-item">
 
     <div class="tp-blog-3-thumb p-relative">
@@ -474,15 +401,18 @@
 
 </div>
     </div>
-   <!-- Item 10 -->
-      <!-- Video Item 1-->
+   <!-- Video Item 1-->
 <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow tpfadeUp ">
  <div class="tp-blog-3-item">
 
-    <div class="tp-blog-3-thumb p-relative">
-        <video class="img-fluid" muted autoplay loop playsinline>
-            <source src="assets/videos/AUTO-CUTTING-MUCHINE-PROCESS.mp4" type="video/mp4">
+    <div class="tp-blog-3-thumb p-relative tp-video-thumb">
+        <video class="img-fluid" id="previewVideo1" muted loop playsinline preload="metadata">
+            <source src="assets/videos/AUTO-CUTTING-MUCHINE-PROCESS.mp4#t=0.5" type="video/mp4">
         </video>
+
+        <button type="button" class="tp-video-play-btn" data-target="previewVideo1" aria-label="Play video preview">
+            <i class="fas fa-play"></i>
+        </button>
 
         <div class="tp-blog-3-icon open-gallery"
              data-type="video"
@@ -516,10 +446,14 @@
 <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow tpfadeUp ">
   <div class="tp-blog-3-item">
 
-    <div class="tp-blog-3-thumb p-relative" style="height: 300px;">
-        <video class="img-fluid" muted autoplay loop playsinline>
-            <source src="assets/videos/crimping-process.mp4" type="video/mp4">
+    <div class="tp-blog-3-thumb p-relative tp-video-thumb" style="height: 300px;">
+        <video class="img-fluid" id="previewVideo2" muted loop playsinline preload="metadata">
+            <source src="assets/videos/crimping-process.mp4#t=0.5" type="video/mp4">
         </video>
+
+        <button type="button" class="tp-video-play-btn" data-target="previewVideo2" aria-label="Play video preview">
+            <i class="fas fa-play"></i>
+        </button>
 
         <div class="tp-blog-3-icon open-gallery"
              data-type="video"
@@ -548,40 +482,6 @@
 
 </div>
 </div>
-     
- 
-     
-    <!-- Video Item 2 -->
-<!--<div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow tpfadeUp ">-->
-<!--    <div class="tp-project-item p-relative">-->
-
-<!--        <div class="tp-project-thumb">-->
-<!--            <video class="img-fluid" muted autoplay loop playsinline>-->
-<!--                <source src="assets/videos/gallery-video-3.mp4" type="video/mp4">-->
-<!--            </video>-->
-<!--        </div>-->
-
-<!--        <div class="tp-project-content open-gallery"-->
-<!--             data-type="video"-->
-<!--             data-video="assets/videos/gallery-video-3.mp4"-->
-<!--             data-title="Automatic Wire Cutting Process">-->
-
-<!--            <a href="javascript:void(0)">-->
-<!--                <i class="flaticon-right-arrow"></i>-->
-<!--            </a>-->
-
-<!--           
-
-<!--            <h4 class="tp-project-title">-->
-<!--                <a href="javascript:void(0)">-->
-<!--                 Automatic Wire Cutting Process-->
-<!--                </a>-->
-<!--            </h4>-->
-
-<!--        </div>-->
-
-<!--    </div>-->
-<!--</div>-->
 </div>
          </div>
       </div>
@@ -733,6 +633,46 @@ document.addEventListener("DOMContentLoaded", function () {
         video.currentTime = 0;
         videoSource.src = "";
         video.load();
+
+    });
+
+    // Click-to-play preview videos (no autoplay on page load)
+    document.querySelectorAll(".tp-video-play-btn").forEach(function (btn) {
+
+        btn.addEventListener("click", function (e) {
+
+            e.preventDefault();
+            e.stopPropagation();
+
+            const previewVideo = document.getElementById(btn.dataset.target);
+
+            if (previewVideo.paused) {
+                previewVideo.play();
+                btn.classList.add("is-playing");
+            } else {
+                previewVideo.pause();
+                btn.classList.remove("is-playing");
+            }
+
+        });
+
+    });
+
+    document.querySelectorAll(".tp-video-thumb video").forEach(function (previewVideo) {
+
+        previewVideo.addEventListener("click", function (e) {
+            e.stopPropagation();
+        });
+
+        previewVideo.addEventListener("pause", function () {
+            const btn = document.querySelector('.tp-video-play-btn[data-target="' + previewVideo.id + '"]');
+            if (btn) btn.classList.remove("is-playing");
+        });
+
+        previewVideo.addEventListener("ended", function () {
+            const btn = document.querySelector('.tp-video-play-btn[data-target="' + previewVideo.id + '"]');
+            if (btn) btn.classList.remove("is-playing");
+        });
 
     });
 

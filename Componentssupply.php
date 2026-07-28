@@ -64,10 +64,10 @@
     <!-- project area start -->
     <div class="tp-project-2-area tp-blog-3-area  fix p-relative grey-bg pt-60 pb-60 ">
         <div class="tp-project-2-shape-1 d-none d-xl-block">
-            <img src="assets/img/project/shape-2-1.png" alt="shape3" loading="lazy">
+            <img src="assets/img/project/shape-2-1.png" alt="" loading="lazy">
         </div>
         <div class="tp-project-2-shape-2 d-none d-xl-block">
-            <img src="assets/img/project/shape-2-2.png" alt="shape4" loading="lazy">
+            <img src="assets/img/project/shape-2-2.png" alt="" loading="lazy">
         </div>
         <div class="container custom-container-1">
             <div class="row">
@@ -83,7 +83,7 @@
                             data-wow-delay=".3s">
                             <div class="tp-blog-3-item">
                                 <div class="tp-blog-3-thumb p-relative">
-                                    <img src="assets/images/wires-cables.avif" alt="Wire Cable" loading="lazy">
+                                    <img src="assets/images/wires-cables.avif" alt="Wires and cables" loading="lazy">
                                     <div class="tp-blog-3-icon">
                                         <a href="wirecable.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
@@ -98,13 +98,13 @@
                             data-wow-delay=".3s">
                             <div class="tp-blog-3-item">
                                 <div class="tp-blog-3-thumb p-relative">
-                                    <img src="assets/images/connector.jpeg" alt="connecector" loading="lazy">
+                                    <img src="assets/images/connector.jpeg" alt="Automotive connectors" loading="lazy">
                                     <div class="tp-blog-3-icon">
                                         <a href="Connectors.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
                                 </div>
                                 <div class="tp-blog-3-content text-center z-index">
-                                    <h4 class="tp-blog-3-title"><a href="Connectors.php"> Connectors</a></h4>
+                                    <h4 class="tp-blog-3-title"><a href="Connectors.php">Automotive Male and Female Connectors</a></h4>
                                 </div>
                             </div>
                         </div>
@@ -113,13 +113,13 @@
                             data-wow-delay=".3s">
                             <div class="tp-blog-3-item">
                                 <div class="tp-blog-3-thumb p-relative">
-                                    <img src="assets/images/terminal.jpeg" alt="Terminal Chain" loading="lazy">
+                                    <img src="assets/images/terminal.jpeg" alt="Terminal chain" loading="lazy">
                                     <div class="tp-blog-3-icon">
                                         <a href="Terminal.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
                                 </div>
                                 <div class="tp-blog-3-content text-center z-index">
-                                    <h4 class="tp-blog-3-title"><a href="Terminal.php"> Chain </a></h4>
+                                    <h4 class="tp-blog-3-title"><a href="Terminal.php">Terminal Chain</a></h4>
                                 </div>
                             </div>
                         </div>
@@ -128,7 +128,7 @@
                             data-wow-delay=".3s">
                             <div class="tp-blog-3-item">
                                 <div class="tp-blog-3-thumb p-relative">
-                                    <img src="assets/images/CLIP-CLAMP.jpg" alt="clip Clamp" loading="lazy">
+                                    <img src="assets/images/CLIP-CLAMP.jpg" alt="Wire harness clip and clamps" loading="lazy">
                                     <div class="tp-blog-3-icon">
                                         <a href="ClipClamp.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
@@ -144,7 +144,7 @@
                             data-wow-delay=".3s">
                             <div class="tp-blog-3-item">
                                 <div class="tp-blog-3-thumb p-relative">
-                                    <img src="assets/images/TAPE1.avif" alt="Tape" loading="lazy">
+                                    <img src="assets/images/TAPE1.avif" alt="Insulation tape" loading="lazy">
                                     <div class="tp-blog-3-icon">
                                         <a href="Tape.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
@@ -159,7 +159,7 @@
                             data-wow-delay=".3s">
                             <div class="tp-blog-3-item">
                                 <div class="tp-blog-3-thumb p-relative">
-                                    <img src="assets/images/accessories-supply.avif" alt="Accessories" loading="lazy">
+                                    <img src="assets/images/accessories-supply.avif" alt="Wire harness accessories" loading="lazy">
                                     <div class="tp-blog-3-icon">
                                         <a href="accessories.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
@@ -189,22 +189,22 @@
             <div class="ckt-brand-marquee">
                 <div class="ckt-brand-track">
                     <!-- Logos -->
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-1.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-2.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-3.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-4.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-5.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-6.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-7.jpg" alt="" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-1.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-2.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-3.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-4.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-5.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-6.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-7.jpg" alt="Client brand logo" loading="lazy"></div>
 
                     <!-- Repeat -->
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-1.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-2.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-3.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-4.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-5.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-6.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-7.jpg" alt="" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-1.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-2.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-3.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-4.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-5.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-6.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-7.jpg" alt="Client brand logo" loading="lazy"></div>
 
                 </div>
             </div>
@@ -213,20 +213,20 @@
             <div class="ckt-brand-marquee reverse">
                 <div class="ckt-brand-track">
 
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-8.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-9.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-10.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-11.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-12.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-13.jpg" alt="" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-8.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-9.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-10.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-11.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-12.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-13.jpg" alt="Client brand logo" loading="lazy"></div>
 
                     <!-- Repeat -->
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-8.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-9.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-10.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-11.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-12.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-13.jpg" alt="" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-8.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-9.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-10.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-11.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-12.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-13.jpg" alt="Client brand logo" loading="lazy"></div>
 
                 </div>
             </div>
@@ -235,22 +235,22 @@
             <div class="ckt-brand-marquee">
                 <div class="ckt-brand-track">
 
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo14.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-15.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-16.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-17.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-18.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-19.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-20.jpg" alt="" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo14.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-15.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-16.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-17.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-18.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-19.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-20.jpg" alt="Client brand logo" loading="lazy"></div>
 
                     <!-- Repeat -->
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo14.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-15.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-16.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-17.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-18.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-19.jpg" alt="" loading="lazy"></div>
-                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-20.jpg" alt="" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo14.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-15.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-16.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-17.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-18.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-19.jpg" alt="Client brand logo" loading="lazy"></div>
+                    <div class="ckt-brand-box"><img src="assets/images/brand/ckt-logo-20.jpg" alt="Client brand logo" loading="lazy"></div>
 
                 </div>
             </div>

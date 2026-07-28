@@ -1,7 +1,4 @@
 <?php include 'header.php'; ?>
-<style>
-
-</style>
 
 <main>
     <!-- tp-hero-area-start -->
@@ -55,7 +52,7 @@
                         <div class="tp-hero-6-content">
                             <h2 class="tp-hero-6-title gradient-title mb-20 wow tpfadeUp" data-wow-duration=".9s"
                                 data-wow-delay=".3s">
-                                Your Trusted Partner for Wire Harness & Electrical Connectivity Solutions
+                                Precision Wire Harness Manufacturing Trusted by DRDO, Tata &amp; India's Leading OEMs
                             </h2>
                             <a class="tp-btn" href="about-us.php">
                                 <span>Discover More</span>
@@ -109,14 +106,14 @@
                     <div class="tp-about-right-box text-end tp-about-right-wrap p-relative">
 
                         <div class="tp-about-main-thumb">
-                            <img src="assets/images/about-image1.png" alt="about-img " loading="lazy">
+                            <img src="assets/images/about-image1.png" alt="CKT wire harness manufacturing facility" loading="lazy">
                         </div>
 
                         <div class="tp-about-shape-2  d-none d-lg-block">
-                            <img src="assets/img/about/shape-1-3.png" alt="bg shape" loading="lazy">
+                            <img src="assets/img/about/shape-1-3.png" alt="" loading="lazy">
                         </div>
                         <div class="tp-about-shape-6 d-none d-xl-block">
-                            <img src="assets/img/about/shape-3-2.png" alt="bg shape 2" loading="lazy">
+                            <img src="assets/img/about/shape-3-2.png" alt="" loading="lazy">
                         </div>
                     </div>
                 </div>
@@ -173,7 +170,7 @@
     <!-- service area start -->
     <div class="tp-service-4-area p-relative fix grey-bg pt-70 pb-50 z-index">
         <div class="tp-service-4-shape-1 d-none d-xxl-block">
-            <img src="assets/img/service/shape-4-1.png" alt="bg shape3" loading="lazy">
+            <img src="assets/img/service/shape-4-1.png" alt="" loading="lazy">
         </div>
         <div class="container">
             <div class="tp-service-4-top-box pb-70">
@@ -199,6 +196,10 @@
                                     enables us to design and manufacture products that meet the specific requirements of
                                     each sector.
                                 </p>
+                                <p class="mb-0" style="font-size:15px; line-height:1.8; color:#555;">
+                                    We are proud to support <strong>DRDO</strong> with precision-engineered wiring
+                                    harness solutions built for <strong>Performance</strong>, <strong>Reliability</strong>, and <strong>Quality</strong>.
+                                </p>
                                 <div class="tp-header-right-btn mt-30">
                                     <a class="tp-btn" href="industries.php"><span>Know More</span></a>
                                 </div>
@@ -217,7 +218,7 @@
                                 <div class="swiper-slide">
                                     <div class="tp-service-4-item p-relative">
                                         <div class="tp-service-4-item-bg">
-                                            <img src="assets/images/aerospace.jpg" alt="miletry defence" loading="lazy">
+                                            <img src="assets/images/aerospace.jpg" alt="Military and defence wire harness" loading="lazy">
                                         </div>
                                         <div
                                             class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
@@ -247,7 +248,7 @@
                                 <div class="swiper-slide">
                                     <div class="tp-service-4-item p-relative">
                                         <div class="tp-service-4-item-bg">
-                                            <img src="assets/images/automotive.jpeg" alt="Automotive" loading="lazy">
+                                            <img src="assets/images/automotive.jpeg" alt="Automotive wire harness" loading="lazy">
                                         </div>
                                         <div
                                             class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
@@ -274,7 +275,7 @@
                                 <div class="swiper-slide">
                                     <div class="tp-service-4-item p-relative">
                                         <div class="tp-service-4-item-bg">
-                                            <img src="assets/images/electrical-vehicle.jpg" alt="Electric Vehicles" loading="lazy">
+                                            <img src="assets/images/electrical-vehicle.jpg" alt="Electric vehicle wire harness" loading="lazy">
                                         </div>
                                         <div
                                             class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
@@ -303,7 +304,7 @@
                                 <div class="swiper-slide">
                                     <div class="tp-service-4-item p-relative">
                                         <div class="tp-service-4-item-bg">
-                                            <img src="assets/images/solar-panel.jpg" alt=" Renewable Energy" loading="lazy">
+                                            <img src="assets/images/solar-panel.jpg" alt="Renewable energy solar panel wire harness" loading="lazy">
                                         </div>
                                         <div
                                             class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
@@ -334,7 +335,7 @@
                                 <div class="swiper-slide">
                                     <div class="tp-service-4-item p-relative">
                                         <div class="tp-service-4-item-bg">
-                                            <img src="assets/images/home-appliance1.jpg" alt="Home Appliances" loading="lazy">
+                                            <img src="assets/images/home-appliance1.jpg" alt="Home appliance wire harness" loading="lazy">
                                         </div>
                                         <div
                                             class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
@@ -397,7 +398,7 @@
                                 <div class="swiper-slide">
                                     <div class="tp-service-4-item p-relative">
                                         <div class="tp-service-4-item-bg">
-                                            <img src="assets/images/industrial-panel.jpg" alt="" loading="lazy">
+                                            <img src="assets/images/industrial-panel.jpg" alt="Industrial control panel wire harness" loading="lazy">
                                         </div>
                                         <div
                                             class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
