@@ -83,41 +83,43 @@ $contactMessage = isset($_GET['message']) ? htmlspecialchars(urldecode($_GET['me
      <?php elseif ($contactStatus === 'error'): ?>
      <div class="contact-status error"><?php echo $contactMessage ?: 'We could not send your message. Please try again later.'; ?></div>
      <?php endif; ?>
-     <form action="send.php" method="POST">
+     <form action="send.php" method="POST" id="contactForm">
     <div class="row">
 
       <div class="col-xl-6 col-lg-6 col-md-6 col-12 mb-20">
     <div class="tp-contact-form-input-box input-icon">
         <i class="fas fa-user"></i>
-        <input type="text" name="name" placeholder="Enter your name" required>
+        <input type="text" name="name" id="contactName" placeholder="Enter your name"
+            maxlength="50" pattern="[A-Za-z\s]+" title="Name should contain letters only" required>
     </div>
 </div>
 
 <div class="col-xl-6 col-lg-6 col-md-6 col-12 mb-20">
     <div class="tp-contact-form-input-box input-icon">
         <i class="fas fa-envelope"></i>
-        <input type="email" name="email" placeholder="Enter your email" required>
+        <input type="email" name="email" id="contactEmail" placeholder="Enter your email" maxlength="100" required>
     </div>
 </div>
 
 <div class="col-xl-6 col-lg-6 col-md-6 col-12 mb-20">
     <div class="tp-contact-form-input-box input-icon">
         <i class="fas fa-phone-alt"></i>
-        <input type="tel" name="mobile" placeholder="Enter your mobile number" required>
+        <input type="tel" name="mobile" id="contactMobile" placeholder="Enter your mobile number"
+            inputmode="numeric" maxlength="10" pattern="[0-9]{10}" title="Enter a 10 digit mobile number" required>
     </div>
 </div>
 
 <div class="col-xl-6 col-lg-6 col-md-6 col-12 mb-20">
     <div class="tp-contact-form-input-box input-icon">
         <i class="fas fa-tag"></i>
-        <input type="text" name="subject" placeholder="Your subject" required>
+        <input type="text" name="subject" id="contactSubject" placeholder="Your subject" maxlength="100" required>
     </div>
 </div>
 
 <div class="col-12 mb-20">
     <div class="tp-contact-form-input-box input-icon textarea-icon">
         <i class="fas fa-comment-dots"></i>
-        <textarea name="message" placeholder="Write your message" required></textarea>
+        <textarea name="message" id="contactMessage" placeholder="Write your message" maxlength="1000" required></textarea>
     </div>
 </div>
         <div class="col-12">

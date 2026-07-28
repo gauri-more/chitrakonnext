@@ -142,6 +142,70 @@ document.getElementById("whatsappForm").addEventListener("submit", function(e) {
     window.open(url, "_blank");
 });
 
+// Contact page form validation
+const contactForm = document.getElementById("contactForm");
+
+if (contactForm) {
+
+    const contactName = document.getElementById("contactName");
+    const contactEmail = document.getElementById("contactEmail");
+    const contactMobile = document.getElementById("contactMobile");
+    const contactSubject = document.getElementById("contactSubject");
+    const contactMessage = document.getElementById("contactMessage");
+
+    // Allow letters and spaces only in Name field
+    contactName.addEventListener("input", function () {
+        this.value = this.value.replace(/[^A-Za-z\s]/g, "").slice(0, 50);
+    });
+
+    // Allow digits only in Mobile field, max 10 digits
+    contactMobile.addEventListener("input", function () {
+        this.value = this.value.replace(/\D/g, "").slice(0, 10);
+    });
+
+    contactForm.addEventListener("submit", function (e) {
+
+        const name = contactName.value.trim();
+        const email = contactEmail.value.trim();
+        const mobile = contactMobile.value.trim();
+        const subject = contactSubject.value.trim();
+        const message = contactMessage.value.trim();
+        const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+        if (!name || !/^[A-Za-z\s]+$/.test(name)) {
+            e.preventDefault();
+            alert("Please enter a valid name (letters only).");
+            return;
+        }
+
+        if (!email || !emailPattern.test(email)) {
+            e.preventDefault();
+            alert("Please enter a valid email address.");
+            return;
+        }
+
+        if (mobile.length !== 10) {
+            e.preventDefault();
+            alert("Please enter a valid 10 digit mobile number.");
+            return;
+        }
+
+        if (!subject) {
+            e.preventDefault();
+            alert("Please enter a subject.");
+            return;
+        }
+
+        if (!message) {
+            e.preventDefault();
+            alert("Please enter your message.");
+            return;
+        }
+
+    });
+
+}
+
 </script>
    <!-- JS here -->
    

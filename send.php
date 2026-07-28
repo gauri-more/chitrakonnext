@@ -2,15 +2,35 @@
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
-    $name = htmlspecialchars($_POST['name'] ?? '');
+    $name = htmlspecialchars(trim(substr($_POST['name'] ?? '', 0, 50)));
     $email = filter_var(trim($_POST['email'] ?? ''), FILTER_SANITIZE_EMAIL);
-    $mobile = htmlspecialchars($_POST['mobile'] ?? '');
-    $subject = htmlspecialchars($_POST['subject'] ?? '');
-    $message = htmlspecialchars($_POST['message'] ?? '');
+    $mobile = preg_replace('/\D/', '', $_POST['mobile'] ?? '');
+    $subject = htmlspecialchars(trim(substr($_POST['subject'] ?? '', 0, 100)));
+    $message = htmlspecialchars(trim(substr($_POST['message'] ?? '', 0, 1000)));
     $website = htmlspecialchars($_POST['website'] ?? '');
+
+    if ($name === '' || !preg_match('/^[A-Za-z\s]+$/', $name)) {
+        header('Location: contact.php?status=error&message=' . urlencode('Please enter a valid name (letters only).'));
+        exit;
+    }
 
     if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
         header('Location: contact.php?status=error&message=' . urlencode('Please enter a valid email address.'));
+        exit;
+    }
+
+    if (strlen($mobile) !== 10) {
+        header('Location: contact.php?status=error&message=' . urlencode('Please enter a valid 10 digit mobile number.'));
+        exit;
+    }
+
+    if ($subject === '') {
+        header('Location: contact.php?status=error&message=' . urlencode('Please enter a subject.'));
+        exit;
+    }
+
+    if ($message === '') {
+        header('Location: contact.php?status=error&message=' . urlencode('Please enter your message.'));
         exit;
     }
 
