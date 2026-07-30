@@ -1,6 +1,4 @@
-
-<?php include 'header.php'; ?>
-<?php
+<?php include 'header.php'; ?><?php
 $contactStatus = isset($_GET['status']) ? $_GET['status'] : '';
 $contactMessage = isset($_GET['message']) ? htmlspecialchars(urldecode($_GET['message'])) : '';
 $showContactToast = ($contactStatus === 'success' || $contactStatus === 'error');
@@ -115,7 +113,7 @@ $contactToastTitle = $contactStatus === 'success' ? 'Success' : 'Failed';
                <div class="col-xl-6 col-md-6 col-12">
                   <div class="tp-contact-form-border">
                      <h4 class="tp-contact-form-title">Send your message</h4>
-     <form action="send.php" method="POST" id="contactForm">
+     <form action="send" method="POST" id="contactForm">
     <div class="row">
 
       <div class="col-xl-6 col-lg-6 col-md-6 col-12 mb-20">

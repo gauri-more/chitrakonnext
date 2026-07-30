@@ -159,6 +159,7 @@ if (contactForm) {
     const contactMobile = document.getElementById("contactMobile");
     const contactSubject = document.getElementById("contactSubject");
     const contactMessage = document.getElementById("contactMessage");
+    const contactSubmitBtn = contactForm.querySelector('button[type="submit"]');
 
     // Allow letters and spaces only in Name field
     contactName.addEventListener("input", function () {
@@ -170,7 +171,40 @@ if (contactForm) {
         this.value = this.value.replace(/\D/g, "").slice(0, 10);
     });
 
+    function showContactToast(status, message) {
+        let container = document.getElementById("ckToastContainer");
+        if (!container) {
+            container = document.createElement("div");
+            container.id = "ckToastContainer";
+            container.className = "position-fixed top-0 end-0 p-3";
+            container.style.zIndex = 1080;
+            document.body.appendChild(container);
+        }
+
+        const toastClass = status === "success" ? "text-bg-success" : "text-bg-danger";
+        const title = status === "success" ? "Success" : "Failed";
+
+        const toastEl = document.createElement("div");
+        toastEl.className = "toast align-items-center " + toastClass + " border-0";
+        toastEl.setAttribute("role", "status");
+        toastEl.setAttribute("aria-live", "polite");
+        toastEl.setAttribute("aria-atomic", "true");
+        toastEl.setAttribute("data-bs-delay", "4500");
+        toastEl.innerHTML =
+            '<div class="d-flex">' +
+                '<div class="toast-body"><strong>' + title + ':</strong> ' + message + '</div>' +
+                '<button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast" aria-label="Close"></button>' +
+            '</div>';
+
+        container.appendChild(toastEl);
+        toastEl.addEventListener("hidden.bs.toast", function () {
+            toastEl.remove();
+        });
+        new bootstrap.Toast(toastEl).show();
+    }
+
     contactForm.addEventListener("submit", function (e) {
+        e.preventDefault();
 
         const name = contactName.value.trim();
         const email = contactEmail.value.trim();
@@ -180,35 +214,59 @@ if (contactForm) {
         const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
         if (!name || !/^[A-Za-z\s]+$/.test(name)) {
-            e.preventDefault();
-            alert("Please enter a valid name (letters only).");
+            showContactToast("error", "Please enter a valid name (letters only).");
             return;
         }
 
         if (!email || !emailPattern.test(email)) {
-            e.preventDefault();
-            alert("Please enter a valid email address.");
+            showContactToast("error", "Please enter a valid email address.");
             return;
         }
 
         if (mobile.length !== 10) {
-            e.preventDefault();
-            alert("Please enter a valid 10 digit mobile number.");
+            showContactToast("error", "Please enter a valid 10 digit mobile number.");
             return;
         }
 
         if (!subject) {
-            e.preventDefault();
-            alert("Please enter a subject.");
+            showContactToast("error", "Please enter a subject.");
             return;
         }
 
         if (!message) {
-            e.preventDefault();
-            alert("Please enter your message.");
+            showContactToast("error", "Please enter your message.");
             return;
         }
 
+        const originalBtnHtml = contactSubmitBtn ? contactSubmitBtn.innerHTML : "";
+        if (contactSubmitBtn) {
+            contactSubmitBtn.disabled = true;
+            contactSubmitBtn.innerHTML = "Sending...";
+        }
+
+        fetch(contactForm.action, {
+            method: "POST",
+            body: new FormData(contactForm),
+            headers: { "X-Requested-With": "XMLHttpRequest" }
+        })
+            .then(function (response) {
+                return response.json();
+            })
+            .then(function (data) {
+                showContactToast(data.status === "success" ? "success" : "error", data.message || "Form submission status updated.");
+                if (data.status === "success") {
+                    contactForm.reset();
+                }
+            })
+            .catch(function () {
+                showContactToast("error", "Something went wrong. Please try again later.");
+            })
+            .finally(function () {
+                if (contactSubmitBtn) {
+                    contactSubmitBtn.disabled = false;
+                    contactSubmitBtn.innerHTML = originalBtnHtml;
+                }
+            });
     });
 
 }

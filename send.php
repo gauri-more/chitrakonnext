@@ -1,5 +1,47 @@
 <?php
 
+ob_start();
+error_reporting(E_ALL);
+ini_set('display_errors', '0');
+
+/**
+ * Detect whether this request came from the fetch()-based AJAX contact form.
+ */
+function isAjaxRequest() {
+    return (!empty($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) === 'xmlhttprequest')
+        || (!empty($_SERVER['HTTP_ACCEPT']) && strpos($_SERVER['HTTP_ACCEPT'], 'application/json') !== false);
+}
+
+/**
+ * Respond to the form submission. AJAX requests get an immediate JSON
+ * body (no reload). Regular (no-JS) submissions get redirected back to
+ * contact.php with a status/message query string, falling back to a
+ * meta-refresh/JS redirect if headers were already sent, so the user
+ * never sees a blank page.
+ */
+function respond($status, $message) {
+    ob_end_clean();
+
+    if (isAjaxRequest()) {
+        header('Content-Type: application/json');
+        echo json_encode(['status' => $status, 'message' => $message]);
+        exit;
+    }
+
+    $url = 'contact.php?status=' . urlencode($status) . '&message=' . urlencode($message);
+
+    if (!headers_sent()) {
+        header('Location: ' . $url);
+        exit;
+    }
+
+    echo '<!DOCTYPE html><html><head><meta charset="UTF-8">';
+    echo '<meta http-equiv="refresh" content="0;url=' . htmlspecialchars($url) . '">';
+    echo '<script>window.location.replace(' . json_encode($url) . ');</script>';
+    echo '</head><body>Redirecting...</body></html>';
+    exit;
+}
+
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     $name = htmlspecialchars(trim(substr($_POST['name'] ?? '', 0, 50)));
@@ -9,28 +51,23 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message = htmlspecialchars(trim(substr($_POST['message'] ?? '', 0, 1000)));
 
     if ($name === '' || !preg_match('/^[A-Za-z\s]+$/', $name)) {
-        header('Location: contact.php?status=error&message=' . urlencode('Please enter a valid name (letters only).'));
-        exit;
+        respond('error', 'Please enter a valid name (letters only).');
     }
 
     if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
-        header('Location: contact.php?status=error&message=' . urlencode('Please enter a valid email address.'));
-        exit;
+        respond('error', 'Please enter a valid email address.');
     }
 
     if (strlen($mobile) !== 10) {
-        header('Location: contact.php?status=error&message=' . urlencode('Please enter a valid 10 digit mobile number.'));
-        exit;
+        respond('error', 'Please enter a valid 10 digit mobile number.');
     }
 
     if ($subject === '') {
-        header('Location: contact.php?status=error&message=' . urlencode('Please enter a subject.'));
-        exit;
+        respond('error', 'Please enter a subject.');
     }
 
     if ($message === '') {
-        header('Location: contact.php?status=error&message=' . urlencode('Please enter your message.'));
-        exit;
+        respond('error', 'Please enter your message.');
     }
 
     // Change this to your email
@@ -82,8 +119,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $mailSent = @mail($to, $mail_subject, $mail_message, $headers);
 
     if ($mailSent) {
-        header('Location: contact.php?status=success&message=' . urlencode('Thank you! Your message has been sent successfully.'));
-        exit;
+        respond('success', 'Thank you! Your message has been sent successfully.');
     } else {
         $mailError = error_get_last();
         if (is_array($mailError) && isset($mailError['message'])) {
@@ -91,12 +127,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         } else {
             error_log('Contact form mail failed: unknown mail() error');
         }
-        header('Location: contact.php?status=error&message=' . urlencode('Mail could not be sent. Server mail service is unavailable or not configured.'));
-        exit;
+        respond('error', 'Mail could not be sent. Server mail service is unavailable or not configured.');
     }
 
 }
 
-header('Location: contact.php');
-exit;
+respond('error', 'Invalid request.');
 ?>
