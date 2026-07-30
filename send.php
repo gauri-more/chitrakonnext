@@ -7,7 +7,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $mobile = preg_replace('/\D/', '', $_POST['mobile'] ?? '');
     $subject = htmlspecialchars(trim(substr($_POST['subject'] ?? '', 0, 100)));
     $message = htmlspecialchars(trim(substr($_POST['message'] ?? '', 0, 1000)));
-    $website = htmlspecialchars($_POST['website'] ?? '');
 
     if ($name === '' || !preg_match('/^[A-Za-z\s]+$/', $name)) {
         header('Location: contact.php?status=error&message=' . urlencode('Please enter a valid name (letters only).'));
@@ -57,8 +56,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <td>$email</td>
             </tr>
             <tr>
-                <td><strong>Website</strong></td>
-                <td>$website</td>
+                <td><strong>Mobile</strong></td>
+                <td>$mobile</td>
             </tr>
             <tr>
                 <td><strong>Subject</strong></td>
@@ -72,18 +71,32 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </body>
     </html>";
 
+    $fromEmail = "no-reply@chaitrakonnex.com";
+    $fromName = "Chaitra Konnex Website";
+
     $headers  = "MIME-Version: 1.0\r\n";
     $headers .= "Content-type:text/html;charset=UTF-8\r\n";
-    $headers .= "From: Website Contact <$email>\r\n";
+    $headers .= "From: $fromName <$fromEmail>\r\n";
     $headers .= "Reply-To: $email\r\n";
 
-    if(mail($to, $mail_subject, $mail_message, $headers)){
+    $mailSent = @mail($to, $mail_subject, $mail_message, $headers);
+
+    if ($mailSent) {
         header('Location: contact.php?status=success&message=' . urlencode('Thank you! Your message has been sent successfully.'));
         exit;
     } else {
-        header('Location: contact.php?status=error&message=' . urlencode('Mail could not be sent. Please try again later.'));
+        $mailError = error_get_last();
+        if (is_array($mailError) && isset($mailError['message'])) {
+            error_log('Contact form mail failed: ' . $mailError['message']);
+        } else {
+            error_log('Contact form mail failed: unknown mail() error');
+        }
+        header('Location: contact.php?status=error&message=' . urlencode('Mail could not be sent. Server mail service is unavailable or not configured.'));
         exit;
     }
 
 }
+
+header('Location: contact.php');
+exit;
 ?>

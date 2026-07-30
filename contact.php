@@ -3,9 +3,26 @@
 <?php
 $contactStatus = isset($_GET['status']) ? $_GET['status'] : '';
 $contactMessage = isset($_GET['message']) ? htmlspecialchars(urldecode($_GET['message'])) : '';
+$showContactToast = ($contactStatus === 'success' || $contactStatus === 'error');
+$contactToastClass = $contactStatus === 'success' ? 'text-bg-success' : 'text-bg-danger';
+$contactToastTitle = $contactStatus === 'success' ? 'Success' : 'Failed';
 ?>
 
    <main>
+
+      <?php if ($showContactToast): ?>
+      <div class="position-fixed top-0 end-0 p-3" style="z-index:1080;">
+         <div id="contactToast" class="toast align-items-center <?php echo $contactToastClass; ?> border-0" role="status" aria-live="polite" aria-atomic="true" data-bs-delay="4500">
+            <div class="d-flex">
+               <div class="toast-body">
+                  <strong><?php echo $contactToastTitle; ?>:</strong>
+                  <?php echo $contactMessage ?: 'Form submission status updated.'; ?>
+               </div>
+               <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast" aria-label="Close"></button>
+            </div>
+         </div>
+      </div>
+      <?php endif; ?>
 
       <!-- breadcrumb area start -->
           <div class="breadcrumb__area breadcrumb__overlay breadcrumb__height p-relative fix" data-background="assets/images/breadcrumb.jpg">
@@ -78,11 +95,6 @@ $contactMessage = isset($_GET['message']) ? htmlspecialchars(urldecode($_GET['me
                <div class="col-xl-6 col-md-6 col-12">
                   <div class="tp-contact-form-border">
                      <h4 class="tp-contact-form-title">Send your message</h4>
-     <?php if ($contactStatus === 'success'): ?>
-     <div class="contact-status success"><?php echo $contactMessage ?: 'Thank you! Your message has been sent successfully.'; ?></div>
-     <?php elseif ($contactStatus === 'error'): ?>
-     <div class="contact-status error"><?php echo $contactMessage ?: 'We could not send your message. Please try again later.'; ?></div>
-     <?php endif; ?>
      <form action="send.php" method="POST" id="contactForm">
     <div class="row">
 
@@ -156,6 +168,18 @@ $contactMessage = isset($_GET['message']) ? htmlspecialchars(urldecode($_GET['me
 
 
    </main>
+
+<?php if ($showContactToast): ?>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+   var toastElement = document.getElementById("contactToast");
+   if (toastElement) {
+      var toast = new bootstrap.Toast(toastElement);
+      toast.show();
+   }
+});
+</script>
+<?php endif; ?>
 
 
 <?php include 'footer.php'; ?>
