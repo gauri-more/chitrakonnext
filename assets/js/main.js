@@ -1311,36 +1311,17 @@
 // });
 new Swiper(".tp-brand-6-slide-active", {
     loop: true,
-    slidesPerView: 6,
-    spaceBetween: 20,
-
-    speed: 2000,
+    speed: 2500,
+    spaceBetween: 10,
+    slidesPerView: "auto",
 
     autoplay: {
         delay: 0,
         disableOnInteraction: false,
-        waitForTransition: false,
+        pauseOnMouseEnter: false,
     },
 
     allowTouchMove: false,
-
-    breakpoints: {
-        0: {
-            slidesPerView: 2,
-        },
-        576: {
-            slidesPerView: 3,
-        },
-        768: {
-            slidesPerView: 4,
-        },
-        992: {
-            slidesPerView: 5,
-        },
-        1200: {
-            slidesPerView: 6,
-        }
-    }
 });
 
 	// tp-service-7-slider-active

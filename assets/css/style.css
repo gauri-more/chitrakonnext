@@ -1,3 +1,16 @@
+
+/* Active Menu */
+.tp-main-menu-content ul li > a.active,
+.tp-main-menu-content ul li:hover > a {
+    color: #ff6b00 !important;   /* Orange */
+}
+
+/* Optional underline effect */
+.tp-main-menu-content ul li > a.active::after {
+    width: 100%;
+    background: #ff6b00;
+}
+
 .ckt-work-process .tp-step-item {
        min-height: 450px;
  }
@@ -1405,4 +1418,9 @@ background:#fff;
 .tp-video-play-btn.is-playing {
     opacity: 0;
     pointer-events: none;
+}
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+    .tp-header-main-menu nav ul li {
+        margin: 0 10px;
+    }
 }

@@ -7,7 +7,27 @@ $showContactToast = ($contactStatus === 'success' || $contactStatus === 'error')
 $contactToastClass = $contactStatus === 'success' ? 'text-bg-success' : 'text-bg-danger';
 $contactToastTitle = $contactStatus === 'success' ? 'Success' : 'Failed';
 ?>
+<style>
+ .tp-btn{
+    position: relative;
+    overflow: hidden;
+    color: #fff !important;
+    z-index: 1;
+}
 
+.tp-btn::after{
+    z-index: -1;   /* Keep the overlay behind the text */
+}
+
+.tp-btn:hover{
+    color: #fff !important;
+}
+
+.tp-btn:hover,
+.tp-btn:hover span{
+    color:#fff !important;
+}
+</style>
    <main>
 
       <?php if ($showContactToast): ?>

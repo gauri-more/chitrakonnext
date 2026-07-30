@@ -41,11 +41,11 @@
                      <div class="tp-blog-3-thumb p-relative">
                         <img src="assets/images/aerospace.jpg" alt="Military and defence wire harness" loading="lazy">
                         <div class="tp-blog-3-icon">
-                           <a href="MilitaryDefence.php"><i class="flaticon-right-arrow"></i></a>
+                           <a href="militarydefence.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
                      </div>
                      <div class="tp-blog-3-content text-center z-index">
-                        <h4 class="tp-blog-3-title"><a href="MilitaryDefence.php">Military & Defence</a></h4>
+                        <h4 class="tp-blog-3-title"><a href="militarydefence.php">Military & Defence</a></h4>
                      </div>
                   </div>
                </div>
@@ -54,11 +54,11 @@
                      <div class="tp-blog-3-thumb p-relative">
                         <img src="assets/images/automotive.jpeg" alt="Automotive wire harness" loading="lazy">
                         <div class="tp-blog-3-icon">
-                           <a href="Automotive.php"><i class="flaticon-right-arrow"></i></a>
+                           <a href="automotive.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
                      </div>
                      <div class="tp-blog-3-content text-center z-index">
-                        <h4 class="tp-blog-3-title"><a href="Automotive.php">Automotive</a></h4>
+                        <h4 class="tp-blog-3-title"><a href="automotive.php">Automotive</a></h4>
                      </div>
                   </div>
                </div>  <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
@@ -66,11 +66,11 @@
                      <div class="tp-blog-3-thumb p-relative">
                         <img src="assets/images/electrical-vehicle.jpg" alt="Electric vehicle wire harness" loading="lazy">
                         <div class="tp-blog-3-icon">
-                           <a href="ElectricVehicles.php"><i class="flaticon-right-arrow"></i></a>
+                           <a href="electricvehicles.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
                      </div>
                      <div class="tp-blog-3-content text-center z-index">
-                        <h4 class="tp-blog-3-title"><a href="ElectricVehicles.php">Electric Vehicles</a></h4>
+                        <h4 class="tp-blog-3-title"><a href="electricvehicles.php">Electric Vehicles</a></h4>
                      </div>
                   </div>
                </div> 
@@ -79,11 +79,11 @@
                      <div class="tp-blog-3-thumb p-relative">
                         <img src="assets/images/solar-panel.jpg" alt="Renewable energy solar panel wire harness" loading="lazy">
                         <div class="tp-blog-3-icon">
-                           <a href="RenewableEnergy.php"><i class="flaticon-right-arrow"></i></a>
+                           <a href="renewableenergy.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
                      </div>
                      <div class="tp-blog-3-content text-center z-index">
-                        <h4 class="tp-blog-3-title"><a href="RenewableEnergy.php">Renewable Energy</a></h4>
+                        <h4 class="tp-blog-3-title"><a href="renewableenergy.php">Renewable Energy</a></h4>
                      </div>
                   </div>
                </div>  <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
@@ -91,11 +91,11 @@
                      <div class="tp-blog-3-thumb p-relative">
                         <img src="assets/images/home-appliance1.jpg" alt="Home appliance wire harness" loading="lazy">
                         <div class="tp-blog-3-icon">
-                           <a href="HomeAppliances.php"><i class="flaticon-right-arrow"></i></a>
+                           <a href="homeappliances.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
                      </div>
                      <div class="tp-blog-3-content text-center z-index">
-                        <h4 class="tp-blog-3-title"><a href="HomeAppliances.php">Home Appliances</a></h4>
+                        <h4 class="tp-blog-3-title"><a href="homeappliances.php">Home Appliances</a></h4>
                      </div>
                   </div>
                </div>  <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
@@ -103,11 +103,11 @@
                      <div class="tp-blog-3-thumb p-relative">
                         <img src="assets/images/farm-agri.jpg" alt="Farm and agricultural equipment wire harness" loading="lazy">
                         <div class="tp-blog-3-icon">
-                           <a href="FarmAgriculturalEquipment.php"><i class="flaticon-right-arrow"></i></a>
+                           <a href="farmagriculturalequipment.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
                      </div>
                      <div class="tp-blog-3-content text-center z-index">
-                        <h4 class="tp-blog-3-title"><a href="FarmAgriculturalEquipment.php">Farm & Agricultural Equipment</a></h4>
+                        <h4 class="tp-blog-3-title"><a href="farmagriculturalequipment.php">Farm & Agricultural Equipment</a></h4>
                      </div>
                   </div>
                </div>  <div class="col-xl-4 col-lg-4 col-md-6 mb-30  wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
@@ -115,11 +115,11 @@
                      <div class="tp-blog-3-thumb p-relative">
                         <img src="assets/images/industrial-panel.jpg" alt="Industrial control panel wire harness" loading="lazy">
                         <div class="tp-blog-3-icon">
-                           <a href="IndustrialControlPanel.php"><i class="flaticon-right-arrow"></i></a>
+                           <a href="industrialcontrolpanel.php"><i class="flaticon-right-arrow"></i></a>
                         </div>
                      </div>
                      <div class="tp-blog-3-content text-center z-index">
-                        <h4 class="tp-blog-3-title"><a href="IndustrialControlPanel.php">Industrial Control Panel Harness Solution</a></h4>
+                        <h4 class="tp-blog-3-title"><a href="industrialcontrolpanel.php">Industrial Control Panel Harness Solution</a></h4>
                      </div>
                   </div>
                </div>  

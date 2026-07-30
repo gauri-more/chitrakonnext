@@ -8,37 +8,37 @@
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="tp-hero-6-bg">
-                            <div class="tp-hero-6-thumb" data-background="assets/images/banner-image-1-slider.jpg">
+                            <div class="tp-hero-6-thumb" data-background="assets/images/banner-image-1-slider.webp">
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="tp-hero-6-bg">
-                            <div class="tp-hero-6-thumb" data-background="assets/images/banner-image-2-slider.jpeg">
+                            <div class="tp-hero-6-thumb" data-background="assets/images/banner-image-2-slider.webp">
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="tp-hero-6-bg">
-                            <div class="tp-hero-6-thumb" data-background="assets/images/banner-image-3-slider.jpeg">
+                            <div class="tp-hero-6-thumb" data-background="assets/images/banner-image-3-slider.webp">
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="tp-hero-6-bg">
-                            <div class="tp-hero-6-thumb" data-background="assets/images/banner-image-4-slider.jpeg">
+                            <div class="tp-hero-6-thumb" data-background="assets/images/banner-image-4-slider.webp">
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="tp-hero-6-bg">
-                            <div class="tp-hero-6-thumb" data-background="assets/images/banner-image-5-slider.jpeg">
+                            <div class="tp-hero-6-thumb" data-background="assets/images/banner-image-5-slider.webp">
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="tp-hero-6-bg">
-                            <div class="tp-hero-6-thumb" data-background="assets/images/banner-image-6-slider.jpg">
+                            <div class="tp-hero-6-thumb" data-background="assets/images/banner-image-6-slider.webp">
                             </div>
                         </div>
                     </div>
@@ -134,16 +134,17 @@
                                 connectivity solutions. We are committed to delivering reliable, precision-engineered
                                 products that meet the highest industry standards for quality, safety, and performance.
                             </p>
-                            <p>
+                         
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 col-12">
+                       <p>
                                 Serving a diverse range of industries, including Defence, Automotive, Electric Vehicles
                                 (EV), Industrial Automation, Renewable Energy, Home Appliances, Farm & Agricultural
                                 Equipment, and Industrial Control Panel Solutions, we provide innovative and
                                 cost-effective solutions tailored to our customers' unique requirements.
                             </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-12 col-12">
                     <p>
                         Established in <strong>2021</strong>, CKT has rapidly earned a reputation for excellence through
                         advanced manufacturing processes,
@@ -234,11 +235,11 @@
                                             </div>
                                             <div
                                                 class="tp-service-4-title-box d-flex justify-content-between align-items-end">
-                                                <h5 class="tp-service-4-title-2"><a href="MilitaryDefence.php">Military
+                                                <h5 class="tp-service-4-title-2"><a href="militarydefence.php">Military
                                                         & Defence</a></h5>
                                                 <h5 class="tp-service-4-title-3 title-transparent ">GO</h5>
                                                 <div class="tp-service-4-icon">
-                                                    <a href="MilitaryDefence.php"><i
+                                                    <a href="militarydefence.php"><i
                                                             class="flaticon-right-arrow"></i></a>
                                                 </div>
                                             </div>
@@ -262,11 +263,11 @@
                                             </div>
                                             <div
                                                 class="tp-service-4-title-box d-flex justify-content-between align-items-end">
-                                                <h5 class="tp-service-4-title-2"><a href="Automotive.php">Automotive</a>
+                                                <h5 class="tp-service-4-title-2"><a href="automotive.php">Automotive</a>
                                                 </h5>
                                                 <h5 class="tp-service-4-title-3 title-transparent ">GO</h5>
                                                 <div class="tp-service-4-icon">
-                                                    <a href="Automotive.php"><i class="flaticon-right-arrow"></i></a>
+                                                    <a href="automotive.php"><i class="flaticon-right-arrow"></i></a>
                                                 </div>
                                             </div>
                                         </div>
@@ -290,11 +291,11 @@
                                             </div>
                                             <div
                                                 class="tp-service-4-title-box d-flex justify-content-between align-items-end">
-                                                <h5 class="tp-service-4-title-2"><a href="ElectricVehicles.php">Electric
+                                                <h5 class="tp-service-4-title-2"><a href="electricvehicles.php">Electric
                                                         Vehicles</a></h5>
                                                 <h5 class="tp-service-4-title-3 title-transparent ">GO</h5>
                                                 <div class="tp-service-4-icon">
-                                                    <a href="ElectricVehicles.php"><i
+                                                    <a href="electricvehicles.php"><i
                                                             class="flaticon-right-arrow"></i></a>
                                                 </div>
                                             </div>
@@ -321,11 +322,11 @@
                                             </div>
                                             <div
                                                 class="tp-service-4-title-box d-flex justify-content-between align-items-end">
-                                                <h5 class="tp-service-4-title-2"><a href="RenewableEnergy.php">Renewable
+                                                <h5 class="tp-service-4-title-2"><a href="renewableenergy.php">Renewable
                                                         Energy</a></h5>
                                                 <h5 class="tp-service-4-title-3 title-transparent ">GO</h5>
                                                 <div class="tp-service-4-icon">
-                                                    <a href="RenewableEnergy.php"><i
+                                                    <a href="renewableenergy.php"><i
                                                             class="flaticon-right-arrow"></i></a>
                                                 </div>
                                             </div>
@@ -352,11 +353,11 @@
                                             </div>
                                             <div
                                                 class="tp-service-4-title-box d-flex justify-content-between align-items-end">
-                                                <h5 class="tp-service-4-title-2"><a href="HomeAppliances.php">Home
+                                                <h5 class="tp-service-4-title-2"><a href="homeappliances.php">Home
                                                         Appliances</a></h5>
                                                 <h5 class="tp-service-4-title-3 title-transparent ">GO</h5>
                                                 <div class="tp-service-4-icon">
-                                                    <a href="HomeAppliances.php"><i
+                                                    <a href="homeappliances.php"><i
                                                             class="flaticon-right-arrow"></i></a>
                                                 </div>
                                             </div>
@@ -366,8 +367,7 @@
                                 <div class="swiper-slide">
                                     <div class="tp-service-4-item p-relative">
                                         <div class="tp-service-4-item-bg">
-                                            <img src="assets/images/farm-agri.jpg" alt="Farm & Agricultural
-                                                        Equipment" loading="lazy">
+                                            <img src="assets/images/farm-agri.jpg" alt="Farm & Agricultural Equipment" loading="lazy">
                                         </div>
                                         <div
                                             class="tp-service-4-content-wrap d-flex justify-content-between flex-column">
@@ -384,11 +384,11 @@
                                             <div
                                                 class="tp-service-4-title-box d-flex justify-content-between align-items-end">
                                                 <h5 class="tp-service-4-title-2"><a
-                                                        href="FarmAgriculturalEquipment.php">Farm & Agricultural
+                                                        href="farmagriculturalequipment.php">Farm & Agricultural
                                                         Equipment</a></h5>
                                                 <h5 class="tp-service-4-title-3 title-transparent ">GO</h5>
                                                 <div class="tp-service-4-icon">
-                                                    <a href="FarmAgriculturalEquipment.php"><i
+                                                    <a href="farmagriculturalequipment.php"><i
                                                             class="flaticon-right-arrow"></i></a>
                                                 </div>
                                             </div>
@@ -416,11 +416,11 @@
                                             <div
                                                 class="tp-service-4-title-box d-flex justify-content-between align-items-end">
                                                 <h5 class="tp-service-4-title-2"><a
-                                                        href="IndustrialControlPanel.php">Industrial Control Panel
+                                                        href="industrialcontrolpanel.php">Industrial Control Panel
                                                         Harness Solution</a></h5>
                                                 <h5 class="tp-service-4-title-3 title-transparent ">GO</h5>
                                                 <div class="tp-service-4-icon">
-                                                    <a href="IndustrialControlPanel.php"><i
+                                                    <a href="industrialcontrolpanel.php"><i
                                                             class="flaticon-right-arrow"></i></a>
                                                 </div>
                                             </div>
@@ -439,7 +439,7 @@
     <!-- step area start -->
     <div class="tp-step-area pt-40 pb-40 ">
         <div class="container">
-            <div class="row" style="justify-content: center;">
+            <div class="row" style="justify-content:center;">
 
                 <div class="col-xl-12">
                     <div class="tp-step-section-box text-center mb-50">
@@ -471,11 +471,10 @@
 
                                             <div class="tp-step-text">
                                                 <h5 class="tp-step-title">
-                                                    Engineering
+                                                    Customer Requirements
                                                 </h5>
                                                 <p>
-                                                    Our experienced engineers develop customized wire harness solutions
-                                                    based on customer requirements and industry standards.
+                                                   We receive customer drawings, BOM, technical specifications and quality requirements for wire harness assembly.
                                                 </p>
                                             </div>
 
@@ -496,11 +495,10 @@
 
                                             <div class="tp-step-text">
                                                 <h5 class="tp-step-title">
-                                                    Planning
+                                                   Component Sourcing
                                                 </h5>
                                                 <p>
-                                                    Every project is carefully planned to ensure efficient resource
-                                                    utilization, timely production, and consistent quality.
+                                                   We source approved connectors, terminals, wires, cables and accessories from trusted manufacturers and authorized suppliers.
                                                 </p>
                                             </div>
                                             <div class="tp-step-number">
@@ -519,11 +517,10 @@
 
                                             <div class="tp-step-text">
                                               <h5 class="tp-step-title">
-    Component Sourcing
+  Wire Harness Assembly
 </h5>
                                                 <p>
-                                                    We procure premium-quality components from trusted suppliers to
-                                                    ensure product reliability and long-term performance.
+                                                   Precision wire cutting, stripping, crimping, soldering, taping, sleeving and connector assembly are carried out as per customer specifications.
                                                 </p>
                                             </div>
 
@@ -544,12 +541,10 @@
 
                                             <div class="tp-step-text">
                                                 <h5 class="tp-step-title">
-                                                    Manufacturing
+                                                   Testing & Inspection
                                                 </h5>
                                                 <p>
-                                                    Using advanced manufacturing techniques and stringent quality
-                                                    control processes, we produce precision-engineered wire harnesses
-                                                    and cable assemblies.
+                                                Every wire harness undergoes visual inspection, continuity testing and dimensional verification to ensure quality and reliability.
                                                 </p>
                                             </div>
 
@@ -570,11 +565,10 @@
 
                                             <div class="tp-step-text">
                                                 <h5 class="tp-step-title">
-                                                    Delivery
+                                                   Packing & Delivery
                                                 </h5>
                                                 <p>
-                                                    Products are delivered on schedule with secure packaging and
-                                                    thorough quality inspection to ensure customer satisfaction.
+                                                    Products are packed securely, labelled as per customer requirements and delivered on schedule.
                                                 </p>
                                             </div>
 
@@ -595,12 +589,10 @@
 
                                             <div class="tp-step-text">
                                                 <h5 class="tp-step-title">
-                                                   Customer Support
+                                                Customer Support
                                                 </h5>
                                                 <p>
-                                                    Our relationship with customers extends beyond delivery. We provide
-                                                    ongoing technical assistance and responsive after-sales support to
-                                                    ensure complete customer satisfaction.
+                                                  We provide responsive support for enquiries, repeat orders and ongoing customer requirements.
                                                 </p>
                                             </div>
 

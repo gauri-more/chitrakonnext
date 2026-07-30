@@ -1,5 +1,52 @@
 
 <?php include 'header.php'; ?>
+<style>
+    .tp-project-thumb {
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+
+.tp-project-thumb img {
+    width: 100%;
+    height: 300px;
+    object-fit: contain;
+    background: #f5f5f5;
+}
+.tp-project-thumb:hover img {
+    transform: scale(1.05);
+}
+#modalImage{
+    max-height:80vh;
+}
+
+.gallery-btn{
+    position:absolute;
+    top:50%;
+    transform:translateY(-50%);
+    width:45px;
+    height:45px;
+    border:none;
+    border-radius:50%;
+    background:#000;
+    color:#fff;
+    font-size:22px;
+    cursor:pointer;
+    z-index:999;
+}
+
+.prev-btn{
+    left:20px;
+}
+
+.next-btn{
+    right:20px;
+}
+
+#galleryImage{
+    max-height:80vh;
+}
+</style>
    <main>
 
       <!-- breadcrumb area start -->

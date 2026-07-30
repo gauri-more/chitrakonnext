@@ -51,7 +51,7 @@
             environments.
         </p>
 <div class="tp-about-button-box d-flex align-items-center">
-                           <a class="tp-btn-black" href="WireHarnessManufacturing.php"><span>KNOW MORE</span></a>
+                           <a class="tp-btn-black" href="wireharnessmanufacturing.php"><span>KNOW MORE</span></a>
                         </div>
 
     </div>
@@ -96,7 +96,7 @@
     appliance, and electronics use cases.
 </p>
 <div class="tp-about-button-box d-flex align-items-center">
-                           <a class="tp-btn-black" href="Componentssupply.php"><span>KNOW MORE</span></a>
+                           <a class="tp-btn-black" href="componentssupply.php"><span>KNOW MORE</span></a>
                         </div>
     </div>
 </div>

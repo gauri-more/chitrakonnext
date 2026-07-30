@@ -88,7 +88,7 @@
             </div>
             <div class="tpoffcanvas__logo">
                 <a href="index.php">
-                    <img src="assets/images/ckt-white-logo-new.png" alt="" loading="lazy">
+                    <img src="assets/images/ckt-white-logo-new.png" alt="Chaitra Konnex Technology Logo">
                 </a>
             </div>
             <div class="tpoffcanvas__title">
@@ -138,17 +138,19 @@
     </div>
     <div class="body-overlay"></div>
     <!-- tp-offcanvus-area-end -->
-
+<?php
+$currentPage = basename($_SERVER['PHP_SELF']);
+?>
     <header class="tp-header-height">
 
         <!-- header area start -->
-        <div id="header-sticky" class="tp-header-area">
+        <div id="header-sticky" class="tp-header-area ">
             <div class="container custom-container-1">
                 <div class="row align-items-center">
                     <div class="col-xxl-2 col-xl-2 col-lg-4 col-md-4 col-6">
                         <div class="tp-header-logo">
                             <a href="index.php">
-                                <img src="assets/images/ckt-logo.png" alt="CKT Logo" style="" loading="lazy">
+                                <img src="assets/images/ckt-logo.png" alt="CKT Chaitra Konnex Technology Logo" style="" loading="lazy">
                             </a>
                         </div>
                     </div>
@@ -157,41 +159,69 @@
                         <div class="tp-header-main-menu text-center">
                             <nav class="tp-main-menu-content">
                                 <ul>
-                                    <li><a href="index.php">Home</a></li>
+    <li>
+        <a href="index.php" class="<?= ($currentPage == 'index.php') ? 'active' : ''; ?>">Home</a>
+    </li>
 
-                                    <li><a href="about-us.php">About Us</a></li>
+    <li>
+        <a href="about-us.php" class="<?= ($currentPage == 'about-us.php') ? 'active' : ''; ?>">About Us</a>
+    </li>
 
+    <li class="has-dropdown">
+        <a href="product.php"
+           class="<?= in_array($currentPage, ['product.php','wireharnessmanufacturing.php','componentssupply.php']) ? 'active' : ''; ?>">
+            Products
+        </a>
 
-                                    <li class="has-dropdown"> <a href="product.php">Products</a>
-                                        <ul class="submenu tp-submenu">
-                                            <li><a href="WireHarnessManufacturing.php">Wire Harness Manufacturing </a>
-                                            </li>
-                                            <li><a href="Componentssupply.php">Components supply </a></li>
-                                        </ul>
-                                    </li>
+        <ul class="submenu tp-submenu">
+            <li><a href="wireharnessmanufacturing.php">Wire Harness Manufacturing</a></li>
+            <li><a href="componentssupply.php">Components Supply</a></li>
+        </ul>
+    </li>
 
-                                    <li class="has-dropdown"> <a href="industries.php">Industries</a>
-                                        <ul class="submenu tp-submenu">
-                                            <li><a href="MilitaryDefence.php">Military & Defence</a></li>
-                                            <li><a href="Automotive.php">Automotive</a></li>
-                                            <li><a href="ElectricVehicles.php">Electric Vehicles </a></li>
-                                            <li><a href="RenewableEnergy.php">Renewable Energy </a></li>
-                                            <li><a href="HomeAppliances.php">Home Appliances</a></li>
-                                            <li><a href="FarmAgriculturalEquipment.php">Farm & Agricultural
-                                                    Equipment</a></li>
-                                            <li><a href="IndustrialControlPanel.php">Industrial Control Panel Harness
-                                                    Solution </a></li>
-                                        </ul>
-                                    </li>
+    <li class="has-dropdown">
+        <a href="industries.php"
+           class="<?= in_array($currentPage, [
+               'industries.php',
+               'militarydefence.php',
+               'automotive.php',
+               'electricvehicles.php',
+               'renewableenergy.php',
+               'homeappliances.php',
+               'farmagriculturalequipment.php',
+               'industrialcontrolpanel.php'
+           ]) ? 'active' : ''; ?>">
+            Industries
+        </a>
 
+        <ul class="submenu tp-submenu">
+            <li><a href="militarydefence.php">Military & Defence</a></li>
+            <li><a href="automotive.php">Automotive</a></li>
+            <li><a href="electricvehicles.php">Electric Vehicles</a></li>
+            <li><a href="renewableenergy.php">Renewable Energy</a></li>
+            <li><a href="homeappliances.php">Home Appliances</a></li>
+            <li><a href="farmagriculturalequipment.php">Farm & Agricultural Equipment</a></li>
+            <li><a href="industrialcontrolpanel.php">Industrial Control Panel Harness Solution</a></li>
+        </ul>
+    </li>
 
-                                    <li><a href="gallery.php">Gallery</a></li>
+    <li>
+        <a href="gallery.php" class="<?= ($currentPage == 'gallery.php') ? 'active' : ''; ?>">Gallery</a>
+    </li>
 
-                                    <li><a href="certification.php">Certification</a></li>
-                                    <li><a href="Client.php">Clients</a></li>
+    <li>
+        <a href="certification.php" class="<?= ($currentPage == 'certification.php') ? 'active' : ''; ?>">Certification</a>
+    </li>
 
-                                    <li><a href="contact.php">Contact</a></li>
-                                </ul>
+    <li>
+        <a href="client.php" class="<?= ($currentPage == 'client.php') ? 'active' : ''; ?>">Clients</a>
+    </li>
+
+    <li>
+        <a href="contact.php" class="<?= ($currentPage == 'contact.php') ? 'active' : ''; ?>">Contact</a>
+    </li>
+</ul>
+
                             </nav>
                         </div>
                     </div>
@@ -221,6 +251,7 @@
             </div>
         </div>
         <!-- header area end -->
+        
     </header>
     <div class="modal fade" id="whatsappModal" tabindex="-1">
         <div class="modal-dialog modal-dialog-centered">

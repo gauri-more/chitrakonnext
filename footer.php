@@ -4,22 +4,27 @@
       <!-- footer area start -->
       <div class="tp-footer-area tp-footer-space p-relative z-index-3 black-bg">
          <div class="tp-footer-shape-1 d-none d-lg-block">
-            <img src="assets/img/footer/shape-1-1.png" alt="" loading="lazy">
+            <img src="assets/img/footer/shape-1-1.png" alt="shape-1-1" loading="lazy">
          </div>
          <div class="tp-footer-shape-2 d-none d-lg-block">
-            <img src="assets/img/footer/shape-1-2.png" alt="" loading="lazy">
+            <img src="assets/img/footer/shape-1-2.png" alt="shape-1-2" loading="lazy">
          </div>
          <div class="container">
             <div class="row">
                <div class="col-xl-5 col-lg-5 col-md-6 col-sm-6 mb-50 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-footer-widget footer-cols-1">
                      <div class="tp-footer-logo">
-                        <a href="index.php"><img src="assets/images/ckt-white-logo-new.png" alt="logo"  loading="lazy"></a>
+                        <a href="index.php"><img src="assets/images/ckt-white-logo-new.png" alt="Chaitra Konnex Technology Logo"></a>
                      </div>
                      <div class="tp-footer-text">
                       <p>
-CKT is a trusted manufacturer of premium wire harnesses, providing innovative connectivity solutions for automotive,
-industrial, and electrical applications. We are committed to delivering quality products with precision and on-time execution.
+Chaitra Konnex Technology is a trusted Wire Harness Assembly Manufacturer and
+multi-channel supplier of electrical and electronic components. We specialize
+in wire harness assemblies, pigtail harnesses, custom cable assemblies, connectors, 
+terminals, wires, cables, and related accessories. Through our strong sourcing and procurement network, 
+we deliver quality products and reliable solutions for defence, automotive,
+industrial, solar, home appliance, and other applications. With a commitment 
+to quality, precision, and customer satisfaction, we help bring your ideas to life.
 </p>
                      </div>
                      <div class="tp-footer-contact">
@@ -43,7 +48,7 @@ industrial, and electrical applications. We are committed to delivering quality 
                              <li><a href="product.php"><i class="fa-sharp fa-solid fa-plus"></i>Products</a></li>
                            <li><a href="gallery.php"><i class="fa-sharp fa-solid fa-plus"></i>Gallery</a></li>
                            <li><a href="certification.php"><i class="fa-sharp fa-solid fa-plus"></i> Certification</a></li>
-                           <li><a href="Client.php"><i class="fa-sharp fa-solid fa-plus"></i>Clients</a></li>
+                           <li><a href="client.php"><i class="fa-sharp fa-solid fa-plus"></i>Clients</a></li>
                            <li><a href="contact.php"><i class="fa-sharp fa-solid fa-plus"></i>Contact</a></li>
                         
                         </ul>
@@ -55,13 +60,13 @@ industrial, and electrical applications. We are committed to delivering quality 
                      <h4 class="tp-footer-title">Industries</h4>
                      <div class="tp-footer-list">
                         <ul>
-                           <li><a href="MilitaryDefence.php"><i class="fa-sharp fa-solid fa-plus"></i>Military & Defence</a></li>
-                           <li><a href="Automotive.php"><i class="fa-sharp fa-solid fa-plus"></i>Automotive</a></li>
-                            <li><a href="ElectricVehicles.php"><i class="fa-sharp fa-solid fa-plus"></i>Electric Vehicles</a></li>
-                           <li><a href="RenewableEnergy.php"><i class="fa-sharp fa-solid fa-plus"></i>Renewable Energy</a></li>
-                          <li><a href="HomeAppliances.php"><i class="fa-sharp fa-solid fa-plus"></i>Home Appliances</a></li>
-                           <li><a href="FarmAgriculturalEquipment.php"><i class="fa-sharp fa-solid fa-plus"></i>Farm & Agricultural Equipment</a></li>
-                           <li><a href="IndustrialControlPanel.php"><i class="fa-sharp fa-solid fa-plus"></i>Industrial Control Panel Harness Solution</a></li>
+                           <li><a href="militarydefence.php"><i class="fa-sharp fa-solid fa-plus"></i>Military & Defence</a></li>
+                           <li><a href="automotive.php"><i class="fa-sharp fa-solid fa-plus"></i>Automotive</a></li>
+                            <li><a href="electricvehicles.php"><i class="fa-sharp fa-solid fa-plus"></i>Electric Vehicles</a></li>
+                           <li><a href="renewableenergy.php"><i class="fa-sharp fa-solid fa-plus"></i>Renewable Energy</a></li>
+                          <li><a href="homeappliances.php"><i class="fa-sharp fa-solid fa-plus"></i>Home Appliances</a></li>
+                           <li><a href="farmagriculturalequipment.php"><i class="fa-sharp fa-solid fa-plus"></i>Farm & Agricultural Equipment</a></li>
+                           <li><a href="industrialcontrolpanel.php"><i class="fa-sharp fa-solid fa-plus"></i>Industrial Control Panel Harness Solution</a></li>
                         </ul>
                      </div>
                   </div>
@@ -77,7 +82,9 @@ industrial, and electrical applications. We are committed to delivering quality 
             <div class="row align-items-center">
                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                   <div class="tp-copyright-left text-center text-md-start">
-               <p style="color: #ccc;">© Copyright <?php echo date('Y'); ?> Chaitra Konnex Technology (CKT). All Rights Reserved.</p>
+           <p class="mb-0 text-light">
+    &copy; Copyright <?php echo date('Y'); ?> Chaitra Konnex Technology (CKT). All Rights Reserved.
+</p>
                   </div>
                </div>
                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
@@ -97,7 +104,7 @@ industrial, and electrical applications. We are committed to delivering quality 
       <!-- copy-right area end -->
 
    </footer>
-   <script>
+ <script>
 
 const nameInput = document.getElementById("name");
 const mobileInput = document.getElementById("mobile");

@@ -1,6 +1,32 @@
 <?php include 'header.php'; ?>
 
+<style>
+/*    .tp-brand-6-item img {*/
+/*    height: 100px;*/
+/*}*/
+.tp-brand-6-slide-active .swiper-wrapper{
+    transition-timing-function: linear !important;
+}
 
+.tp-brand-6-slide-active .swiper-slide{
+    width:180px !important;
+}
+
+.tp-brand-6-item{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:110px;
+}
+
+.tp-brand-6-item img{
+    max-width:150px;
+    max-height:80px;
+    width:auto;
+    height:auto;
+    object-fit:contain;
+}
+</style>
    <main>
 
       <!-- breadcrumb area start -->
@@ -41,19 +67,19 @@
              <!-- Original -->
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <img src="assets/images/brand/drdo-logo.jpg" alt="DRDO" loading="lazy">
+        <img src="assets/images/brand/drdo.jpg" alt="DRDO" loading="lazy">
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <img src="assets/images/brand/ecozen-logo.jpg" alt="Ecozen" loading="lazy">
+        <img src="assets/images/brand/ecozen_solution.jpg" alt="Ecozen" loading="lazy">
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <img src="assets/images/brand/suzuki-logo.jpg" alt="Suzuki" loading="lazy">
+        <img src="assets/images/brand/sujuki.jpg" alt="Suzuki" loading="lazy">
     </div>
 </div>
 
@@ -76,10 +102,50 @@
 </div>
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <img src="assets/images/brand/john-dere-logo.jpg" alt="John Deere" loading="lazy">
+        <img src="assets/images/brand/johnDere.jpg" alt="John Deere" loading="lazy">
     </div>
 </div>
 
+<div class="swiper-slide">
+    <div class="tp-brand-6-item">
+        <img src="assets/images/brand/drdo.jpg" alt="DRDO" loading="lazy">
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="tp-brand-6-item">
+        <img src="assets/images/brand/ecozen_solution.jpg" alt="Ecozen" loading="lazy">
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="tp-brand-6-item">
+        <img src="assets/images/brand/sujuki.jpg" alt="Suzuki" loading="lazy">
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="tp-brand-6-item">
+        <img src="assets/images/brand/mahindra-logo.jpg" alt="Mahindra" loading="lazy">
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="tp-brand-6-item">
+        <img src="assets/images/brand/tataMotors-logo.jpg" alt="Tata Motors" loading="lazy">
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="tp-brand-6-item">
+        <img src="assets/images/brand/bajaj-logo.jpg" alt="Bajaj" loading="lazy">
+    </div>
+</div>
+<div class="swiper-slide">
+    <div class="tp-brand-6-item">
+        <img src="assets/images/brand/johnDere.jpg" alt="John Deere" loading="lazy">
+    </div>
+</div>
 
 
                      </div>
@@ -106,13 +172,48 @@
              <!-- Original -->
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <img src="assets/images/brand/drdo-logo.jpg" alt="DRDO" loading="lazy">
+        <img src="assets/images/brand/drdo.jpg" alt="DRDO" loading="lazy">
     </div>
 </div>
 
 <div class="swiper-slide">
     <div class="tp-brand-6-item">
-        <img src="assets/images/brand/ecozen-logo.jpg" alt="Ecozen" loading="lazy">
+        <img src="assets/images/brand/ecozen_solution.jpg" alt="Ecozen" loading="lazy">
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="tp-brand-6-item">
+        <img src="assets/images/brand/spark-india.jpg" alt="Spark India" loading="lazy">
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="tp-brand-6-item">
+        <img src="assets/images/brand/tm-automotive.jpg" alt="TM Automotive" loading="lazy">
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="tp-brand-6-item">
+        <img src="assets/images/brand/varroc.jpg" alt="Varroc" loading="lazy">
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="tp-brand-6-item">
+        <img src="assets/images/brand/sensing.jpg" alt="Sensing" loading="lazy">
+    </div>
+</div>
+<div class="swiper-slide">
+    <div class="tp-brand-6-item">
+        <img src="assets/images/brand/drdo.jpg" alt="DRDO" loading="lazy">
+    </div>
+</div>
+
+<div class="swiper-slide">
+    <div class="tp-brand-6-item">
+        <img src="assets/images/brand/ecozen_solution.jpg" alt="Ecozen" loading="lazy">
     </div>
 </div>
 
@@ -154,10 +255,10 @@
       <!-- funfact area  start -->
       <div class="tp-funfact-area fix p-relative grey-bg pt-60 pb-65 ">
          <div class="tp-funfact-shape-1">
-            <img src="assets/img/funfact/shape-1-1.png" alt="" loading="lazy">
+            <img src="assets/img/funfact/shape-1-1.png" alt="shape" loading="lazy">
          </div>
          <div class="tp-funfact-shape-2 d-none d-xl-block">
-             <img src="assets/img/funfact/shape-1-1.png" alt="" loading="lazy">
+             <img src="assets/img/funfact/shape-1-1.png" alt="shape" loading="lazy">
          </div>
          <div class="container">
             <div class="row">

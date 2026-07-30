@@ -57,52 +57,7 @@
                 </div>
 
             </div>
-            <!-- Applications -->
-            <div class="row mb-50">
-                <div class="col-lg-8 mx-auto">
-                    <div class="tp-section-title-wrapper text-center mb-60">
-                        <span class="tp-section-subtitle">Applications</span>
-                        <h2 class="tp-section-title">Where Our Wire Harnesses Are Used</h2>
-                        <p>Our wire harness assemblies are engineered to perform reliably across a wide range of
-                            demanding applications.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="tp-feature-6-item text-center">
-                        <span class="tp-feature-6-icon mb-25 d-inline-block"><i class="fas fa-car"></i></span>
-                        <h3 class="tp-feature-6-title">Automotive &amp; EV</h3>
-                        <p>Wiring harnesses for engine bays, dashboards, lighting, and EV battery/motor systems.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="tp-feature-6-item text-center">
-                        <span class="tp-feature-6-icon mb-25 d-inline-block"><i class="fas fa-industry"></i></span>
-                        <h3 class="tp-feature-6-title">Industrial Equipment</h3>
-                        <p>Rugged harnesses for control panels, automation systems, and heavy machinery.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="tp-feature-6-item text-center">
-                        <span class="tp-feature-6-icon mb-25 d-inline-block"><i class="fas fa-solar-panel"></i></span>
-                        <h3 class="tp-feature-6-title">Renewable Energy</h3>
-                        <p>Solar and wind energy systems requiring durable, weather-resistant wiring solutions.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="tp-feature-6-item text-center">
-                        <span class="tp-feature-6-icon mb-25 d-inline-block"><i class="fas fa-blender"></i></span>
-                        <h3 class="tp-feature-6-title">Home Appliances</h3>
-                        <p>Safe, compact wiring for refrigerators, washing machines, and other household devices.</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 mb-30">
-                    <div class="tp-feature-6-item text-center">
-                        <span class="tp-feature-6-icon mb-25 d-inline-block"><i class="fas fa-lightbulb"></i></span>
-                        <h3 class="tp-feature-6-title">Electronics &amp; Lighting</h3>
-                        <p>Precision harnesses for electronic assemblies, LED lighting, and PCB connections.</p>
-                    </div>
-                </div>
-            </div>
+          
         </div>
     </section>
     <!-- project area start -->
@@ -129,11 +84,11 @@
                                 <div class="tp-blog-3-thumb p-relative">
                                     <img src="assets/images/defence-wire11.jpg" alt="Defence wire harness" loading="lazy">
                                     <div class="tp-blog-3-icon">
-                                        <a href="DefenceWireHarness.php"><i class="flaticon-right-arrow"></i></a>
+                                        <a href="defencewireharness.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
                                 </div>
                                 <div class="tp-blog-3-content text-center z-index">
-                                    <h4 class="tp-blog-3-title"><a href="DefenceWireHarness.php">Defence Wire
+                                    <h4 class="tp-blog-3-title"><a href="defencewireharness.php">Defence Wire
                                             Harness</a></h4>
                                 </div>
                             </div>
@@ -145,11 +100,11 @@
                                 <div class="tp-blog-3-thumb p-relative">
                                     <img src="assets/images/automot-pigtail-harness.jpeg" alt="Automotive" loading="lazy">
                                     <div class="tp-blog-3-icon">
-                                        <a href="AutomotivePigtailHarness.php"><i class="flaticon-right-arrow"></i></a>
+                                        <a href="automotivepigtailharness.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
                                 </div>
                                 <div class="tp-blog-3-content text-center z-index">
-                                    <h4 class="tp-blog-3-title"><a href="AutomotivePigtailHarness.php">Automotive
+                                    <h4 class="tp-blog-3-title"><a href="automotivepigtailharness.php">Automotive
                                             Pigtail Harness</a></h4>
                                 </div>
                             </div>
@@ -161,11 +116,11 @@
                                 <div class="tp-blog-3-thumb p-relative">
                                     <img src="assets/images/ev-carg-harness.jpg" alt="el-lv and hv harness" loading="lazy">
                                     <div class="tp-blog-3-icon">
-                                        <a href="EV-LV-HVHarness.php"><i class="flaticon-right-arrow"></i></a>
+                                        <a href="evlvhvharness.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
                                 </div>
                                 <div class="tp-blog-3-content text-center z-index">
-                                    <h4 class="tp-blog-3-title"><a href="EV-LV-HVHarness.php">EV-LV & HV Harness </a>
+                                    <h4 class="tp-blog-3-title"><a href="evlvhvharness.php">EV-LV & HV Harness </a>
                                     </h4>
                                 </div>
                             </div>
@@ -177,11 +132,11 @@
                                 <div class="tp-blog-3-thumb p-relative">
                                     <img src="assets/images/battery-wire-harness.png" alt="battery Harnes " loading="lazy">
                                     <div class="tp-blog-3-icon">
-                                        <a href="BatteryHarness.php"><i class="flaticon-right-arrow"></i></a>
+                                        <a href="batteryharness.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
                                 </div>
                                 <div class="tp-blog-3-content text-center z-index">
-                                    <h4 class="tp-blog-3-title"><a href="BatteryHarness.php">Battery Harness</a></h4>
+                                    <h4 class="tp-blog-3-title"><a href="batteryharness.php">Battery Harness</a></h4>
                                 </div>
                             </div>
                         </div>
@@ -192,11 +147,11 @@
                                 <div class="tp-blog-3-thumb p-relative">
                                     <img src="assets/images/pcb-wire-harness.png" alt="pcb wire harness" loading="lazy">
                                     <div class="tp-blog-3-icon">
-                                        <a href="PCBWireHarness.php"><i class="flaticon-right-arrow"></i></a>
+                                        <a href="pcbwireharness.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
                                 </div>
                                 <div class="tp-blog-3-content text-center z-index">
-                                    <h4 class="tp-blog-3-title"><a href="PCBWireHarness.php">PCB Wire Harness</a></h4>
+                                    <h4 class="tp-blog-3-title"><a href="pcbwireharness.php">PCB Wire Harness</a></h4>
                                 </div>
                             </div>
                         </div>
@@ -207,11 +162,11 @@
                                 <div class="tp-blog-3-thumb p-relative">
                                     <img src="assets/images/power-harness.jpg" alt="power harness" loading="lazy">
                                     <div class="tp-blog-3-icon">
-                                        <a href="PowerHarness.php"><i class="flaticon-right-arrow"></i></a>
+                                        <a href="powerharness.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
                                 </div>
                                 <div class="tp-blog-3-content text-center z-index">
-                                    <h4 class="tp-blog-3-title"><a href="PowerHarness.php">Power Harness</a></h4>
+                                    <h4 class="tp-blog-3-title"><a href="powerharness.php">Power Harness</a></h4>
                                 </div>
                             </div>
                         </div>
@@ -222,11 +177,11 @@
                                 <div class="tp-blog-3-thumb p-relative">
                                     <img src="assets/images/panel-wire-harness.avif" alt="panel wiring harness" loading="lazy">
                                     <div class="tp-blog-3-icon">
-                                        <a href="PanelWiringHarness.php"><i class="flaticon-right-arrow"></i></a>
+                                        <a href="panelwiringharness.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
                                 </div>
                                 <div class="tp-blog-3-content text-center z-index">
-                                    <h4 class="tp-blog-3-title"><a href="PanelWiringHarness.php">Panel Wiring Harness
+                                    <h4 class="tp-blog-3-title"><a href="panelwiringharness.php">Panel Wiring Harness
                                         </a></h4>
                                 </div>
                             </div>
@@ -238,11 +193,11 @@
                                 <div class="tp-blog-3-thumb p-relative">
                                     <img src="assets/images/solar-wire-harness.jpg" alt="solar and control panel" loading="lazy">
                                     <div class="tp-blog-3-icon">
-                                        <a href="SolarControlPanelHarness.php"><i class="flaticon-right-arrow"></i></a>
+                                        <a href="solarcontrolpanelharness.php"><i class="flaticon-right-arrow"></i></a>
                                     </div>
                                 </div>
                                 <div class="tp-blog-3-content text-center z-index">
-                                    <h4 class="tp-blog-3-title"><a href="SolarControlPanelHarness.php"> Solar & Control
+                                    <h4 class="tp-blog-3-title"><a href="solarcontrolpanelharness.php"> Solar & Control
                                             Panel Harness </a></h4>
                                 </div>
                             </div>
@@ -254,12 +209,12 @@
                                 <div class="tp-blog-3-thumb p-relative">
                                     <img src="assets/images/electromechanical-wire-harness.png" alt="electrochemical assembly" loading="lazy">
                                     <div class="tp-blog-3-icon">
-                                        <a href="ElectroMechanicalAssembely.php"><i
+                                        <a href="electromechanicalassembly.php"><i
                                                 class="flaticon-right-arrow"></i></a>
                                     </div>
                                 </div>
                                 <div class="tp-blog-3-content text-center z-index">
-                                    <h4 class="tp-blog-3-title"><a href="ElectroMechanicalAssembely.php">
+                                    <h4 class="tp-blog-3-title"><a href="electromechanicalassembly.php">
                                             Electro-mechanical Assembly</a></h4>
                                 </div>
                             </div>
@@ -274,9 +229,9 @@
         <div class="container-fluid container-1580">
             <div class="row">
                 <div class="col-12 text-center mb-50">
-                    <span class="tp-section-subtitle" style="font-size:24px;">Trusted GlobaL Brands</span>
-                    <p>Proudly serving leading companies across diverse industries with reliable wire harness and
-                        interconnect solutions.</p>
+                    <span class="tp-section-subtitle" style="font-size:24px;">Trusted Global Brands</span>
+                    <!--<p>Proudly serving leading companies across diverse industries with reliable wire harness and-->
+                    <!--    interconnect solutions.</p>-->
                 </div>
             </div>
             <!-- Row 1 -->
